@@ -1,0 +1,9 @@
+Change Component Designator: OldDesignator=L? NewDesignator=L6
+Add Pin To Net: Unknown Pin: Pin TP1-1
+Add Pin To Net: Unknown Pin: Pin TP2-1
+Add Pin To Net: Unknown Pin: Pin TP3-1
+Add Pin To Net: Unknown Pin: Pin TP4-1
+Add Class Member: Failed to add class member : Component TP1 testpoint
+Add Class Member: Failed to add class member : Component TP2 testpoint
+Add Class Member: Failed to add class member : Component TP3 testpoint
+Add Class Member: Failed to add class member : Component TP4 testpoint

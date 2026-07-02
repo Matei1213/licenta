@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="F:/facultate/licenta/fog_scratch2/vivado/fog_rectification.hw/hw_1/wave/hw_ila_data_1/hw_ila_data_1.wdb" id="1">
+         <top_modules>
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0"></ZoomStartTime>
+      <ZoomEndTime time="10"></ZoomEndTime>
+      <Cursor1Time time="0"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="137"></NameColumnWidth>
+      <ValueColumnWidth column_width="58"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="8" />
+   <wvobject fp_name="design_1_wrapper_i/design_1_i/system_ila_0/inst/probe0" type="array">
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="ElementShortName">design_1_wrapper_i/design_1_i/system_ila_0/inst/probe0[31:0]</obj_property>
+      <obj_property name="ObjectShortName">probe0[31:0]</obj_property>
+      <obj_property name="label">pixel_counter_0_hsync_cnt</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="design_1_wrapper_i/design_1_i/system_ila_0/inst/probe1" type="array">
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="ElementShortName">design_1_wrapper_i/design_1_i/system_ila_0/inst/probe1[31:0]</obj_property>
+      <obj_property name="ObjectShortName">probe1[31:0]</obj_property>
+      <obj_property name="label">pixel_counter_0_vsync_cnt</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="design_1_wrapper_i/design_1_i/system_ila_0/inst/probe2" type="array">
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="ElementShortName">design_1_wrapper_i/design_1_i/system_ila_0/inst/probe2[31:0]</obj_property>
+      <obj_property name="ObjectShortName">probe2[31:0]</obj_property>
+      <obj_property name="label">pixel_counter_0_tuser_cnt</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="design_1_wrapper_i/design_1_i/system_ila_0/inst/probe3" type="array">
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="ElementShortName">design_1_wrapper_i/design_1_i/system_ila_0/inst/probe3[0:0]</obj_property>
+      <obj_property name="ObjectShortName">probe3[0:0]</obj_property>
+      <obj_property name="label">pixel_counter_0_flag</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="design_1_wrapper_i/design_1_i/system_ila_0/inst/net_slot_0_axis_tdata" type="array">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">design_1_wrapper_i/design_1_i/system_ila_0/inst/net_slot_0_axis_tdata[7:0]</obj_property>
+      <obj_property name="ObjectShortName">net_slot_0_axis_tdata[7:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="design_1_wrapper_i/design_1_i/system_ila_0/inst/net_slot_0_axis_tvalid" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">design_1_wrapper_i/design_1_i/system_ila_0/inst/net_slot_0_axis_tvalid</obj_property>
+      <obj_property name="ObjectShortName">net_slot_0_axis_tvalid</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="design_1_wrapper_i/design_1_i/system_ila_0/inst/net_slot_0_axis_tready" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">design_1_wrapper_i/design_1_i/system_ila_0/inst/net_slot_0_axis_tready</obj_property>
+      <obj_property name="ObjectShortName">net_slot_0_axis_tready</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="design_1_wrapper_i/design_1_i/system_ila_0/inst/net_slot_0_axis_tlast" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">design_1_wrapper_i/design_1_i/system_ila_0/inst/net_slot_0_axis_tlast</obj_property>
+      <obj_property name="ObjectShortName">net_slot_0_axis_tlast</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+</wave_config>

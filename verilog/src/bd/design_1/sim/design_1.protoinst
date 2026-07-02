@@ -1,0 +1,92 @@
+{
+	"version": "1.0",
+	"modules": {
+		"design_1": {
+			"proto_instances": {
+				"/AXI_BayerToRGB_0/AXI_Slave_Interface": {
+					"interface": "xilinx.com:interface:axis:1.0",
+					"ports": {
+						"ACLK": { "actual": "StreamClk"},
+						"TDATA": { "actual": "s_axis_video_tdata[39:0]"},
+						"TLAST": { "actual": "s_axis_video_tlast"},
+						"TREADY": { "actual": "s_axis_video_tready"},
+						"TUSER": { "actual": "s_axis_video_tuser"},
+						"TVALID": { "actual": "s_axis_video_tvalid"}
+					}
+				},
+				"/AXI_BayerToRGB_0/AXI_Stream_Master": {
+					"interface": "xilinx.com:interface:axis:1.0",
+					"ports": {
+						"ACLK": { "actual": "StreamClk"},
+						"TDATA": { "actual": "m_axis_video_tdata[31:0]"},
+						"TLAST": { "actual": "m_axis_video_tlast"},
+						"TREADY": { "actual": "m_axis_video_tready"},
+						"TUSER": { "actual": "m_axis_video_tuser"},
+						"TVALID": { "actual": "m_axis_video_tvalid"}
+					}
+				},
+				"/axis_subset_converter_0/M_AXIS": {
+					"interface": "xilinx.com:interface:axis:1.0",
+					"ports": {
+						"ACLK": { "actual": "aclk"},
+						"ARESETN": { "actual": "aresetn"},
+						"TDATA": { "actual": "m_axis_tdata[15:0]"},
+						"TLAST": { "actual": "m_axis_tlast"},
+						"TREADY": { "actual": "m_axis_tready"},
+						"TUSER": { "actual": "m_axis_tuser[0:0]"},
+						"TVALID": { "actual": "m_axis_tvalid"}
+					}
+				},
+				"/axis_subset_converter_0/S_AXIS": {
+					"interface": "xilinx.com:interface:axis:1.0",
+					"ports": {
+						"ACLK": { "actual": "aclk"},
+						"ARESETN": { "actual": "aresetn"},
+						"TDATA": { "actual": "s_axis_tdata[31:0]"},
+						"TLAST": { "actual": "s_axis_tlast"},
+						"TREADY": { "actual": "s_axis_tready"},
+						"TUSER": { "actual": "s_axis_tuser[0:0]"},
+						"TVALID": { "actual": "s_axis_tvalid"}
+					}
+				},
+				"/mipi_csi2_rx_subsystem_0/video_out": {
+					"interface": "xilinx.com:interface:axis:1.0",
+					"ports": {
+						"ACLK": { "actual": "video_aclk"},
+						"ARESETN": { "actual": "video_aresetn"},
+						"TDATA": { "actual": "video_out_tdata[39:0]"},
+						"TDEST": { "actual": "video_out_tdest[9:0]"},
+						"TLAST": { "actual": "video_out_tlast"},
+						"TREADY": { "actual": "video_out_tready"},
+						"TUSER": { "actual": "video_out_tuser[0:0]"},
+						"TVALID": { "actual": "video_out_tvalid"}
+					}
+				},
+				"/pixel_counter_0/m_axis": {
+					"interface": "xilinx.com:interface:axis:1.0",
+					"ports": {
+						"ACLK": { "actual": "aclk"},
+						"ARESETN": { "actual": "aresetn"},
+						"TDATA": { "actual": "m_axis_tdata[39:0]"},
+						"TLAST": { "actual": "m_axis_tlast"},
+						"TREADY": { "actual": "m_axis_tready"},
+						"TUSER": { "actual": "m_axis_tuser"},
+						"TVALID": { "actual": "m_axis_tvalid"}
+					}
+				},
+				"/pixel_counter_0/s_axis": {
+					"interface": "xilinx.com:interface:axis:1.0",
+					"ports": {
+						"ACLK": { "actual": "aclk"},
+						"ARESETN": { "actual": "aresetn"},
+						"TDATA": { "actual": "s_axis_tdata[39:0]"},
+						"TLAST": { "actual": "s_axis_tlast"},
+						"TREADY": { "actual": "s_axis_tready"},
+						"TUSER": { "actual": "s_axis_tuser"},
+						"TVALID": { "actual": "s_axis_tvalid"}
+					}
+				}
+			}
+		}
+	}
+}

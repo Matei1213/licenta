@@ -1,0 +1,21 @@
+
+*** Running vivado
+    with args -log video_pll.vds -m64 -product Vivado -mode batch -messageDb vivado.pb -notrace -source video_pll.tcl
+
+
+
+****** Vivado v2025.2 (64-bit)
+  **** SW Build 6299465 on Fri Nov 14 19:35:11 GMT 2025
+  **** IP Build 6300035 on Fri Nov 14 10:48:45 MST 2025
+  **** SharedData Build 6298862 on Thu Nov 13 04:50:51 MST 2025
+  **** Start of session at: Sat May 23 14:24:48 2026
+    ** Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+    ** Copyright 2022-2025 Advanced Micro Devices, Inc. All Rights Reserved.
+
+source video_pll.tcl -notrace
+create_project: Time (s): cpu = 00:00:18 ; elapsed = 00:00:12 . Memory (MB): peak = 524.992 ; gain = 219.020
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1700] Loaded user IP repository 'f:/facultate/licenta/fog_scratch2/vivado-library-master/vivado-library-master'.
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'F:/AMDDesignTools/2025.2/Vivado/data/ip'.
+INFO: [IP_Flow 19-4838] Using cached IP synthesis design for IP video_pll, cache-ID = 8786d0137e567221.
+INFO: [Common 17-206] Exiting Vivado at Sat May 23 14:25:09 2026...

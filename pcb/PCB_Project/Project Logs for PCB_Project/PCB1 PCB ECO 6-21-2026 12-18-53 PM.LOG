@@ -1,0 +1,12 @@
+Add Pin To Net: Unknown Pin: Pin TP1-1
+Add Pin To Net: Unknown Pin: Pin TP2-1
+Add Pin To Net: Unknown Pin: Pin TP3-1
+Add Pin To Net: Unknown Pin: Pin TP4-1
+Added Pin To Net: NetName=FPGA_GCLK Pin=R4-2
+Added Pin To Net: NetName=FPGA_GCLK Pin=U1-L12
+Added Net: Name=FPGA_GCLK
+Add Class Member: Failed to add class member : Component TP1 testpoint
+Add Class Member: Failed to add class member : Component TP2 testpoint
+Add Class Member: Failed to add class member : Component TP3 testpoint
+Add Class Member: Failed to add class member : Component TP4 testpoint
+Added Member To Class: ClassName=RAM Member=Component U4 MT41J128M16HA-125

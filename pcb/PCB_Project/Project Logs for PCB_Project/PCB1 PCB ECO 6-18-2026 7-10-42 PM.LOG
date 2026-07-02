@@ -1,0 +1,2037 @@
+Added Component: Designator=C1(FP-GR442Q-0_3-MFG)
+Add component (AddParameter): Name = "Cap"; Value = "0.1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C2(FP-GR442Q-0_3-MFG)
+Add component (AddParameter): Name = "cap"; Value = "4.7uF"; VariantName = "[No Variations]"
+Added Component: Designator=C3(FP-GR442Q-0_3-MFG)
+Add component (AddParameter): Name = "Cap"; Value = "0.1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C4(FP-GR442Q-0_3-MFG)
+Add component (AddParameter): Name = "cap"; Value = "470nF"; VariantName = "[No Variations]"
+Added Component: Designator=C5(FP-GR442Q-0_3-MFG)
+Add component (AddParameter): Name = "Cap"; Value = "0.1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C6(FP-GR442Q-0_3-MFG)
+Add component (AddParameter): Name = "Cap"; Value = "0.1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C7(FP-GR442Q-0_3-MFG)
+Add component (AddParameter): Name = "cap"; Value = "0.01uF"; VariantName = "[No Variations]"
+Added Component: Designator=C8(FP-GR442Q-0_3-MFG)
+Add component (AddParameter): Name = "cap"; Value = "0.01uF"; VariantName = "[No Variations]"
+Added Component: Designator=C9(FP-GR442Q-0_3-MFG)
+Add component (AddParameter): Name = "cap"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C10(FP-GR442Q-0_3-MFG)
+Add component (AddParameter): Name = "cap"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C11(FP-GR442Q-0_3-MFG)
+Add component (AddParameter): Name = "cap"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C12(FP-GR442Q-0_3-MFG)
+Add component (AddParameter): Name = "cap"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C13(FP-GR442Q-0_3-MFG)
+Add component (AddParameter): Name = "cap"; Value = "0.1uF/25V"; VariantName = "[No Variations]"
+Added Component: Designator=C14(FP-GR442Q-0_3-MFG)
+Add component (AddParameter): Name = "cap"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C15(FP-GR442Q-0_3-MFG)
+Add component (AddParameter): Name = "cap"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C16(FP-GR442Q-0_3-MFG)
+Add component (AddParameter): Name = "cap"; Value = "0.1uF/25V"; VariantName = "[No Variations]"
+Added Component: Designator=C17(FP-GR442Q-0_3-MFG)
+Add component (AddParameter): Name = "cap"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=C18(FP-GR442Q-0_3-MFG)
+Add component (AddParameter): Name = "cap"; Value = "150pF"; VariantName = "[No Variations]"
+Added Component: Designator=C19(FP-GR442Q-0_3-MFG)
+Add component (AddParameter): Name = "cap"; Value = "150pF"; VariantName = "[No Variations]"
+Added Component: Designator=C20(FP-GR442Q-0_3-MFG)
+Add component (AddParameter): Name = "Cap"; Value = "0.1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C21(FP-GR442Q-0_3-MFG)
+Add component (AddParameter): Name = "cap"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=C22(FP-GR442Q-0_3-MFG)
+Add component (AddParameter): Name = "Cap"; Value = "0.1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C23(FP-GR442Q-0_3-MFG)
+Add component (AddParameter): Name = "cap"; Value = "0.01uF"; VariantName = "[No Variations]"
+Added Component: Designator=C24(FP-GR442Q-0_3-MFG)
+Add component (AddParameter): Name = "cap"; Value = "0.01uF"; VariantName = "[No Variations]"
+Added Component: Designator=C25(FP-GR442Q-0_3-MFG)
+Add component (AddParameter): Name = "cap"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C26(FP-GR442Q-0_3-MFG)
+Add component (AddParameter): Name = "cap"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C27(FP-GR442Q-0_3-MFG)
+Add component (AddParameter): Name = "cap"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C28(FP-GR442Q-0_3-MFG)
+Add component (AddParameter): Name = "cap"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C29(FP-GR442Q-0_3-MFG)
+Add component (AddParameter): Name = "cap"; Value = "0.1uF/25V"; VariantName = "[No Variations]"
+Added Component: Designator=C30(FP-GR442Q-0_3-MFG)
+Add component (AddParameter): Name = "cap"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C31(FP-GR442Q-0_3-MFG)
+Add component (AddParameter): Name = "cap"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C32(FP-GR442Q-0_3-MFG)
+Add component (AddParameter): Name = "cap"; Value = "0.1uF/25V"; VariantName = "[No Variations]"
+Added Component: Designator=C33(FP-GR442Q-0_3-MFG)
+Add component (AddParameter): Name = "cap"; Value = "150pF"; VariantName = "[No Variations]"
+Added Component: Designator=C34(FP-GR442Q-0_3-MFG)
+Add component (AddParameter): Name = "cap"; Value = "150pF"; VariantName = "[No Variations]"
+Added Component: Designator=C35(FP-GR442Q-0_3-MFG)
+Add component (AddParameter): Name = "cap"; Value = "NC"; VariantName = "[No Variations]"
+Added Component: Designator=C36(FP-GR442Q-0_3-MFG)
+Add component (AddParameter): Name = "cap"; Value = "NC"; VariantName = "[No Variations]"
+Added Component: Designator=C100(FP-GR442Q-0_3-MFG)
+Add component (AddParameter): Name = "Cap"; Value = "0.1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C115(FP-GR442Q-0_3-MFG)
+Add component (AddParameter): Name = "cap"; Value = "0.01uF"; VariantName = "[No Variations]"
+Added Component: Designator=C121(FP-GR442Q-0_3-MFG)
+Add component (AddParameter): Name = "cap"; Value = "4.7uF"; VariantName = "[No Variations]"
+Added Component: Designator=C125(FP-GR442Q-0_3-MFG)
+Add component (AddParameter): Name = "Cap"; Value = "0.1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C126(FP-GR442Q-0_3-MFG)
+Add component (AddParameter): Name = "cap"; Value = "4.7uF"; VariantName = "[No Variations]"
+Added Component: Designator=C127(FP-GR442Q-0_3-MFG)
+Add component (AddParameter): Name = "cap"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=C128(FP-GR442Q-0_3-MFG)
+Add component (AddParameter): Name = "cap"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=C129(FP-GR442Q-0_3-MFG)
+Add component (AddParameter): Name = "cap"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=C130(FP-GR442Q-0_3-MFG)
+Add component (AddParameter): Name = "cap"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=C131(FP-GR442Q-0_3-MFG)
+Add component (AddParameter): Name = "cap"; Value = "4.7uF"; VariantName = "[No Variations]"
+Added Component: Designator=C190(FP-GR442Q-0_3-MFG)
+Add component (AddParameter): Name = "Cap"; Value = "0.1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C191(FP-GR442Q-0_3-MFG)
+Add component (AddParameter): Name = "Cap"; Value = "0.1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=CN1(694106402002)
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Power"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Gender"; Value = "Female"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Flammability Rating"; Value = "UL94 V-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "14.3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "Polyamide"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Resistance"; Value = "100MO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Voltage"; Value = "20V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shielding"; Value = "Unshielded"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "30V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "20V"; VariantName = "[No Variations]"
+Added Component: Designator=D2(ONSC-SOD-523-2-502-01_V)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.onsemi.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.onsemi.com/pub_link/Collateral/BAS16XV2T1-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.onsemi.com/pub_link/Collateral/502-01.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Configuration"; Value = "Single"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IF Max (A)"; Value = "0.2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "On Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "2-Pin SOD, Body 1.2 x 0.8 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SOD-523-2-502-01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Rev. E, 09/2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "BAS16XV2T1G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "trr Max (ns)"; Value = "6"; VariantName = "[No Variations]"
+Added Component: Designator=F1(FP-0683G-MFG)
+Added Component: Designator=J1(CONN_PH2-14-UA_ADM)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "ADAM TECHNOLOGIES INC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PH2-14-UA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Headers, Male Pins"; VariantName = "[No Variations]"
+Added Component: Designator=J6(FCI-10029449-001RLF_V)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://portal.fciconnect.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/851/10029449-851120.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. S, 06/2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "19-Pin Surface Mount Device, Body 15 x 9 mm, Pitch 0.5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "10029449-001RLF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "false"; VariantName = "[No Variations]"
+Added Component: Designator=J8(687117149022)
+Add component (AddParameter): Name = "Actuator Material"; Value = "Nylon, Polyamide"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Bronze"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "50mO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "500mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Flammability Rating"; Value = "UL94 V-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Receptacle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "500µm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "17"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "17"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "17"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Horizontal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "508µm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wire/Cable Type"; Value = "Straight"; VariantName = "[No Variations]"
+Added Component: Designator=L1(IND_0603_TDK)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2026 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MMZ0603Y121CT000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=L2(IND_0603_TDK)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2026 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MMZ0603Y121CT000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=L3(IND_ASPIAIG-F4020_ABR)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2026 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Abracon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ASPIAIG-FLR4020-3R3M-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=L4(IND_ASPIAIG-F4020_ABR)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2026 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Abracon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ASPIAIG-FLR4020-3R3M-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=L5(IND_ASPIAIG-F4020_ABR)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2026 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Abracon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ASPIAIG-FLR4020-3R3M-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=L6(IND_ASPIAIG-F4020_ABR)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2026 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Abracon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ASPIAIG-FLR4020-3R3M-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED1(FP-LTST-C230EKT-MFG)
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Red"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dominant Wavelength"; Value = "621nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Current"; Value = "30mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = "2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Illumination Color"; Value = "Red"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "3.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Color"; Value = "Colorless"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Style"; Value = "Diffused"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Transparency"; Value = "Clear"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Luminous Intensity"; Value = "6mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Elements"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of LEDs"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Voltage"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Test Current"; Value = "10mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "130°"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wavelength"; Value = "630nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "1.6mm"; VariantName = "[No Variations]"
+Added Component: Designator=LED2(FP-LTST-C230EKT-MFG)
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Red"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dominant Wavelength"; Value = "621nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Current"; Value = "30mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = "2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Illumination Color"; Value = "Red"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "3.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Color"; Value = "Colorless"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Style"; Value = "Diffused"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Transparency"; Value = "Clear"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Luminous Intensity"; Value = "6mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Elements"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of LEDs"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Voltage"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Test Current"; Value = "10mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "130°"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wavelength"; Value = "630nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "1.6mm"; VariantName = "[No Variations]"
+Added Component: Designator=LED3(FP-LTST-C230EKT-MFG)
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Red"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dominant Wavelength"; Value = "621nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Current"; Value = "30mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = "2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Illumination Color"; Value = "Red"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "3.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Color"; Value = "Colorless"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Style"; Value = "Diffused"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Transparency"; Value = "Clear"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Luminous Intensity"; Value = "6mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Elements"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of LEDs"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Voltage"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Test Current"; Value = "10mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "130°"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wavelength"; Value = "630nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "1.6mm"; VariantName = "[No Variations]"
+Added Component: Designator=LED4(FP-LTST-C230EKT-MFG)
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Red"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dominant Wavelength"; Value = "621nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Current"; Value = "30mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = "2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Illumination Color"; Value = "Red"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "3.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Color"; Value = "Colorless"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Style"; Value = "Diffused"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Transparency"; Value = "Clear"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Luminous Intensity"; Value = "6mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Elements"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of LEDs"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Voltage"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Test Current"; Value = "10mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "130°"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wavelength"; Value = "630nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "1.6mm"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RESC1210(3225)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.5 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7k"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RESC1210(3225)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.5 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RESC1210(3225)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.5 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7k"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RESC1210(3225)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.5 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "33R"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RESC1210(3225)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.5 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "33R"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RESC1210(3225)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.5 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "150"; VariantName = "[No Variations]"
+Added Component: Designator=R7(RESC1210(3225)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.5 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R8(RESC1210(3225)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.5 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R9(RESC1210(3225)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.5 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "150"; VariantName = "[No Variations]"
+Added Component: Designator=R10(RESC1210(3225)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.5 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "150"; VariantName = "[No Variations]"
+Added Component: Designator=R11(RESC1210(3225)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.5 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R12(RESC1210(3225)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.5 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R13(RESC1210(3225)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.5 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R14(RESC1210(3225)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.5 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R15(RESC1210(3225)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.5 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7K"; VariantName = "[No Variations]"
+Added Component: Designator=R16(RESC1210(3225)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.5 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "33R"; VariantName = "[No Variations]"
+Added Component: Designator=R17(RESC1210(3225)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.5 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "49R9"; VariantName = "[No Variations]"
+Added Component: Designator=R18(RESC1210(3225)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.5 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "49R9"; VariantName = "[No Variations]"
+Added Component: Designator=R19(RESC1210(3225)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.5 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "49R9"; VariantName = "[No Variations]"
+Added Component: Designator=R20(RESC1210(3225)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.5 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "49R9"; VariantName = "[No Variations]"
+Added Component: Designator=R21(RESC1210(3225)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.5 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "49R9"; VariantName = "[No Variations]"
+Added Component: Designator=R22(RESC1210(3225)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.5 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "49R9"; VariantName = "[No Variations]"
+Added Component: Designator=R23(RESC1210(3225)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.5 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "49R9"; VariantName = "[No Variations]"
+Added Component: Designator=R24(RESC1210(3225)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.5 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "49R9"; VariantName = "[No Variations]"
+Added Component: Designator=R25(RESC1210(3225)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.5 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "49R9"; VariantName = "[No Variations]"
+Added Component: Designator=R26(RESC1210(3225)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.5 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "49R9"; VariantName = "[No Variations]"
+Added Component: Designator=R27(RESC1210(3225)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.5 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "49R9"; VariantName = "[No Variations]"
+Added Component: Designator=R28(RESC1210(3225)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.5 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "49R9"; VariantName = "[No Variations]"
+Added Component: Designator=R29(RESC1210(3225)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.5 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "49R9"; VariantName = "[No Variations]"
+Added Component: Designator=R30(RESC1210(3225)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.5 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "49R9"; VariantName = "[No Variations]"
+Added Component: Designator=R31(RESC1210(3225)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.5 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7K"; VariantName = "[No Variations]"
+Added Component: Designator=R32(RESC1210(3225)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.5 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "49R9"; VariantName = "[No Variations]"
+Added Component: Designator=R33(RESC1210(3225)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.5 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "49R9"; VariantName = "[No Variations]"
+Added Component: Designator=R34(RESC1210(3225)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.5 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "49R9"; VariantName = "[No Variations]"
+Added Component: Designator=R35(RESC1210(3225)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.5 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R36(RESC1210(3225)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.5 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "49R9"; VariantName = "[No Variations]"
+Added Component: Designator=R37(RESC1210(3225)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.5 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "49R9"; VariantName = "[No Variations]"
+Added Component: Designator=R38(RESC1210(3225)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.5 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "49R9"; VariantName = "[No Variations]"
+Added Component: Designator=R39(RESC1210(3225)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.5 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "240 1%"; VariantName = "[No Variations]"
+Added Component: Designator=R40(RESC1210(3225)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.5 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7K"; VariantName = "[No Variations]"
+Added Component: Designator=R41(RESC1210(3225)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.5 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K/1%"; VariantName = "[No Variations]"
+Added Component: Designator=R42(RESC1210(3225)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.5 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K/1%"; VariantName = "[No Variations]"
+Added Component: Designator=R43(RESC1210(3225)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.5 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100K"; VariantName = "[No Variations]"
+Added Component: Designator=R44(RESC1210(3225)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.5 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "33R"; VariantName = "[No Variations]"
+Added Component: Designator=R45(RESC1210(3225)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.5 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "33R"; VariantName = "[No Variations]"
+Added Component: Designator=R46(RESC1210(3225)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.5 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K/1%"; VariantName = "[No Variations]"
+Added Component: Designator=R47(RESC1210(3225)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.5 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K/1%"; VariantName = "[No Variations]"
+Added Component: Designator=R48(RESC1210(3225)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.5 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "18.7K/1%"; VariantName = "[No Variations]"
+Added Component: Designator=R49(RESC1210(3225)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.5 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K/1%"; VariantName = "[No Variations]"
+Added Component: Designator=R50(RESC1210(3225)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.5 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "15K/1%"; VariantName = "[No Variations]"
+Added Component: Designator=R51(RESC1210(3225)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.5 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "40.2k/1%"; VariantName = "[No Variations]"
+Added Component: Designator=R52(RESC1210(3225)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.5 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "13K/1%"; VariantName = "[No Variations]"
+Added Component: Designator=R53(RESC1210(3225)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.5 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "56.2K/1%"; VariantName = "[No Variations]"
+Added Component: Designator=R54(RESC1210(3225)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.5 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220R"; VariantName = "[No Variations]"
+Added Component: Designator=R55(RESC1210(3225)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.5 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220R"; VariantName = "[No Variations]"
+Added Component: Designator=R56(RESC1210(3225)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.5 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220R"; VariantName = "[No Variations]"
+Added Component: Designator=R57(RESC1210(3225)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.5 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220R"; VariantName = "[No Variations]"
+Added Component: Designator=R58(RESC1210(3225)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.5 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K/1%"; VariantName = "[No Variations]"
+Added Component: Designator=R59(RESC1210(3225)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.5 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K/1%"; VariantName = "[No Variations]"
+Added Component: Designator=R60(RESC1210(3225)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.5 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K/1%"; VariantName = "[No Variations]"
+Added Component: Designator=R61(RESC1210(3225)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.5 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K/1%"; VariantName = "[No Variations]"
+Added Component: Designator=R62(RESC1210(3225)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.5 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R63(RESC1210(3225)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.5 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R64(RESC1210(3225)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.5 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R65(RESC1210(3225)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.5 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R66(RESC1210(3225)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.5 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "NC"; VariantName = "[No Variations]"
+Added Component: Designator=R67(RESC1210(3225)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.5 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "NC"; VariantName = "[No Variations]"
+Added Component: Designator=R68(RESC1210(3225)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.5 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "14.7K/1%"; VariantName = "[No Variations]"
+Added Component: Designator=R69(RESC1210(3225)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.5 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "18K/1%"; VariantName = "[No Variations]"
+Added Component: Designator=R70(RESC1210(3225)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.5 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K/1%"; VariantName = "[No Variations]"
+Added Component: Designator=R71(RESC1210(3225)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.5 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K/1%"; VariantName = "[No Variations]"
+Added Component: Designator=R111(RESC1210(3225)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.5 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "49R9"; VariantName = "[No Variations]"
+Added Component: Designator=R112(RESC1210(3225)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.5 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "49R9"; VariantName = "[No Variations]"
+Added Component: Designator=R113(RESC1210(3225)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.5 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "49R9"; VariantName = "[No Variations]"
+Added Component: Designator=R114(RESC1210(3225)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.5 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "49R9"; VariantName = "[No Variations]"
+Added Component: Designator=R115(RESC1210(3225)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.5 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "49R9"; VariantName = "[No Variations]"
+Added Component: Designator=R116(RESC1210(3225)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.5 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "49R9"; VariantName = "[No Variations]"
+Added Component: Designator=R117(RESC1210(3225)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.5 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "49R9"; VariantName = "[No Variations]"
+Added Component: Designator=R118(RESC1210(3225)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.5 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "49R9"; VariantName = "[No Variations]"
+Added Component: Designator=R119(RESC1210(3225)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.5 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R120(RESC1210(3225)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.5 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Added Component: Designator=R121(RESC1210(3225)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.5 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Component: Designator=R122(RESC1210(3225)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.5 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100K"; VariantName = "[No Variations]"
+Added Component: Designator=R123(RESC1210(3225)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.5 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=SW1(FP-SKSTAAE010-MFG)
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Added Component: Designator=SW2(FP-SKSTAAE010-MFG)
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Added Component: Designator=SW3(FP-SKSTAAE010-MFG)
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Added Component: Designator=SW4(FP-SKSTAAE010-MFG)
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Added Component: Designator=U1(FGG484_AMD)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2026 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "AMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "XC7A35T-2FGG484C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=U2(SOT95P280X110-6N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://atlas.eefcdn.com/partdatasheet/700056/700056_26425269_1757294122249.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "ETA Solutions"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ETA1471FT2G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U3(SOT95P280X110-6N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://atlas.eefcdn.com/partdatasheet/700056/700056_26425269_1757294122249.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "ETA Solutions"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ETA1471FT2G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U4(MICT-HA-96)
+Add component (AddParameter): Name = "CL"; Value = "CL = 11Â"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Clock Rate"; Value = "800 MHzÂ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.micron.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.micron.com/~/media/Documents/Products/Data%20Sheet/DRAM/2Gb_DDR3_SDRAM.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.micron.com/~/media/Documents/Products/Data%20Sheet/DRAM/4Gb_1_35V_DDR3L.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Cycle Time"; Value = "1.25nsÂ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Data Rate"; Value = "DDR3-1600Â"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Density"; Value = "2GbÂ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "128MbÂ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Micron"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Op. Temp."; Value = "0C to +95CÂ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "FBGAÂ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "96-Ball Fine-Pitch Ball Grid Array, 14 x 9 mm, Pitch 0.8 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "MICT-HA-96"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Rev.E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "MT41J128M16HA-125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "96-ballÂ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "YesÂ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "1.5VÂ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "x16Â"; VariantName = "[No Variations]"
+Added Component: Designator=U5(TPS51200DRCR)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "TPS51200DRCR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/tps51200drcr/texas-instruments?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.ti.com/lit/gpn/tps51200?HQS=ti-null-null-sf-df-pf-sep-wwe&DCM=yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TPS51200DRCR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "595-TPS51200DRCR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS51200DRCR?qs=WxL8HmPi5r54D5pDlo3K5g%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=U6(SOT95P280X145-5N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.alldatasheet.com/datasheet-pdf/download/190079/SIPEX/SPX3819M5-3-3.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.45mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "EXAR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SPX3819M5-3-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=N%2FA"; VariantName = "[No Variations]"
+Added Component: Designator=U7(SOT95P280X110-6N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://atlas.eefcdn.com/partdatasheet/700056/700056_26425269_1757294122249.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "ETA Solutions"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ETA1471FT2G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U8(SOT95P280X110-6N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://atlas.eefcdn.com/partdatasheet/700056/700056_26425269_1757294122249.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "ETA Solutions"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ETA1471FT2G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U14(SOT65P210X110-6N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "SN74LVC2G07DCKR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/sn74lvc2g07dckr/texas-instruments?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.lcsc.com/szlcsc/Texas-Instruments-TI-SN74LVC2G07DCKR_C7849.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SN74LVC2G07DCKR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "595-SN74LVC2G07DCKR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/SN74LVC2G07DCKR?qs=EIjG%252BN7kn%252Bn6uhrXwDLE9Q%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=U15(FP-DBV0005A-IPC_C)
+Add component (AddParameter): Name = "Case/Package"; Value = "SOT-23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "High Level Output Current"; Value = "-4mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Logic Function"; Value = "Buffer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Low Level Output Current"; Value = "4mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Voltage"; Value = "3.6V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Supply Voltage"; Value = "800mV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Bits"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Bits per Element"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Channels"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Elements"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Gates"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Input Lines"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Inputs"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Output Lines"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Outputs"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "3-STATE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "3000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarity"; Value = "Non-Inverting"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Propagation Delay"; Value = "18.7ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quiescent Current"; Value = "500nA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "74AUP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "CMOS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Turn-On Delay Time"; Value = "25.5ns"; VariantName = "[No Variations]"
+Added Component: Designator=U30(AZ104504FR7G)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://download.datasheets.com/pdfs/2013/10/3/2/31/47/175/amzng_/manual/az1045-04f_datasheet.pdf?_ga=2.166408059.458781722.1648096097-1927931834.1642822301"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Amazing Microelectronic Corp."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "AZ1045-04F.R7G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U31(AZ104504FR7G)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://download.datasheets.com/pdfs/2013/10/3/2/31/47/175/amzng_/manual/az1045-04f_datasheet.pdf?_ga=2.166408059.458781722.1648096097-1927931834.1642822301"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Amazing Microelectronic Corp."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "AZ1045-04F.R7G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=X1(7M_TXC)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2026 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TXC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "7M-50.000MAAJ-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=FPGA_M1 Pin=C1-2
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=FPGA_M1 Pin=C2-2
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=AGND Pin=C3-2
+Added Pin To Net: NetName=NetC3_1 Pin=C4-1
+Added Pin To Net: NetName=AGND Pin=C4-2
+Added Pin To Net: NetName=+3.3V Pin=C5-1
+Added Pin To Net: NetName=FPGA_M1 Pin=C5-2
+Added Pin To Net: NetName=FPGA_M1 Pin=C6-1
+Added Pin To Net: NetName=+3.3V Pin=C6-2
+Added Pin To Net: NetName=NetC7_1 Pin=C7-1
+Added Pin To Net: NetName=NetC7_2 Pin=C7-2
+Added Pin To Net: NetName=NetC8_1 Pin=C8-1
+Added Pin To Net: NetName=NetC8_2 Pin=C8-2
+Added Pin To Net: NetName=FPGA_M1 Pin=C9-1
+Added Pin To Net: NetName=+5V Pin=C9-2
+Added Pin To Net: NetName=FPGA_M1 Pin=C10-1
+Added Pin To Net: NetName=+5V Pin=C10-2
+Added Pin To Net: NetName=+1.8V Pin=C11-1
+Added Pin To Net: NetName=FPGA_M1 Pin=C11-2
+Added Pin To Net: NetName=+1.8V Pin=C12-1
+Added Pin To Net: NetName=FPGA_M1 Pin=C12-2
+Added Pin To Net: NetName=+1.8V Pin=C13-1
+Added Pin To Net: NetName=FPGA_M1 Pin=C13-2
+Added Pin To Net: NetName=+1.0V Pin=C14-1
+Added Pin To Net: NetName=FPGA_M1 Pin=C14-2
+Added Pin To Net: NetName=+1.0V Pin=C15-1
+Added Pin To Net: NetName=FPGA_M1 Pin=C15-2
+Added Pin To Net: NetName=+1.0V Pin=C16-1
+Added Pin To Net: NetName=FPGA_M1 Pin=C16-2
+Added Pin To Net: NetName=FPGA_M1 Pin=C17-1
+Added Pin To Net: NetName=NetC17_2 Pin=C17-2
+Added Pin To Net: NetName=+1.8V Pin=C18-1
+Added Pin To Net: NetName=NetC18_2 Pin=C18-2
+Added Pin To Net: NetName=+1.0V Pin=C19-1
+Added Pin To Net: NetName=NetC19_2 Pin=C19-2
+Added Pin To Net: NetName=+5V Pin=C20-1
+Added Pin To Net: NetName=FPGA_M1 Pin=C20-2
+Added Pin To Net: NetName=FPGA_M1 Pin=C21-1
+Added Pin To Net: NetName=VCCIO Pin=C21-2
+Added Pin To Net: NetName=VCCIO Pin=C22-1
+Added Pin To Net: NetName=FPGA_M1 Pin=C22-2
+Added Pin To Net: NetName=NetC23_1 Pin=C23-1
+Added Pin To Net: NetName=NetC23_2 Pin=C23-2
+Added Pin To Net: NetName=NetC24_1 Pin=C24-1
+Added Pin To Net: NetName=NetC24_2 Pin=C24-2
+Added Pin To Net: NetName=FPGA_M1 Pin=C25-1
+Added Pin To Net: NetName=+5V Pin=C25-2
+Added Pin To Net: NetName=FPGA_M1 Pin=C26-1
+Added Pin To Net: NetName=+5V Pin=C26-2
+Added Pin To Net: NetName=+1.5V Pin=C27-1
+Added Pin To Net: NetName=FPGA_M1 Pin=C27-2
+Added Pin To Net: NetName=+1.5V Pin=C28-1
+Added Pin To Net: NetName=FPGA_M1 Pin=C28-2
+Added Pin To Net: NetName=+1.5V Pin=C29-1
+Added Pin To Net: NetName=FPGA_M1 Pin=C29-2
+Added Pin To Net: NetName=+3.3V Pin=C30-1
+Added Pin To Net: NetName=FPGA_M1 Pin=C30-2
+Added Pin To Net: NetName=+3.3V Pin=C31-1
+Added Pin To Net: NetName=FPGA_M1 Pin=C31-2
+Added Pin To Net: NetName=+3.3V Pin=C32-1
+Added Pin To Net: NetName=FPGA_M1 Pin=C32-2
+Added Pin To Net: NetName=+1.5V Pin=C33-1
+Added Pin To Net: NetName=NetC33_2 Pin=C33-2
+Added Pin To Net: NetName=+3.3V Pin=C34-1
+Added Pin To Net: NetName=NetC34_2 Pin=C34-2
+Added Pin To Net: NetName=FPGA_M1 Pin=C35-1
+Added Pin To Net: NetName=NetC35_2 Pin=C35-2
+Added Pin To Net: NetName=FPGA_M1 Pin=C36-1
+Added Pin To Net: NetName=NetC36_2 Pin=C36-2
+Added Pin To Net: NetName=FPGA_M1 Pin=C100-1
+Added Pin To Net: NetName=DDR3_VREF Pin=C100-2
+Added Pin To Net: NetName=FPGA_M1 Pin=C115-1
+Added Pin To Net: NetName=NetC115_2 Pin=C115-2
+Added Pin To Net: NetName=FPGA_M1 Pin=C121-1
+Added Pin To Net: NetName=+3.3V Pin=C121-2
+Added Pin To Net: NetName=FPGA_M1 Pin=C125-1
+Added Pin To Net: NetName=DDR3_VREF Pin=C125-2
+Added Pin To Net: NetName=FPGA_M1 Pin=C126-1
+Added Pin To Net: NetName=DDR3_VREF Pin=C126-2
+Added Pin To Net: NetName=FPGA_M1 Pin=C127-1
+Added Pin To Net: NetName=DDR3_VTT Pin=C127-2
+Added Pin To Net: NetName=FPGA_M1 Pin=C128-1
+Added Pin To Net: NetName=DDR3_VTT Pin=C128-2
+Added Pin To Net: NetName=FPGA_M1 Pin=C129-1
+Added Pin To Net: NetName=+1.5V Pin=C129-2
+Added Pin To Net: NetName=FPGA_M1 Pin=C130-1
+Added Pin To Net: NetName=+1.5V Pin=C130-2
+Added Pin To Net: NetName=FPGA_M1 Pin=C131-1
+Added Pin To Net: NetName=+3.3V Pin=C131-2
+Added Pin To Net: NetName=FPGA_M1 Pin=C190-1
+Added Pin To Net: NetName=+3.3V Pin=C190-2
+Added Pin To Net: NetName=FPGA_M1 Pin=C191-1
+Added Pin To Net: NetName=+3.3V Pin=C191-2
+Added Pin To Net: NetName=NetCN1_1 Pin=CN1-1
+Added Pin To Net: NetName=FPGA_M1 Pin=CN1-2
+Added Pin To Net: NetName=FPGA_M1 Pin=CN1-3
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetCN1_1 Pin=F1-1
+Added Pin To Net: NetName=+5V Pin=F1-2
+Added Pin To Net: NetName=FPGA_M1 Pin=J1-1
+Added Pin To Net: NetName=+3.3V Pin=J1-2
+Added Pin To Net: NetName=FPGA_M1 Pin=J1-3
+Added Pin To Net: NetName=NetJ1_4 Pin=J1-4
+Added Pin To Net: NetName=FPGA_M1 Pin=J1-5
+Added Pin To Net: NetName=NetJ1_6 Pin=J1-6
+Added Pin To Net: NetName=FPGA_M1 Pin=J1-7
+Added Pin To Net: NetName=NetJ1_8 Pin=J1-8
+Added Pin To Net: NetName=FPGA_M1 Pin=J1-9
+Added Pin To Net: NetName=NetJ1_10 Pin=J1-10
+Added Pin To Net: NetName=FPGA_M1 Pin=J1-11
+Added Pin To Net: NetName=FPGA_M1 Pin=J1-13
+Added Pin To Net: NetName=HDMI1_D2_P Pin=J6-1
+Added Pin To Net: NetName=FPGA_M1 Pin=J6-2
+Added Pin To Net: NetName=HDMI1_D2_N Pin=J6-3
+Added Pin To Net: NetName=HDMI1_D1_P Pin=J6-4
+Added Pin To Net: NetName=FPGA_M1 Pin=J6-5
+Added Pin To Net: NetName=HDMI1_D1_N Pin=J6-6
+Added Pin To Net: NetName=HDMI1_D0_P Pin=J6-7
+Added Pin To Net: NetName=FPGA_M1 Pin=J6-8
+Added Pin To Net: NetName=HDMI1_D0_N Pin=J6-9
+Added Pin To Net: NetName=HDMI1_CLK_P Pin=J6-10
+Added Pin To Net: NetName=FPGA_M1 Pin=J6-11
+Added Pin To Net: NetName=HDMI1_CLK_N Pin=J6-12
+Added Pin To Net: NetName=NetD2_1 Pin=J6-13
+Added Pin To Net: NetName=HDMI1_SCL Pin=J6-15
+Added Pin To Net: NetName=HDMI1_SDA Pin=J6-16
+Added Pin To Net: NetName=FPGA_M1 Pin=J6-17
+Added Pin To Net: NetName=+5V Pin=J6-18
+Added Pin To Net: NetName=NetJ6_19 Pin=J6-19
+Added Pin To Net: NetName=NetJ6_20 Pin=J6-20
+Added Pin To Net: NetName=NetJ6_20 Pin=J6-21
+Added Pin To Net: NetName=NetJ6_20 Pin=J6-22
+Added Pin To Net: NetName=NetJ6_20 Pin=J6-23
+Added Pin To Net: NetName=FPGA_M1 Pin=J8-1
+Added Pin To Net: NetName=MIPI_LAN0_N Pin=J8-2
+Added Pin To Net: NetName=MIPI_LAN0_P Pin=J8-3
+Added Pin To Net: NetName=FPGA_M1 Pin=J8-4
+Added Pin To Net: NetName=MIPI_LAN1_N Pin=J8-5
+Added Pin To Net: NetName=MIPI_LAN1_P Pin=J8-6
+Added Pin To Net: NetName=FPGA_M1 Pin=J8-7
+Added Pin To Net: NetName=MIPI_CLK_N Pin=J8-8
+Added Pin To Net: NetName=MIPI_CLK_P Pin=J8-9
+Added Pin To Net: NetName=FPGA_M1 Pin=J8-10
+Added Pin To Net: NetName=CAM_GPIO Pin=J8-11
+Added Pin To Net: NetName=CAM_CLK Pin=J8-12
+Added Pin To Net: NetName=CAM_SCL Pin=J8-13
+Added Pin To Net: NetName=CAM_SDA Pin=J8-14
+Added Pin To Net: NetName=+3.3V Pin=J8-15
+Added Pin To Net: NetName=FPGA_M1 Pin=J8-16
+Added Pin To Net: NetName=FPGA_M1 Pin=J8-17
+Added Pin To Net: NetName=NetC1_1 Pin=L1-1
+Added Pin To Net: NetName=+3.3V Pin=L1-2
+Added Pin To Net: NetName=NetC3_1 Pin=L2-1
+Added Pin To Net: NetName=+1.8V Pin=L2-2
+Added Pin To Net: NetName=+1.8V Pin=L3-1
+Added Pin To Net: NetName=NetC7_1 Pin=L3-2
+Added Pin To Net: NetName=+1.0V Pin=L4-1
+Added Pin To Net: NetName=NetC8_1 Pin=L4-2
+Added Pin To Net: NetName=+1.5V Pin=L5-1
+Added Pin To Net: NetName=NetC23_1 Pin=L5-2
+Added Pin To Net: NetName=+3.3V Pin=L6-1
+Added Pin To Net: NetName=NetC24_1 Pin=L6-2
+Added Pin To Net: NetName=NetLED1_1 Pin=LED1-1
+Added Pin To Net: NetName=VCCIO Pin=LED1-2
+Added Pin To Net: NetName=NetLED2_1 Pin=LED2-1
+Added Pin To Net: NetName=VCCIO Pin=LED2-2
+Added Pin To Net: NetName=NetLED3_1 Pin=LED3-1
+Added Pin To Net: NetName=VCCIO Pin=LED3-2
+Added Pin To Net: NetName=NetLED4_1 Pin=LED4-1
+Added Pin To Net: NetName=VCCIO Pin=LED4-2
+Added Pin To Net: NetName=+3.3V Pin=R1-1
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=FPGA_M0 Pin=R2-2
+Added Pin To Net: NetName=+3.3V Pin=R3-1
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=FPGA_GCLK1 Pin=R4-2
+Added Pin To Net: NetName=FPGA_TMS Pin=R5-1
+Added Pin To Net: NetName=NetJ1_4 Pin=R5-2
+Added Pin To Net: NetName=MIPI_LAN0_P Pin=R6-1
+Added Pin To Net: NetName=MIPI_LAN0_N Pin=R6-2
+Added Pin To Net: NetName=MIPI_LAN0_N Pin=R7-1
+Added Pin To Net: NetName=LP_LANE0_N Pin=R7-2
+Added Pin To Net: NetName=MIPI_LAN0_P Pin=R8-1
+Added Pin To Net: NetName=LP_LANE0_P Pin=R8-2
+Added Pin To Net: NetName=MIPI_LAN1_P Pin=R9-1
+Added Pin To Net: NetName=MIPI_LAN1_N Pin=R9-2
+Added Pin To Net: NetName=MIPI_CLK_P Pin=R10-1
+Added Pin To Net: NetName=MIPI_CLK_N Pin=R10-2
+Added Pin To Net: NetName=MIPI_LAN1_N Pin=R11-1
+Added Pin To Net: NetName=LP_LANE1_N Pin=R11-2
+Added Pin To Net: NetName=MIPI_CLK_N Pin=R12-1
+Added Pin To Net: NetName=LP_CLK_N Pin=R12-2
+Added Pin To Net: NetName=MIPI_LAN1_P Pin=R13-1
+Added Pin To Net: NetName=LP_LANE1_P Pin=R13-2
+Added Pin To Net: NetName=MIPI_CLK_P Pin=R14-1
+Added Pin To Net: NetName=LP_CLK_P Pin=R14-2
+Added Pin To Net: NetName=CAM_SCL Pin=R15-1
+Added Pin To Net: NetName=+3.3V Pin=R15-2
+Added Pin To Net: NetName=FPGA_TCK Pin=R16-1
+Added Pin To Net: NetName=NetJ1_6 Pin=R16-2
+Added Pin To Net: NetName=DDR3_VTT Pin=R17-1
+Added Pin To Net: NetName=DDR3_A0 Pin=R17-2
+Added Pin To Net: NetName=DDR3_VTT Pin=R18-1
+Added Pin To Net: NetName=DDR3_A2 Pin=R18-2
+Added Pin To Net: NetName=DDR3_VTT Pin=R19-1
+Added Pin To Net: NetName=DDR3_A3 Pin=R19-2
+Added Pin To Net: NetName=DDR3_VTT Pin=R20-1
+Added Pin To Net: NetName=DDR3_A4 Pin=R20-2
+Added Pin To Net: NetName=DDR3_VTT Pin=R21-1
+Added Pin To Net: NetName=DDR3_A6 Pin=R21-2
+Added Pin To Net: NetName=DDR3_VTT Pin=R22-1
+Added Pin To Net: NetName=DDR3_A9 Pin=R22-2
+Added Pin To Net: NetName=DDR3_VTT Pin=R23-1
+Added Pin To Net: NetName=DDR3_A1 Pin=R23-2
+Added Pin To Net: NetName=DDR3_VTT Pin=R24-1
+Added Pin To Net: NetName=DDR3_A5 Pin=R24-2
+Added Pin To Net: NetName=DDR3_VTT Pin=R25-1
+Added Pin To Net: NetName=DDR3_A7 Pin=R25-2
+Added Pin To Net: NetName=DDR3_VTT Pin=R26-1
+Added Pin To Net: NetName=DDR3_A8 Pin=R26-2
+Added Pin To Net: NetName=DDR3_VTT Pin=R27-1
+Added Pin To Net: NetName=DDR3_A10 Pin=R27-2
+Added Pin To Net: NetName=DDR3_VTT Pin=R28-1
+Added Pin To Net: NetName=DDR3_A11 Pin=R28-2
+Added Pin To Net: NetName=DDR3_VTT Pin=R29-1
+Added Pin To Net: NetName=DDR3_A12 Pin=R29-2
+Added Pin To Net: NetName=DDR3_VTT Pin=R30-1
+Added Pin To Net: NetName=DDR3_A13 Pin=R30-2
+Added Pin To Net: NetName=CAM_SDA Pin=R31-1
+Added Pin To Net: NetName=+3.3V Pin=R31-2
+Added Pin To Net: NetName=DDR3_VTT Pin=R32-1
+Added Pin To Net: NetName=DDR3_BA0 Pin=R32-2
+Added Pin To Net: NetName=DDR3_VTT Pin=R33-1
+Added Pin To Net: NetName=DDR3_BA1 Pin=R33-2
+Added Pin To Net: NetName=DDR3_VTT Pin=R34-1
+Added Pin To Net: NetName=DDR3_BA2 Pin=R34-2
+Added Pin To Net: NetName=DDR3_CLK0_P Pin=R35-1
+Added Pin To Net: NetName=DDR3_CLK0_N Pin=R35-2
+Added Pin To Net: NetName=DDR3_VTT Pin=R36-1
+Added Pin To Net: NetName=DDR3_WE Pin=R36-2
+Added Pin To Net: NetName=DDR3_VTT Pin=R37-1
+Added Pin To Net: NetName=DDR3_RAS Pin=R37-2
+Added Pin To Net: NetName=DDR3_VTT Pin=R38-1
+Added Pin To Net: NetName=DDR3_CAS Pin=R38-2
+Added Pin To Net: NetName=FPGA_M1 Pin=R39-1
+Added Pin To Net: NetName=NetR39_2 Pin=R39-2
+Added Pin To Net: NetName=FPGA_M1 Pin=R40-1
+Added Pin To Net: NetName=DDR3_RESET_N Pin=R40-2
+Added Pin To Net: NetName=NetC115_2 Pin=R41-1
+Added Pin To Net: NetName=+1.5V Pin=R41-2
+Added Pin To Net: NetName=FPGA_M1 Pin=R42-1
+Added Pin To Net: NetName=NetC115_2 Pin=R42-2
+Added Pin To Net: NetName=+3.3V Pin=R43-1
+Added Pin To Net: NetName=NetR43_2 Pin=R43-2
+Added Pin To Net: NetName=FPGA_TDO Pin=R44-1
+Added Pin To Net: NetName=NetJ1_8 Pin=R44-2
+Added Pin To Net: NetName=FPGA_TDI Pin=R45-1
+Added Pin To Net: NetName=NetJ1_10 Pin=R45-2
+Added Pin To Net: NetName=+5V Pin=R46-1
+Added Pin To Net: NetName=NetC17_2 Pin=R46-2
+Added Pin To Net: NetName=+5V Pin=R47-1
+Added Pin To Net: NetName=NetR47_2 Pin=R47-2
+Added Pin To Net: NetName=NetC18_2 Pin=R48-1
+Added Pin To Net: NetName=+1.8V Pin=R48-2
+Added Pin To Net: NetName=NetC19_2 Pin=R49-1
+Added Pin To Net: NetName=+1.0V Pin=R49-2
+Added Pin To Net: NetName=FPGA_M1 Pin=R50-1
+Added Pin To Net: NetName=NetC18_2 Pin=R50-2
+Added Pin To Net: NetName=FPGA_M1 Pin=R51-1
+Added Pin To Net: NetName=NetC19_2 Pin=R51-2
+Added Pin To Net: NetName=NetC33_2 Pin=R52-1
+Added Pin To Net: NetName=+1.5V Pin=R52-2
+Added Pin To Net: NetName=NetC34_2 Pin=R53-1
+Added Pin To Net: NetName=+3.3V Pin=R53-2
+Added Pin To Net: NetName=NetLED1_1 Pin=R54-1
+Added Pin To Net: NetName=LED1 Pin=R54-2
+Added Pin To Net: NetName=NetLED2_1 Pin=R55-1
+Added Pin To Net: NetName=LED2 Pin=R55-2
+Added Pin To Net: NetName=NetLED3_1 Pin=R56-1
+Added Pin To Net: NetName=LED3 Pin=R56-2
+Added Pin To Net: NetName=NetLED4_1 Pin=R57-1
+Added Pin To Net: NetName=LED4 Pin=R57-2
+Added Pin To Net: NetName=+3.3V Pin=R58-1
+Added Pin To Net: NetName=NetR58_2 Pin=R58-2
+Added Pin To Net: NetName=+3.3V Pin=R59-1
+Added Pin To Net: NetName=NetR59_2 Pin=R59-2
+Added Pin To Net: NetName=+3.3V Pin=R60-1
+Added Pin To Net: NetName=NetR60_2 Pin=R60-2
+Added Pin To Net: NetName=+3.3V Pin=R61-1
+Added Pin To Net: NetName=NetR61_2 Pin=R61-2
+Added Pin To Net: NetName=NetR58_2 Pin=R62-1
+Added Pin To Net: NetName=KEY4 Pin=R62-2
+Added Pin To Net: NetName=NetR59_2 Pin=R63-1
+Added Pin To Net: NetName=KEY1 Pin=R63-2
+Added Pin To Net: NetName=NetR60_2 Pin=R64-1
+Added Pin To Net: NetName=KEY2 Pin=R64-2
+Added Pin To Net: NetName=NetR61_2 Pin=R65-1
+Added Pin To Net: NetName=KEY3 Pin=R65-2
+Added Pin To Net: NetName=+5V Pin=R66-1
+Added Pin To Net: NetName=NetC35_2 Pin=R66-2
+Added Pin To Net: NetName=+5V Pin=R67-1
+Added Pin To Net: NetName=NetC36_2 Pin=R67-2
+Added Pin To Net: NetName=FPGA_M1 Pin=R68-1
+Added Pin To Net: NetName=NetC33_2 Pin=R68-2
+Added Pin To Net: NetName=FPGA_M1 Pin=R69-1
+Added Pin To Net: NetName=NetC34_2 Pin=R69-2
+Added Pin To Net: NetName=+1.8V Pin=R70-1
+Added Pin To Net: NetName=NetC35_2 Pin=R70-2
+Added Pin To Net: NetName=+1.8V Pin=R71-1
+Added Pin To Net: NetName=NetC36_2 Pin=R71-2
+Added Pin To Net: NetName=HDMI1_D1_N Pin=R111-1
+Added Pin To Net: NetName=+3.3V Pin=R111-2
+Added Pin To Net: NetName=HDMI1_D1_P Pin=R112-1
+Added Pin To Net: NetName=+3.3V Pin=R112-2
+Added Pin To Net: NetName=HDMI1_D2_N Pin=R113-1
+Added Pin To Net: NetName=+3.3V Pin=R113-2
+Added Pin To Net: NetName=HDMI1_D2_P Pin=R114-1
+Added Pin To Net: NetName=+3.3V Pin=R114-2
+Added Pin To Net: NetName=HDMI1_CLK_N Pin=R115-1
+Added Pin To Net: NetName=+3.3V Pin=R115-2
+Added Pin To Net: NetName=HDMI1_CLK_P Pin=R116-1
+Added Pin To Net: NetName=+3.3V Pin=R116-2
+Added Pin To Net: NetName=HDMI1_D0_N Pin=R117-1
+Added Pin To Net: NetName=+3.3V Pin=R117-2
+Added Pin To Net: NetName=HDMI1_D0_P Pin=R118-1
+Added Pin To Net: NetName=+3.3V Pin=R118-2
+Added Pin To Net: NetName=HDMI1_HPD Pin=R119-1
+Added Pin To Net: NetName=NetR119_2 Pin=R119-2
+Added Pin To Net: NetName=NetJ6_19 Pin=R120-1
+Added Pin To Net: NetName=FPGA_M1 Pin=R120-2
+Added Pin To Net: NetName=NetJ6_20 Pin=R121-1
+Added Pin To Net: NetName=FPGA_M1 Pin=R121-2
+Added Pin To Net: NetName=FPGA_M1 Pin=R122-1
+Added Pin To Net: NetName=HDMI1_HPD Pin=R122-2
+Added Pin To Net: NetName=NetR123_1 Pin=R123-1
+Added Pin To Net: NetName=NetJ6_19 Pin=R123-2
+Added Pin To Net: NetName=NetR59_2 Pin=SW1-1
+Added Pin To Net: NetName=FPGA_M1 Pin=SW1-2
+Added Pin To Net: NetName=NetR60_2 Pin=SW2-1
+Added Pin To Net: NetName=FPGA_M1 Pin=SW2-2
+Added Pin To Net: NetName=NetR61_2 Pin=SW3-1
+Added Pin To Net: NetName=FPGA_M1 Pin=SW3-2
+Added Pin To Net: NetName=NetR58_2 Pin=SW4-1
+Added Pin To Net: NetName=FPGA_M1 Pin=SW4-2
+Add Pin To Net: Unknown Pin: Pin TP1-1
+Add Pin To Net: Unknown Pin: Pin TP2-1
+Add Pin To Net: Unknown Pin: Pin TP3-1
+Add Pin To Net: Unknown Pin: Pin TP4-1
+Added Pin To Net: NetName=LP_CLK_N Pin=U1-A1
+Added Pin To Net: NetName=FPGA_M1 Pin=U1-A2
+Added Pin To Net: NetName=FPGA_M1 Pin=U1-A3
+Added Pin To Net: NetName=FPGA_M1 Pin=U1-A5
+Added Pin To Net: NetName=FPGA_M1 Pin=U1-A7
+Added Pin To Net: NetName=FPGA_M1 Pin=U1-A9
+Added Pin To Net: NetName=FPGA_M1 Pin=U1-A11
+Added Pin To Net: NetName=FPGA_M1 Pin=U1-A12
+Added Pin To Net: NetName=VCCIO Pin=U1-A17
+Added Pin To Net: NetName=FPGA_M1 Pin=U1-A22
+Added Pin To Net: NetName=DDR3_DQ3 Pin=U1-AA1
+Added Pin To Net: NetName=FPGA_M1 Pin=U1-AA2
+Added Pin To Net: NetName=DDR3_LDQS_N Pin=U1-AA3
+Added Pin To Net: NetName=DDR3_DQ7 Pin=U1-AA4
+Added Pin To Net: NetName=DDR3_DQ4 Pin=U1-AA5
+Added Pin To Net: NetName=DDR3_A10 Pin=U1-AA6
+Added Pin To Net: NetName=+1.5V Pin=U1-AA7
+Added Pin To Net: NetName=DDR3_A0 Pin=U1-AA8
+Added Pin To Net: NetName=FPGA_M1 Pin=U1-AA12
+Added Pin To Net: NetName=+3.3V Pin=U1-AA17
+Added Pin To Net: NetName=FPGA_M1 Pin=U1-AA22
+Added Pin To Net: NetName=DDR3_LDM Pin=U1-AB1
+Added Pin To Net: NetName=DDR3_DQ1 Pin=U1-AB2
+Added Pin To Net: NetName=DDR3_DQ2 Pin=U1-AB3
+Added Pin To Net: NetName=+1.5V Pin=U1-AB4
+Added Pin To Net: NetName=DDR3_DQ6 Pin=U1-AB5
+Added Pin To Net: NetName=DDR3_ODT Pin=U1-AB6
+Added Pin To Net: NetName=DDR3_RAS Pin=U1-AB7
+Added Pin To Net: NetName=DDR3_BA0 Pin=U1-AB8
+Added Pin To Net: NetName=FPGA_M1 Pin=U1-AB9
+Added Pin To Net: NetName=+3.3V Pin=U1-AB14
+Added Pin To Net: NetName=FPGA_M1 Pin=U1-AB19
+Added Pin To Net: NetName=LP_CLK_P Pin=U1-B1
+Added Pin To Net: NetName=LP_LANE0_N Pin=U1-B2
+Added Pin To Net: NetName=FPGA_M1 Pin=U1-B3
+Added Pin To Net: NetName=FPGA_M1 Pin=U1-B12
+Added Pin To Net: NetName=VCCIO Pin=U1-B14
+Added Pin To Net: NetName=FPGA_M1 Pin=U1-B19
+Added Pin To Net: NetName=+3.3V Pin=U1-C1
+Added Pin To Net: NetName=LP_LANE0_P Pin=U1-C2
+Added Pin To Net: NetName=FPGA_M1 Pin=U1-C3
+Added Pin To Net: NetName=FPGA_M1 Pin=U1-C6
+Added Pin To Net: NetName=FPGA_M1 Pin=U1-C10
+Added Pin To Net: NetName=FPGA_M1 Pin=U1-C12
+Added Pin To Net: NetName=FPGA_M1 Pin=U1-C16
+Added Pin To Net: NetName=LED4 Pin=U1-C20
+Added Pin To Net: NetName=VCCIO Pin=U1-C21
+Added Pin To Net: NetName=HDMI1_CLK_N Pin=U1-D1
+Added Pin To Net: NetName=MIPI_LAN0_N Pin=U1-D2
+Added Pin To Net: NetName=FPGA_M1 Pin=U1-D3
+Added Pin To Net: NetName=FPGA_M1 Pin=U1-D4
+Added Pin To Net: NetName=FPGA_M1 Pin=U1-D8
+Added Pin To Net: NetName=FPGA_M1 Pin=U1-D12
+Added Pin To Net: NetName=FPGA_M1 Pin=U1-D13
+Added Pin To Net: NetName=VCCIO Pin=U1-D18
+Added Pin To Net: NetName=LED3 Pin=U1-D20
+Added Pin To Net: NetName=HDMI1_CLK_P Pin=U1-E1
+Added Pin To Net: NetName=MIPI_LAN0_P Pin=U1-E2
+Added Pin To Net: NetName=MIPI_LAN1_N Pin=U1-E3
+Added Pin To Net: NetName=FPGA_M1 Pin=U1-E4
+Added Pin To Net: NetName=FPGA_M1 Pin=U1-E5
+Added Pin To Net: NetName=FPGA_M1 Pin=U1-E7
+Added Pin To Net: NetName=FPGA_M1 Pin=U1-E9
+Added Pin To Net: NetName=FPGA_M1 Pin=U1-E11
+Added Pin To Net: NetName=+1.8V Pin=U1-E12
+Added Pin To Net: NetName=VCCIO Pin=U1-E15
+Added Pin To Net: NetName=FPGA_M1 Pin=U1-E20
+Added Pin To Net: NetName=LED2 Pin=U1-E21
+Added Pin To Net: NetName=HDMI1_D0_N Pin=U1-F1
+Added Pin To Net: NetName=+3.3V Pin=U1-F2
+Added Pin To Net: NetName=MIPI_LAN1_P Pin=U1-F3
+Added Pin To Net: NetName=FPGA_M1 Pin=U1-F5
+Added Pin To Net: NetName=FPGA_M1 Pin=U1-F11
+Added Pin To Net: NetName=+3.3V Pin=U1-F12
+Added Pin To Net: NetName=FPGA_M1 Pin=U1-F17
+Added Pin To Net: NetName=LED1 Pin=U1-F19
+Added Pin To Net: NetName=RESET Pin=U1-F20
+Added Pin To Net: NetName=VCCIO Pin=U1-F22
+Added Pin To Net: NetName=HDMI1_D0_P Pin=U1-G1
+Added Pin To Net: NetName=HDMI1_D1_N Pin=U1-G2
+Added Pin To Net: NetName=MIPI_CLK_N Pin=U1-G3
+Added Pin To Net: NetName=FPGA_M1 Pin=U1-G5
+Added Pin To Net: NetName=FPGA_M1 Pin=U1-G6
+Added Pin To Net: NetName=FPGA_M1 Pin=U1-G7
+Added Pin To Net: NetName=FPGA_M1 Pin=U1-G8
+Added Pin To Net: NetName=FPGA_M1 Pin=U1-G9
+Added Pin To Net: NetName=FPGA_M1 Pin=U1-G10
+Added Pin To Net: NetName=FPGA_DONE Pin=U1-G11
+Added Pin To Net: NetName=FPGA_M1 Pin=U1-G12
+Added Pin To Net: NetName=CAM_SDA Pin=U1-G13
+Added Pin To Net: NetName=FPGA_M1 Pin=U1-G14
+Added Pin To Net: NetName=NetU1_G19 Pin=U1-G19
+Added Pin To Net: NetName=FPGA_M1 Pin=U1-H1
+Added Pin To Net: NetName=HDMI1_D1_P Pin=U1-H2
+Added Pin To Net: NetName=MIPI_CLK_P Pin=U1-H3
+Added Pin To Net: NetName=+3.3V Pin=U1-H6
+Added Pin To Net: NetName=FPGA_M1 Pin=U1-H7
+Added Pin To Net: NetName=+1.0V Pin=U1-H8
+Added Pin To Net: NetName=FPGA_M1 Pin=U1-H9
+Added Pin To Net: NetName=+1.0V Pin=U1-H10
+Added Pin To Net: NetName=FPGA_M1 Pin=U1-H11
+Added Pin To Net: NetName=+1.8V Pin=U1-H12
+Added Pin To Net: NetName=CAM_GPIO Pin=U1-H13
+Added Pin To Net: NetName=CAM_CLK Pin=U1-H14
+Added Pin To Net: NetName=NetU1_G19 Pin=U1-H16
+Added Pin To Net: NetName=FPGA_M1 Pin=U1-H21
+Added Pin To Net: NetName=HDMI1_D2_N Pin=U1-J1
+Added Pin To Net: NetName=LP_LANE1_N Pin=U1-J2
+Added Pin To Net: NetName=+3.3V Pin=U1-J3
+Added Pin To Net: NetName=+1.0V Pin=U1-J7
+Added Pin To Net: NetName=FPGA_M1 Pin=U1-J8
+Added Pin To Net: NetName=+1.0V Pin=U1-J9
+Added Pin To Net: NetName=FPGA_M1 Pin=U1-J10
+Added Pin To Net: NetName=+1.0V Pin=U1-J11
+Added Pin To Net: NetName=FPGA_M1 Pin=U1-J12
+Added Pin To Net: NetName=NetU1_G19 Pin=U1-J13
+Added Pin To Net: NetName=CAM_SCL Pin=U1-J14
+Added Pin To Net: NetName=FPGA_M1 Pin=U1-J18
+Added Pin To Net: NetName=HDMI1_D2_P Pin=U1-K1
+Added Pin To Net: NetName=LP_LANE1_P Pin=U1-K2
+Added Pin To Net: NetName=FPGA_M1 Pin=U1-K5
+Added Pin To Net: NetName=FPGA_M1 Pin=U1-K7
+Added Pin To Net: NetName=+1.0V Pin=U1-K8
+Added Pin To Net: NetName=AGND Pin=U1-K9
+Added Pin To Net: NetName=NetC3_1 Pin=U1-K10
+Added Pin To Net: NetName=FPGA_M1 Pin=U1-K11
+Added Pin To Net: NetName=+1.8V Pin=U1-K12
+Added Pin To Net: NetName=KEY3 Pin=U1-K13
+Added Pin To Net: NetName=KEY2 Pin=U1-K14
+Added Pin To Net: NetName=FPGA_M1 Pin=U1-K15
+Added Pin To Net: NetName=NetU1_G19 Pin=U1-K20
+Added Pin To Net: NetName=FPGA_M1 Pin=U1-L2
+Added Pin To Net: NetName=+1.0V Pin=U1-L7
+Added Pin To Net: NetName=FPGA_M1 Pin=U1-L8
+Added Pin To Net: NetName=AGND Pin=U1-L9
+Added Pin To Net: NetName=+1.0V Pin=U1-L11
+Added Pin To Net: NetName=KEY4 Pin=U1-L13
+Added Pin To Net: NetName=NetU1_G19 Pin=U1-L17
+Added Pin To Net: NetName=FPGA_M1 Pin=U1-L22
+Added Pin To Net: NetName=+3.3V Pin=U1-M4
+Added Pin To Net: NetName=HDMI1_OUT_EN Pin=U1-M6
+Added Pin To Net: NetName=FPGA_M1 Pin=U1-M7
+Added Pin To Net: NetName=+1.0V Pin=U1-M8
+Added Pin To Net: NetName=AGND Pin=U1-M10
+Added Pin To Net: NetName=FPGA_M1 Pin=U1-M11
+Added Pin To Net: NetName=+1.8V Pin=U1-M12
+Added Pin To Net: NetName=KEY1 Pin=U1-M13
+Added Pin To Net: NetName=NetU1_G19 Pin=U1-M14
+Added Pin To Net: NetName=FPGA_M1 Pin=U1-M19
+Added Pin To Net: NetName=+3.3V Pin=U1-N1
+Added Pin To Net: NetName=HDMI1_SDA Pin=U1-N3
+Added Pin To Net: NetName=FPGA_M1 Pin=U1-N6
+Added Pin To Net: NetName=+1.0V Pin=U1-N7
+Added Pin To Net: NetName=FPGA_M1 Pin=U1-N8
+Added Pin To Net: NetName=FPGA_M1 Pin=U1-N9
+Added Pin To Net: NetName=FPGA_M1 Pin=U1-N10
+Added Pin To Net: NetName=+1.0V Pin=U1-N11
+Added Pin To Net: NetName=NetR3_2 Pin=U1-N12
+Added Pin To Net: NetName=FPGA_M1 Pin=U1-N16
+Added Pin To Net: NetName=NetU1_G19 Pin=U1-N21
+Added Pin To Net: NetName=FPGA_M1 Pin=U1-P3
+Added Pin To Net: NetName=HDMI1_SCL Pin=U1-P4
+Added Pin To Net: NetName=HDMI1_HPD Pin=U1-P5
+Added Pin To Net: NetName=FPGA_M1 Pin=U1-P7
+Added Pin To Net: NetName=+1.0V Pin=U1-P8
+Added Pin To Net: NetName=FPGA_M1 Pin=U1-P9
+Added Pin To Net: NetName=+1.0V Pin=U1-P10
+Added Pin To Net: NetName=FPGA_M1 Pin=U1-P11
+Added Pin To Net: NetName=+1.8V Pin=U1-P12
+Added Pin To Net: NetName=FPGA_M1 Pin=U1-P13
+Added Pin To Net: NetName=NetU1_G19 Pin=U1-P18
+Added Pin To Net: NetName=DDR3_UDQS_N Pin=U1-R2
+Added Pin To Net: NetName=DDR3_UDQS_P Pin=U1-R3
+Added Pin To Net: NetName=DDR3_CKE Pin=U1-R4
+Added Pin To Net: NetName=+1.5V Pin=U1-R5
+Added Pin To Net: NetName=DDR3_A13 Pin=U1-R6
+Added Pin To Net: NetName=+1.0V Pin=U1-R7
+Added Pin To Net: NetName=FPGA_M1 Pin=U1-R8
+Added Pin To Net: NetName=+1.0V Pin=U1-R9
+Added Pin To Net: NetName=FPGA_M1 Pin=U1-R10
+Added Pin To Net: NetName=+1.8V Pin=U1-R11
+Added Pin To Net: NetName=FPGA_M1 Pin=U1-R12
+Added Pin To Net: NetName=FPGA_TDI Pin=U1-R13
+Added Pin To Net: NetName=NetU1_G19 Pin=U1-R15
+Added Pin To Net: NetName=FPGA_M1 Pin=U1-R20
+Added Pin To Net: NetName=DDR3_DQ12 Pin=U1-T1
+Added Pin To Net: NetName=+1.5V Pin=U1-T2
+Added Pin To Net: NetName=DDR3_RESET_N Pin=U1-T3
+Added Pin To Net: NetName=DDR3_CAS Pin=U1-T4
+Added Pin To Net: NetName=DDR3_A8 Pin=U1-T5
+Added Pin To Net: NetName=DDR3_A11 Pin=U1-T6
+Added Pin To Net: NetName=FPGA_M1 Pin=U1-T7
+Added Pin To Net: NetName=+1.0V Pin=U1-T8
+Added Pin To Net: NetName=FPGA_M1 Pin=U1-T9
+Added Pin To Net: NetName=+1.0V Pin=U1-T10
+Added Pin To Net: NetName=FPGA_M1 Pin=U1-T11
+Added Pin To Net: NetName=+3.3V Pin=U1-T12
+Added Pin To Net: NetName=FPGA_TMS Pin=U1-T13
+Added Pin To Net: NetName=FPGA_M1 Pin=U1-T17
+Added Pin To Net: NetName=NetU1_G19 Pin=U1-T22
+Added Pin To Net: NetName=DDR3_DQ10 Pin=U1-U1
+Added Pin To Net: NetName=DDR3_DQ14 Pin=U1-U2
+Added Pin To Net: NetName=DDR3_DQ15 Pin=U1-U3
+Added Pin To Net: NetName=FPGA_M1 Pin=U1-U4
+Added Pin To Net: NetName=DDR3_A1 Pin=U1-U5
+Added Pin To Net: NetName=DDR3_A6 Pin=U1-U6
+Added Pin To Net: NetName=DDR3_S0 Pin=U1-U7
+Added Pin To Net: NetName=+3.3V Pin=U1-U8
+Added Pin To Net: NetName=FPGA_M1 Pin=U1-U9
+Added Pin To Net: NetName=FPGA_M1 Pin=U1-U10
+Added Pin To Net: NetName=FPGA_M0 Pin=U1-U11
+Added Pin To Net: NetName=NetR1_2 Pin=U1-U12
+Added Pin To Net: NetName=FPGA_TDO Pin=U1-U13
+Added Pin To Net: NetName=FPGA_M1 Pin=U1-U14
+Added Pin To Net: NetName=NetU1_G19 Pin=U1-U19
+Added Pin To Net: NetName=FPGA_M1 Pin=U1-V1
+Added Pin To Net: NetName=DDR3_DQ8 Pin=U1-V2
+Added Pin To Net: NetName=DDR3_DQ0 Pin=U1-V4
+Added Pin To Net: NetName=DDR3_A4 Pin=U1-V5
+Added Pin To Net: NetName=+1.5V Pin=U1-V6
+Added Pin To Net: NetName=DDR3_A7 Pin=U1-V7
+Added Pin To Net: NetName=DDR3_CLK0_N Pin=U1-V8
+Added Pin To Net: NetName=DDR3_CLK0_P Pin=U1-V9
+Added Pin To Net: NetName=FPGA_M1 Pin=U1-V11
+Added Pin To Net: NetName=FPGA_TCK Pin=U1-V12
+Added Pin To Net: NetName=+3.3V Pin=U1-V16
+Added Pin To Net: NetName=FPGA_M1 Pin=U1-V21
+Added Pin To Net: NetName=DDR3_DQ13 Pin=U1-W1
+Added Pin To Net: NetName=DDR3_UDM Pin=U1-W2
+Added Pin To Net: NetName=+1.5V Pin=U1-W3
+Added Pin To Net: NetName=DDR3_BA1 Pin=U1-W5
+Added Pin To Net: NetName=DDR3_WE Pin=U1-W6
+Added Pin To Net: NetName=DDR3_A5 Pin=U1-W7
+Added Pin To Net: NetName=FPGA_M1 Pin=U1-W8
+Added Pin To Net: NetName=DDR3_A9 Pin=U1-W9
+Added Pin To Net: NetName=NetU1_G19 Pin=U1-W13
+Added Pin To Net: NetName=FPGA_M1 Pin=U1-W18
+Added Pin To Net: NetName=DDR3_DQ9 Pin=U1-Y1
+Added Pin To Net: NetName=DDR3_DQ11 Pin=U1-Y2
+Added Pin To Net: NetName=DDR3_LDQS_P Pin=U1-Y3
+Added Pin To Net: NetName=DDR3_DQ5 Pin=U1-Y4
+Added Pin To Net: NetName=FPGA_M1 Pin=U1-Y5
+Added Pin To Net: NetName=DDR3_A12 Pin=U1-Y6
+Added Pin To Net: NetName=DDR3_BA2 Pin=U1-Y7
+Added Pin To Net: NetName=DDR3_A3 Pin=U1-Y8
+Added Pin To Net: NetName=DDR3_A2 Pin=U1-Y9
+Added Pin To Net: NetName=NetU1_G19 Pin=U1-Y10
+Added Pin To Net: NetName=FPGA_M1 Pin=U1-Y15
+Added Pin To Net: NetName=NetU1_G19 Pin=U1-Y20
+Added Pin To Net: NetName=FPGA_M1 Pin=U2-1
+Added Pin To Net: NetName=NetC7_1 Pin=U2-2
+Added Pin To Net: NetName=+5V Pin=U2-3
+Added Pin To Net: NetName=NetC18_2 Pin=U2-4
+Added Pin To Net: NetName=NetC17_2 Pin=U2-5
+Added Pin To Net: NetName=NetC7_2 Pin=U2-6
+Added Pin To Net: NetName=FPGA_M1 Pin=U3-1
+Added Pin To Net: NetName=NetC8_1 Pin=U3-2
+Added Pin To Net: NetName=+5V Pin=U3-3
+Added Pin To Net: NetName=NetC19_2 Pin=U3-4
+Added Pin To Net: NetName=NetR47_2 Pin=U3-5
+Added Pin To Net: NetName=NetC8_2 Pin=U3-6
+Added Pin To Net: NetName=+1.5V Pin=U4-A1
+Added Pin To Net: NetName=DDR3_DQ13 Pin=U4-A2
+Added Pin To Net: NetName=DDR3_DQ15 Pin=U4-A3
+Added Pin To Net: NetName=DDR3_DQ12 Pin=U4-A7
+Added Pin To Net: NetName=+1.5V Pin=U4-A8
+Added Pin To Net: NetName=FPGA_M1 Pin=U4-A9
+Added Pin To Net: NetName=FPGA_M1 Pin=U4-B1
+Added Pin To Net: NetName=+1.5V Pin=U4-B2
+Added Pin To Net: NetName=FPGA_M1 Pin=U4-B3
+Added Pin To Net: NetName=DDR3_UDQS_N Pin=U4-B7
+Added Pin To Net: NetName=DDR3_DQ14 Pin=U4-B8
+Added Pin To Net: NetName=FPGA_M1 Pin=U4-B9
+Added Pin To Net: NetName=+1.5V Pin=U4-C1
+Added Pin To Net: NetName=DDR3_DQ11 Pin=U4-C2
+Added Pin To Net: NetName=DDR3_DQ9 Pin=U4-C3
+Added Pin To Net: NetName=DDR3_UDQS_P Pin=U4-C7
+Added Pin To Net: NetName=DDR3_DQ10 Pin=U4-C8
+Added Pin To Net: NetName=+1.5V Pin=U4-C9
+Added Pin To Net: NetName=FPGA_M1 Pin=U4-D1
+Added Pin To Net: NetName=+1.5V Pin=U4-D2
+Added Pin To Net: NetName=DDR3_UDM Pin=U4-D3
+Added Pin To Net: NetName=DDR3_DQ8 Pin=U4-D7
+Added Pin To Net: NetName=FPGA_M1 Pin=U4-D8
+Added Pin To Net: NetName=+1.5V Pin=U4-D9
+Added Pin To Net: NetName=FPGA_M1 Pin=U4-E1
+Added Pin To Net: NetName=FPGA_M1 Pin=U4-E2
+Added Pin To Net: NetName=DDR3_DQ0 Pin=U4-E3
+Added Pin To Net: NetName=DDR3_LDM Pin=U4-E7
+Added Pin To Net: NetName=FPGA_M1 Pin=U4-E8
+Added Pin To Net: NetName=+1.5V Pin=U4-E9
+Added Pin To Net: NetName=+1.5V Pin=U4-F1
+Added Pin To Net: NetName=DDR3_DQ2 Pin=U4-F2
+Added Pin To Net: NetName=DDR3_LDQS_P Pin=U4-F3
+Added Pin To Net: NetName=DDR3_DQ1 Pin=U4-F7
+Added Pin To Net: NetName=DDR3_DQ3 Pin=U4-F8
+Added Pin To Net: NetName=FPGA_M1 Pin=U4-F9
+Added Pin To Net: NetName=FPGA_M1 Pin=U4-G1
+Added Pin To Net: NetName=DDR3_DQ6 Pin=U4-G2
+Added Pin To Net: NetName=DDR3_LDQS_N Pin=U4-G3
+Added Pin To Net: NetName=+1.5V Pin=U4-G7
+Added Pin To Net: NetName=FPGA_M1 Pin=U4-G8
+Added Pin To Net: NetName=FPGA_M1 Pin=U4-G9
+Added Pin To Net: NetName=DDR3_VREF Pin=U4-H1
+Added Pin To Net: NetName=+1.5V Pin=U4-H2
+Added Pin To Net: NetName=DDR3_DQ4 Pin=U4-H3
+Added Pin To Net: NetName=DDR3_DQ7 Pin=U4-H7
+Added Pin To Net: NetName=DDR3_DQ5 Pin=U4-H8
+Added Pin To Net: NetName=+1.5V Pin=U4-H9
+Added Pin To Net: NetName=FPGA_M1 Pin=U4-J2
+Added Pin To Net: NetName=DDR3_RAS Pin=U4-J3
+Added Pin To Net: NetName=DDR3_CLK0_P Pin=U4-J7
+Added Pin To Net: NetName=FPGA_M1 Pin=U4-J8
+Added Pin To Net: NetName=DDR3_ODT Pin=U4-K1
+Added Pin To Net: NetName=+1.5V Pin=U4-K2
+Added Pin To Net: NetName=DDR3_CAS Pin=U4-K3
+Added Pin To Net: NetName=DDR3_CLK0_N Pin=U4-K7
+Added Pin To Net: NetName=+1.5V Pin=U4-K8
+Added Pin To Net: NetName=DDR3_CKE Pin=U4-K9
+Added Pin To Net: NetName=DDR3_S0 Pin=U4-L2
+Added Pin To Net: NetName=DDR3_WE Pin=U4-L3
+Added Pin To Net: NetName=DDR3_A10 Pin=U4-L7
+Added Pin To Net: NetName=NetR39_2 Pin=U4-L8
+Added Pin To Net: NetName=FPGA_M1 Pin=U4-M1
+Added Pin To Net: NetName=DDR3_BA0 Pin=U4-M2
+Added Pin To Net: NetName=DDR3_BA2 Pin=U4-M3
+Added Pin To Net: NetName=DDR3_VREF Pin=U4-M8
+Added Pin To Net: NetName=FPGA_M1 Pin=U4-M9
+Added Pin To Net: NetName=+1.5V Pin=U4-N1
+Added Pin To Net: NetName=DDR3_A3 Pin=U4-N2
+Added Pin To Net: NetName=DDR3_A0 Pin=U4-N3
+Added Pin To Net: NetName=DDR3_A12 Pin=U4-N7
+Added Pin To Net: NetName=DDR3_BA1 Pin=U4-N8
+Added Pin To Net: NetName=+1.5V Pin=U4-N9
+Added Pin To Net: NetName=FPGA_M1 Pin=U4-P1
+Added Pin To Net: NetName=DDR3_A5 Pin=U4-P2
+Added Pin To Net: NetName=DDR3_A2 Pin=U4-P3
+Added Pin To Net: NetName=DDR3_A1 Pin=U4-P7
+Added Pin To Net: NetName=DDR3_A4 Pin=U4-P8
+Added Pin To Net: NetName=FPGA_M1 Pin=U4-P9
+Added Pin To Net: NetName=+1.5V Pin=U4-R1
+Added Pin To Net: NetName=DDR3_A7 Pin=U4-R2
+Added Pin To Net: NetName=DDR3_A9 Pin=U4-R3
+Added Pin To Net: NetName=DDR3_A11 Pin=U4-R7
+Added Pin To Net: NetName=DDR3_A6 Pin=U4-R8
+Added Pin To Net: NetName=+1.5V Pin=U4-R9
+Added Pin To Net: NetName=FPGA_M1 Pin=U4-T1
+Added Pin To Net: NetName=DDR3_RESET_N Pin=U4-T2
+Added Pin To Net: NetName=DDR3_A13 Pin=U4-T3
+Added Pin To Net: NetName=DDR3_A8 Pin=U4-T8
+Added Pin To Net: NetName=FPGA_M1 Pin=U4-T9
+Added Pin To Net: NetName=NetC115_2 Pin=U5-1
+Added Pin To Net: NetName=+1.5V Pin=U5-2
+Added Pin To Net: NetName=DDR3_VTT Pin=U5-3
+Added Pin To Net: NetName=FPGA_M1 Pin=U5-4
+Added Pin To Net: NetName=DDR3_VTT Pin=U5-5
+Added Pin To Net: NetName=DDR3_VREF Pin=U5-6
+Added Pin To Net: NetName=+3.3V Pin=U5-7
+Added Pin To Net: NetName=FPGA_M1 Pin=U5-8
+Added Pin To Net: NetName=NetR43_2 Pin=U5-9
+Added Pin To Net: NetName=+3.3V Pin=U5-10
+Added Pin To Net: NetName=FPGA_M1 Pin=U5-11
+Added Pin To Net: NetName=+5V Pin=U6-1
+Added Pin To Net: NetName=FPGA_M1 Pin=U6-2
+Added Pin To Net: NetName=+3.3V Pin=U6-3
+Added Pin To Net: NetName=VCCIO Pin=U6-5
+Added Pin To Net: NetName=FPGA_M1 Pin=U7-1
+Added Pin To Net: NetName=NetC23_1 Pin=U7-2
+Added Pin To Net: NetName=+5V Pin=U7-3
+Added Pin To Net: NetName=NetC33_2 Pin=U7-4
+Added Pin To Net: NetName=NetC35_2 Pin=U7-5
+Added Pin To Net: NetName=NetC23_2 Pin=U7-6
+Added Pin To Net: NetName=FPGA_M1 Pin=U8-1
+Added Pin To Net: NetName=NetC24_1 Pin=U8-2
+Added Pin To Net: NetName=+5V Pin=U8-3
+Added Pin To Net: NetName=NetC34_2 Pin=U8-4
+Added Pin To Net: NetName=NetC36_2 Pin=U8-5
+Added Pin To Net: NetName=NetC24_2 Pin=U8-6
+Added Pin To Net: NetName=FPGA_M1 Pin=U14-2
+Added Pin To Net: NetName=NetJ6_19 Pin=U14-3
+Added Pin To Net: NetName=NetR119_2 Pin=U14-4
+Added Pin To Net: NetName=+3.3V Pin=U14-5
+Added Pin To Net: NetName=HDMI1_OUT_EN Pin=U15-1
+Added Pin To Net: NetName=HDMI1_HPD Pin=U15-2
+Added Pin To Net: NetName=FPGA_M1 Pin=U15-3
+Added Pin To Net: NetName=NetR123_1 Pin=U15-4
+Added Pin To Net: NetName=+3.3V Pin=U15-5
+Added Pin To Net: NetName=HDMI1_D1_N Pin=U30-1
+Added Pin To Net: NetName=HDMI1_D1_P Pin=U30-2
+Added Pin To Net: NetName=FPGA_M1 Pin=U30-3
+Added Pin To Net: NetName=HDMI1_D2_N Pin=U30-4
+Added Pin To Net: NetName=HDMI1_D2_P Pin=U30-5
+Added Pin To Net: NetName=HDMI1_D2_P Pin=U30-6
+Added Pin To Net: NetName=HDMI1_D2_N Pin=U30-7
+Added Pin To Net: NetName=HDMI1_D1_P Pin=U30-9
+Added Pin To Net: NetName=HDMI1_D1_N Pin=U30-10
+Added Pin To Net: NetName=HDMI1_CLK_N Pin=U31-1
+Added Pin To Net: NetName=HDMI1_CLK_P Pin=U31-2
+Added Pin To Net: NetName=FPGA_M1 Pin=U31-3
+Added Pin To Net: NetName=HDMI1_D0_N Pin=U31-4
+Added Pin To Net: NetName=HDMI1_D0_P Pin=U31-5
+Added Pin To Net: NetName=HDMI1_D0_P Pin=U31-6
+Added Pin To Net: NetName=HDMI1_D0_N Pin=U31-7
+Added Pin To Net: NetName=HDMI1_CLK_P Pin=U31-9
+Added Pin To Net: NetName=HDMI1_CLK_N Pin=U31-10
+Added Pin To Net: NetName=NetR4_1 Pin=X1-1
+Added Pin To Net: NetName=FPGA_M1 Pin=X1-2
+Added Pin To Net: NetName=NetC2_1 Pin=X1-3
+Added Pin To Net: NetName=NetC1_1 Pin=X1-4
+Added Member To Class: ClassName=Programming_and_Clock_FPGA Member=Component C1 GR442QR73D121KW01K
+Added Member To Class: ClassName=Programming_and_Clock_FPGA Member=Component C2 GR442QR73D121KW01K
+Added Member To Class: ClassName=Programming_and_Clock_FPGA Member=Component C3 GR442QR73D121KW01K
+Added Member To Class: ClassName=Programming_and_Clock_FPGA Member=Component C4 GR442QR73D121KW01K
+Added Member To Class: ClassName=MIPI_Interface Member=Component C5 GR442QR73D121KW01K
+Added Member To Class: ClassName=MIPI_Interface Member=Component C6 GR442QR73D121KW01K
+Added Member To Class: ClassName=Power_supply Member=Component C7 GR442QR73D121KW01K
+Added Member To Class: ClassName=Power_supply Member=Component C8 GR442QR73D121KW01K
+Added Member To Class: ClassName=Power_supply Member=Component C9 GR442QR73D121KW01K
+Added Member To Class: ClassName=Power_supply Member=Component C10 GR442QR73D121KW01K
+Added Member To Class: ClassName=Power_supply Member=Component C11 GR442QR73D121KW01K
+Added Member To Class: ClassName=Power_supply Member=Component C12 GR442QR73D121KW01K
+Added Member To Class: ClassName=Power_supply Member=Component C13 GR442QR73D121KW01K
+Added Member To Class: ClassName=Power_supply Member=Component C14 GR442QR73D121KW01K
+Added Member To Class: ClassName=Power_supply Member=Component C15 GR442QR73D121KW01K
+Added Member To Class: ClassName=Power_supply Member=Component C16 GR442QR73D121KW01K
+Added Member To Class: ClassName=Power_supply Member=Component C17 GR442QR73D121KW01K
+Added Member To Class: ClassName=Power_supply Member=Component C18 GR442QR73D121KW01K
+Added Member To Class: ClassName=Power_supply Member=Component C19 GR442QR73D121KW01K
+Added Member To Class: ClassName=Power_supply Member=Component C20 GR442QR73D121KW01K
+Added Member To Class: ClassName=Power_supply Member=Component C21 GR442QR73D121KW01K
+Added Member To Class: ClassName=Power_supply Member=Component C22 GR442QR73D121KW01K
+Added Member To Class: ClassName=Power_supply Member=Component C23 GR442QR73D121KW01K
+Added Member To Class: ClassName=Power_supply Member=Component C24 GR442QR73D121KW01K
+Added Member To Class: ClassName=Power_supply Member=Component C25 GR442QR73D121KW01K
+Added Member To Class: ClassName=Power_supply Member=Component C26 GR442QR73D121KW01K
+Added Member To Class: ClassName=Power_supply Member=Component C27 GR442QR73D121KW01K
+Added Member To Class: ClassName=Power_supply Member=Component C28 GR442QR73D121KW01K
+Added Member To Class: ClassName=Power_supply Member=Component C29 GR442QR73D121KW01K
+Added Member To Class: ClassName=Power_supply Member=Component C30 GR442QR73D121KW01K
+Added Member To Class: ClassName=Power_supply Member=Component C31 GR442QR73D121KW01K
+Added Member To Class: ClassName=Power_supply Member=Component C32 GR442QR73D121KW01K
+Added Member To Class: ClassName=Power_supply Member=Component C33 GR442QR73D121KW01K
+Added Member To Class: ClassName=Power_supply Member=Component C34 GR442QR73D121KW01K
+Added Member To Class: ClassName=Power_supply Member=Component C35 GR442QR73D121KW01K
+Added Member To Class: ClassName=Power_supply Member=Component C36 GR442QR73D121KW01K
+Added Member To Class: ClassName=RAM Member=Component C100 GR442QR73D121KW01K
+Added Member To Class: ClassName=RAM Member=Component C115 GR442QR73D121KW01K
+Added Member To Class: ClassName=RAM Member=Component C121 GR442QR73D121KW01K
+Added Member To Class: ClassName=RAM Member=Component C125 GR442QR73D121KW01K
+Added Member To Class: ClassName=RAM Member=Component C126 GR442QR73D121KW01K
+Added Member To Class: ClassName=RAM Member=Component C127 GR442QR73D121KW01K
+Added Member To Class: ClassName=RAM Member=Component C128 GR442QR73D121KW01K
+Added Member To Class: ClassName=RAM Member=Component C129 GR442QR73D121KW01K
+Added Member To Class: ClassName=RAM Member=Component C130 GR442QR73D121KW01K
+Added Member To Class: ClassName=RAM Member=Component C131 GR442QR73D121KW01K
+Added Member To Class: ClassName=HDMI Member=Component C190 GR442QR73D121KW01K
+Added Member To Class: ClassName=HDMI Member=Component C191 GR442QR73D121KW01K
+Added Member To Class: ClassName=Power_supply Member=Component CN1 694106402002
+Added Member To Class: ClassName=HDMI Member=Component D2 BAS16XV2T1G
+Added Member To Class: ClassName=Power_supply Member=Component F1 2A
+Added Member To Class: ClassName=Programming_and_Clock_FPGA Member=Component J1 PH2-14-UA
+Added Member To Class: ClassName=HDMI Member=Component J6 10029449-001RLF
+Added Member To Class: ClassName=MIPI_Interface Member=Component J8 687117149022
+Added Member To Class: ClassName=Programming_and_Clock_FPGA Member=Component L1 120OHM@100Mhz
+Added Member To Class: ClassName=Programming_and_Clock_FPGA Member=Component L2 120OHM@100Mhz
+Added Member To Class: ClassName=Power_supply Member=Component L3 ASPIAIG-FLR4020-3R3M-T
+Added Member To Class: ClassName=Power_supply Member=Component L4 ASPIAIG-FLR4020-3R3M-T
+Added Member To Class: ClassName=Power_supply Member=Component L5 ASPIAIG-FLR4020-3R3M-T
+Added Member To Class: ClassName=Power_supply Member=Component L6 ASPIAIG-FLR4020-3R3M-T
+Added Member To Class: ClassName=LEDS_And_Buttons Member=Component LED1 LTST-C230EKT
+Added Member To Class: ClassName=LEDS_And_Buttons Member=Component LED2 LTST-C230EKT
+Added Member To Class: ClassName=LEDS_And_Buttons Member=Component LED3 LTST-C230EKT
+Added Member To Class: ClassName=LEDS_And_Buttons Member=Component LED4 LTST-C230EKT
+Added Member To Class: ClassName=Programming_and_Clock_FPGA Member=Component R1 4K7 5% 1210(3225)
+Added Member To Class: ClassName=Programming_and_Clock_FPGA Member=Component R2 4K7 5% 1210(3225)
+Added Member To Class: ClassName=Programming_and_Clock_FPGA Member=Component R3 4K7 5% 1210(3225)
+Added Member To Class: ClassName=Programming_and_Clock_FPGA Member=Component R4 4K7 5% 1210(3225)
+Added Member To Class: ClassName=Programming_and_Clock_FPGA Member=Component R5 4K7 5% 1210(3225)
+Added Member To Class: ClassName=MIPI_Interface Member=Component R6 4K7 5% 1210(3225)
+Added Member To Class: ClassName=MIPI_Interface Member=Component R7 4K7 5% 1210(3225)
+Added Member To Class: ClassName=MIPI_Interface Member=Component R8 4K7 5% 1210(3225)
+Added Member To Class: ClassName=MIPI_Interface Member=Component R9 4K7 5% 1210(3225)
+Added Member To Class: ClassName=MIPI_Interface Member=Component R10 4K7 5% 1210(3225)
+Added Member To Class: ClassName=MIPI_Interface Member=Component R11 4K7 5% 1210(3225)
+Added Member To Class: ClassName=MIPI_Interface Member=Component R12 4K7 5% 1210(3225)
+Added Member To Class: ClassName=MIPI_Interface Member=Component R13 4K7 5% 1210(3225)
+Added Member To Class: ClassName=MIPI_Interface Member=Component R14 4K7 5% 1210(3225)
+Added Member To Class: ClassName=MIPI_Interface Member=Component R15 4K7 5% 1210(3225)
+Added Member To Class: ClassName=Programming_and_Clock_FPGA Member=Component R16 4K7 5% 1210(3225)
+Added Member To Class: ClassName=RAM Member=Component R17 4K7 5% 1210(3225)
+Added Member To Class: ClassName=RAM Member=Component R18 4K7 5% 1210(3225)
+Added Member To Class: ClassName=RAM Member=Component R19 4K7 5% 1210(3225)
+Added Member To Class: ClassName=RAM Member=Component R20 4K7 5% 1210(3225)
+Added Member To Class: ClassName=RAM Member=Component R21 4K7 5% 1210(3225)
+Added Member To Class: ClassName=RAM Member=Component R22 4K7 5% 1210(3225)
+Added Member To Class: ClassName=RAM Member=Component R23 4K7 5% 1210(3225)
+Added Member To Class: ClassName=RAM Member=Component R24 4K7 5% 1210(3225)
+Added Member To Class: ClassName=RAM Member=Component R25 4K7 5% 1210(3225)
+Added Member To Class: ClassName=RAM Member=Component R26 4K7 5% 1210(3225)
+Added Member To Class: ClassName=RAM Member=Component R27 4K7 5% 1210(3225)
+Added Member To Class: ClassName=RAM Member=Component R28 4K7 5% 1210(3225)
+Added Member To Class: ClassName=RAM Member=Component R29 4K7 5% 1210(3225)
+Added Member To Class: ClassName=RAM Member=Component R30 4K7 5% 1210(3225)
+Added Member To Class: ClassName=MIPI_Interface Member=Component R31 4K7 5% 1210(3225)
+Added Member To Class: ClassName=RAM Member=Component R32 4K7 5% 1210(3225)
+Added Member To Class: ClassName=RAM Member=Component R33 4K7 5% 1210(3225)
+Added Member To Class: ClassName=RAM Member=Component R34 4K7 5% 1210(3225)
+Added Member To Class: ClassName=RAM Member=Component R35 4K7 5% 1210(3225)
+Added Member To Class: ClassName=RAM Member=Component R36 4K7 5% 1210(3225)
+Added Member To Class: ClassName=RAM Member=Component R37 4K7 5% 1210(3225)
+Added Member To Class: ClassName=RAM Member=Component R38 4K7 5% 1210(3225)
+Added Member To Class: ClassName=RAM Member=Component R39 4K7 5% 1210(3225)
+Added Member To Class: ClassName=RAM Member=Component R40 4K7 5% 1210(3225)
+Added Member To Class: ClassName=RAM Member=Component R41 4K7 5% 1210(3225)
+Added Member To Class: ClassName=RAM Member=Component R42 4K7 5% 1210(3225)
+Added Member To Class: ClassName=RAM Member=Component R43 4K7 5% 1210(3225)
+Added Member To Class: ClassName=Programming_and_Clock_FPGA Member=Component R44 4K7 5% 1210(3225)
+Added Member To Class: ClassName=Programming_and_Clock_FPGA Member=Component R45 4K7 5% 1210(3225)
+Added Member To Class: ClassName=Power_supply Member=Component R46 4K7 5% 1210(3225)
+Added Member To Class: ClassName=Power_supply Member=Component R47 4K7 5% 1210(3225)
+Added Member To Class: ClassName=Power_supply Member=Component R48 4K7 5% 1210(3225)
+Added Member To Class: ClassName=Power_supply Member=Component R49 4K7 5% 1210(3225)
+Added Member To Class: ClassName=Power_supply Member=Component R50 4K7 5% 1210(3225)
+Added Member To Class: ClassName=Power_supply Member=Component R51 4K7 5% 1210(3225)
+Added Member To Class: ClassName=Power_supply Member=Component R52 4K7 5% 1210(3225)
+Added Member To Class: ClassName=Power_supply Member=Component R53 4K7 5% 1210(3225)
+Added Member To Class: ClassName=LEDS_And_Buttons Member=Component R54 4K7 5% 1210(3225)
+Added Member To Class: ClassName=LEDS_And_Buttons Member=Component R55 4K7 5% 1210(3225)
+Added Member To Class: ClassName=LEDS_And_Buttons Member=Component R56 4K7 5% 1210(3225)
+Added Member To Class: ClassName=LEDS_And_Buttons Member=Component R57 4K7 5% 1210(3225)
+Added Member To Class: ClassName=LEDS_And_Buttons Member=Component R58 4K7 5% 1210(3225)
+Added Member To Class: ClassName=LEDS_And_Buttons Member=Component R59 4K7 5% 1210(3225)
+Added Member To Class: ClassName=LEDS_And_Buttons Member=Component R60 4K7 5% 1210(3225)
+Added Member To Class: ClassName=LEDS_And_Buttons Member=Component R61 4K7 5% 1210(3225)
+Added Member To Class: ClassName=LEDS_And_Buttons Member=Component R62 4K7 5% 1210(3225)
+Added Member To Class: ClassName=LEDS_And_Buttons Member=Component R63 4K7 5% 1210(3225)
+Added Member To Class: ClassName=LEDS_And_Buttons Member=Component R64 4K7 5% 1210(3225)
+Added Member To Class: ClassName=LEDS_And_Buttons Member=Component R65 4K7 5% 1210(3225)
+Added Member To Class: ClassName=Power_supply Member=Component R66 4K7 5% 1210(3225)
+Added Member To Class: ClassName=Power_supply Member=Component R67 4K7 5% 1210(3225)
+Added Member To Class: ClassName=Power_supply Member=Component R68 4K7 5% 1210(3225)
+Added Member To Class: ClassName=Power_supply Member=Component R69 4K7 5% 1210(3225)
+Added Member To Class: ClassName=Power_supply Member=Component R70 4K7 5% 1210(3225)
+Added Member To Class: ClassName=Power_supply Member=Component R71 4K7 5% 1210(3225)
+Added Member To Class: ClassName=HDMI Member=Component R111 4K7 5% 1210(3225)
+Added Member To Class: ClassName=HDMI Member=Component R112 4K7 5% 1210(3225)
+Added Member To Class: ClassName=HDMI Member=Component R113 4K7 5% 1210(3225)
+Added Member To Class: ClassName=HDMI Member=Component R114 4K7 5% 1210(3225)
+Added Member To Class: ClassName=HDMI Member=Component R115 4K7 5% 1210(3225)
+Added Member To Class: ClassName=HDMI Member=Component R116 4K7 5% 1210(3225)
+Added Member To Class: ClassName=HDMI Member=Component R117 4K7 5% 1210(3225)
+Added Member To Class: ClassName=HDMI Member=Component R118 4K7 5% 1210(3225)
+Added Member To Class: ClassName=HDMI Member=Component R119 4K7 5% 1210(3225)
+Added Member To Class: ClassName=HDMI Member=Component R120 4K7 5% 1210(3225)
+Added Member To Class: ClassName=HDMI Member=Component R121 4K7 5% 1210(3225)
+Added Member To Class: ClassName=HDMI Member=Component R122 4K7 5% 1210(3225)
+Added Member To Class: ClassName=HDMI Member=Component R123 4K7 5% 1210(3225)
+Added Member To Class: ClassName=LEDS_And_Buttons Member=Component SW1 SKSTAAE010
+Added Member To Class: ClassName=LEDS_And_Buttons Member=Component SW2 SKSTAAE010
+Added Member To Class: ClassName=LEDS_And_Buttons Member=Component SW3 SKSTAAE010
+Added Member To Class: ClassName=LEDS_And_Buttons Member=Component SW4 SKSTAAE010
+Add Class Member: Failed to add class member : Component TP1 testpoint
+Add Class Member: Failed to add class member : Component TP2 testpoint
+Add Class Member: Failed to add class member : Component TP3 testpoint
+Add Class Member: Failed to add class member : Component TP4 testpoint
+Added Member To Class: ClassName=Programming_and_Clock_FPGA Member=Component U1 XC7A35T-2FGG484C
+Added Member To Class: ClassName=Power_supply Member=Component U2 ETA1471FT2G
+Added Member To Class: ClassName=Power_supply Member=Component U3 ETA1471FT2G
+Added Member To Class: ClassName=RAM Member=Component U4 MT41J128M16HA-125
+Added Member To Class: ClassName=RAM Member=Component U5 TPS51200DRCR
+Added Member To Class: ClassName=Power_supply Member=Component U6 SPX3819M5-3-3
+Added Member To Class: ClassName=Power_supply Member=Component U7 ETA1471FT2G
+Added Member To Class: ClassName=Power_supply Member=Component U8 ETA1471FT2G
+Added Member To Class: ClassName=HDMI Member=Component U14 SN74LVC2G07DCKR
+Added Member To Class: ClassName=HDMI Member=Component U15 SN74AUP1G125DBVR
+Added Member To Class: ClassName=HDMI Member=Component U30 AZ1045-04F.R7G
+Added Member To Class: ClassName=HDMI Member=Component U31 AZ1045-04F.R7G
+Added Member To Class: ClassName=Programming_and_Clock_FPGA Member=Component X1 7M-50.000MAAJ-T

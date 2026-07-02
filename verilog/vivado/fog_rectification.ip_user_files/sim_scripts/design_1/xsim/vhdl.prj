@@ -1,0 +1,8 @@
+vhdl xil_defaultlib  \
+"../../../bd/design_1/ip/design_1_mipi_csi2_rx_subsystem_0_0/bd_0/ip/ip_3/sim/bd_bf15_r_sync_0.vhd" \
+"../../../bd/design_1/ipshared/40b8/hdl/LineBuffer.vhd" \
+"../../../bd/design_1/ipshared/40b8/hdl/AXI_BayerToRGB.vhd" \
+"../../../bd/design_1/ip/design_1_AXI_BayerToRGB_0_2/sim/design_1_AXI_BayerToRGB_0_2.vhd" \
+
+# Do not sort compile order
+nosort

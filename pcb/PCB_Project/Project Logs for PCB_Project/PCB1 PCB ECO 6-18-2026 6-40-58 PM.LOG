@@ -1,0 +1,60 @@
+Removed Pin From Net: NetName=+1.8V Pin=U?-E12
+Removed Pin From Net: NetName=+1.0V Pin=U?-H8
+Removed Pin From Net: NetName=+1.0V Pin=U?-H10
+Removed Pin From Net: NetName=+1.8V Pin=U?-H12
+Removed Pin From Net: NetName=+1.0V Pin=U?-J7
+Removed Pin From Net: NetName=+1.0V Pin=U?-J9
+Removed Pin From Net: NetName=+1.0V Pin=U?-J11
+Removed Pin From Net: NetName=+1.0V Pin=U?-K8
+Removed Pin From Net: NetName=+1.8V Pin=U?-K12
+Removed Pin From Net: NetName=+1.0V Pin=U?-L7
+Removed Pin From Net: NetName=+1.0V Pin=U?-L11
+Removed Pin From Net: NetName=+1.0V Pin=U?-M8
+Removed Pin From Net: NetName=+1.8V Pin=U?-M12
+Removed Pin From Net: NetName=+1.0V Pin=U?-N7
+Removed Pin From Net: NetName=+1.0V Pin=U?-N11
+Removed Pin From Net: NetName=+1.0V Pin=U?-P8
+Removed Pin From Net: NetName=+1.0V Pin=U?-P10
+Removed Pin From Net: NetName=+1.8V Pin=U?-P12
+Removed Pin From Net: NetName=+1.0V Pin=U?-R7
+Removed Pin From Net: NetName=+1.0V Pin=U?-R9
+Removed Pin From Net: NetName=+1.8V Pin=U?-R11
+Removed Pin From Net: NetName=+1.0V Pin=U?-T8
+Removed Pin From Net: NetName=+1.0V Pin=U?-T10
+Removed Member From Class: ClassName=MIPI_Interface Member=J6
+Removed Member From Class: ClassName=Power_supply Member=L6
+Removed Member From Class: ClassName=HDMI Member=LED2
+Removed Member From Class: ClassName=Programming_and_Clock_FPGA Member=U?
+Add Pin To Net: Unknown Pin: Pin TP1-1
+Add Pin To Net: Unknown Pin: Pin TP2-1
+Add Pin To Net: Unknown Pin: Pin TP3-1
+Add Pin To Net: Unknown Pin: Pin TP4-1
+Added Pin To Net: NetName=+1.8V Pin=U1-E12
+Added Pin To Net: NetName=+1.0V Pin=U1-H8
+Added Pin To Net: NetName=+1.0V Pin=U1-H10
+Added Pin To Net: NetName=+1.8V Pin=U1-H12
+Added Pin To Net: NetName=+1.0V Pin=U1-J7
+Added Pin To Net: NetName=+1.0V Pin=U1-J9
+Added Pin To Net: NetName=+1.0V Pin=U1-J11
+Added Pin To Net: NetName=+1.0V Pin=U1-K8
+Added Pin To Net: NetName=+1.8V Pin=U1-K12
+Added Pin To Net: NetName=+1.0V Pin=U1-L7
+Added Pin To Net: NetName=+1.0V Pin=U1-L11
+Added Pin To Net: NetName=+1.0V Pin=U1-M8
+Added Pin To Net: NetName=+1.8V Pin=U1-M12
+Added Pin To Net: NetName=+1.0V Pin=U1-N7
+Added Pin To Net: NetName=+1.0V Pin=U1-N11
+Added Pin To Net: NetName=+1.0V Pin=U1-P8
+Added Pin To Net: NetName=+1.0V Pin=U1-P10
+Added Pin To Net: NetName=+1.8V Pin=U1-P12
+Added Pin To Net: NetName=+1.0V Pin=U1-R7
+Added Pin To Net: NetName=+1.0V Pin=U1-R9
+Added Pin To Net: NetName=+1.8V Pin=U1-R11
+Added Pin To Net: NetName=+1.0V Pin=U1-T8
+Added Pin To Net: NetName=+1.0V Pin=U1-T10
+Added Member To Class: ClassName=HDMI Member=Component D2 BAS16XV2T1G
+Added Member To Class: ClassName=MIPI_Interface Member=Component J? 687117149022
+Add Class Member: Failed to add class member : Component TP1 testpoint
+Add Class Member: Failed to add class member : Component TP2 testpoint
+Add Class Member: Failed to add class member : Component TP3 testpoint
+Add Class Member: Failed to add class member : Component TP4 testpoint

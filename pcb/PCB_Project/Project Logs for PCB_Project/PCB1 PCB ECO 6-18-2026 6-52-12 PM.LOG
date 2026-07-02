@@ -1,0 +1,111 @@
+Removed Member From Class: ClassName=Programming_and_Clock_FPGA Member=C133
+Removed Member From Class: ClassName=Programming_and_Clock_FPGA Member=C134
+Removed Member From Class: ClassName=Programming_and_Clock_FPGA Member=L6
+Removed Member From Class: ClassName=Power_supply Member=L66
+Removed Member From Class: ClassName=Programming_and_Clock_FPGA Member=R171
+Change Component Designator: OldDesignator=C1 NewDesignator=C3
+Change Component Designator: OldDesignator=C2 NewDesignator=C4
+Change Component Designator: OldDesignator=C133 NewDesignator=C1
+Change Component Designator: OldDesignator=C134 NewDesignator=C2
+Change Component Designator: OldDesignator=C151 NewDesignator=C17
+Change Component Designator: OldDesignator=C203 NewDesignator=C32
+Change Component Designator: OldDesignator=C209 NewDesignator=C24
+Change Component Designator: OldDesignator=C222 NewDesignator=C20
+Change Component Designator: OldDesignator=C223 NewDesignator=C21
+Change Component Designator: OldDesignator=C224 NewDesignator=C22
+Change Component Designator: OldDesignator=C505 NewDesignator=C10
+Change Component Designator: OldDesignator=C506 NewDesignator=C8
+Change Component Designator: OldDesignator=C507 NewDesignator=C19
+Change Component Designator: OldDesignator=C508 NewDesignator=C14
+Change Component Designator: OldDesignator=C509 NewDesignator=C15
+Change Component Designator: OldDesignator=C510 NewDesignator=C16
+Change Component Designator: OldDesignator=C511 NewDesignator=C9
+Change Component Designator: OldDesignator=C512 NewDesignator=C7
+Change Component Designator: OldDesignator=C513 NewDesignator=C18
+Change Component Designator: OldDesignator=C514 NewDesignator=C11
+Change Component Designator: OldDesignator=C515 NewDesignator=C12
+Change Component Designator: OldDesignator=C516 NewDesignator=C13
+Change Component Designator: OldDesignator=C517 NewDesignator=C26
+Change Component Designator: OldDesignator=C518 NewDesignator=C34
+Change Component Designator: OldDesignator=C519 NewDesignator=C30
+Change Component Designator: OldDesignator=C520 NewDesignator=C31
+Change Component Designator: OldDesignator=C521 NewDesignator=C36
+Change Component Designator: OldDesignator=C522 NewDesignator=C35
+Change Component Designator: OldDesignator=C523 NewDesignator=C25
+Change Component Designator: OldDesignator=C524 NewDesignator=C23
+Change Component Designator: OldDesignator=C525 NewDesignator=C33
+Change Component Designator: OldDesignator=C526 NewDesignator=C27
+Change Component Designator: OldDesignator=C527 NewDesignator=C28
+Change Component Designator: OldDesignator=C528 NewDesignator=C29
+Change Component Designator: OldDesignator=F3 NewDesignator=F1
+Change Component Designator: OldDesignator=IC? NewDesignator=U6
+Change Component Designator: OldDesignator=J11 NewDesignator=J1
+Change Component Designator: OldDesignator=L1 NewDesignator=L2
+Change Component Designator: OldDesignator=L3 NewDesignator=L4
+Change Component Designator: OldDesignator=L4 NewDesignator=L5
+Change Component Designator: OldDesignator=L6 NewDesignator=L1
+Change Component Designator: OldDesignator=L66 NewDesignator=L3
+Change Component Designator: OldDesignator=L67 NewDesignator=L6
+Change Component Designator: OldDesignator=R2 NewDesignator=R3
+Change Component Designator: OldDesignator=R5 NewDesignator=R2
+Change Component Designator: OldDesignator=R44 NewDesignator=R70
+Change Component Designator: OldDesignator=R45 NewDesignator=R4
+Change Component Designator: OldDesignator=R73 NewDesignator=R46
+Change Component Designator: OldDesignator=R81 NewDesignator=R69
+Change Component Designator: OldDesignator=R82 NewDesignator=R53
+Change Component Designator: OldDesignator=R96 NewDesignator=R67
+Change Component Designator: OldDesignator=R171 NewDesignator=R5
+Change Component Designator: OldDesignator=R172 NewDesignator=R16
+Change Component Designator: OldDesignator=R173 NewDesignator=R44
+Change Component Designator: OldDesignator=R174 NewDesignator=R45
+Change Component Designator: OldDesignator=R243 NewDesignator=R51
+Change Component Designator: OldDesignator=R244 NewDesignator=R49
+Change Component Designator: OldDesignator=R245 NewDesignator=R47
+Change Component Designator: OldDesignator=R246 NewDesignator=R50
+Change Component Designator: OldDesignator=R247 NewDesignator=R48
+Change Component Designator: OldDesignator=R248 NewDesignator=R71
+Change Component Designator: OldDesignator=R249 NewDesignator=R66
+Change Component Designator: OldDesignator=R250 NewDesignator=R68
+Change Component Designator: OldDesignator=R251 NewDesignator=R52
+Change Component Designator: OldDesignator=U6 NewDesignator=U3
+Change Component Designator: OldDesignator=U36 NewDesignator=U2
+Change Component Designator: OldDesignator=U37 NewDesignator=U8
+Change Component Designator: OldDesignator=U38 NewDesignator=U7
+Add Pin To Net: Unknown Pin: Pin TP1-1
+Add Pin To Net: Unknown Pin: Pin TP2-1
+Add Pin To Net: Unknown Pin: Pin TP3-1
+Add Pin To Net: Unknown Pin: Pin TP4-1
+Change Net Name : Old Net Name=NetC1_1 New Net Name=NetC3_1
+Change Net Name : Old Net Name=NetC133_1 New Net Name=NetC1_1
+Change Net Name : Old Net Name=NetC134_1 New Net Name=NetC2_1
+Change Net Name : Old Net Name=NetC151_2 New Net Name=NetC17_2
+Change Net Name : Old Net Name=NetC209_1 New Net Name=NetC24_1
+Change Net Name : Old Net Name=NetC209_2 New Net Name=NetC24_2
+Change Net Name : Old Net Name=NetC506_1 New Net Name=NetC8_1
+Change Net Name : Old Net Name=NetC506_2 New Net Name=NetC8_2
+Change Net Name : Old Net Name=NetC507_2 New Net Name=NetC19_2
+Change Net Name : Old Net Name=NetC512_1 New Net Name=NetC7_1
+Change Net Name : Old Net Name=NetC512_2 New Net Name=NetC7_2
+Change Net Name : Old Net Name=NetC513_2 New Net Name=NetC18_2
+Change Net Name : Old Net Name=NetC518_2 New Net Name=NetC34_2
+Change Net Name : Old Net Name=NetC521_2 New Net Name=NetC36_2
+Change Net Name : Old Net Name=NetC522_2 New Net Name=NetC35_2
+Change Net Name : Old Net Name=NetC524_1 New Net Name=NetC23_1
+Change Net Name : Old Net Name=NetC524_2 New Net Name=NetC23_2
+Change Net Name : Old Net Name=NetC525_2 New Net Name=NetC33_2
+Change Net Name : Old Net Name=NetJ11_4 New Net Name=NetJ1_4
+Change Net Name : Old Net Name=NetJ11_6 New Net Name=NetJ1_6
+Change Net Name : Old Net Name=NetJ11_8 New Net Name=NetJ1_8
+Change Net Name : Old Net Name=NetJ11_10 New Net Name=NetJ1_10
+Change Net Name : Old Net Name=NetR2_2 New Net Name=NetR3_2
+Change Net Name : Old Net Name=NetR45_1 New Net Name=NetR4_1
+Change Net Name : Old Net Name=NetR245_2 New Net Name=NetR47_2
+Added Member To Class: ClassName=Programming_and_Clock_FPGA Member=Component C3 GR442QR73D121KW01K
+Added Member To Class: ClassName=Programming_and_Clock_FPGA Member=Component C4 GR442QR73D121KW01K
+Added Member To Class: ClassName=Programming_and_Clock_FPGA Member=Component L2 120OHM@100Mhz
+Added Member To Class: ClassName=Power_supply Member=Component L5 ASPIAIG-FLR4020-3R3M-T
+Added Member To Class: ClassName=Programming_and_Clock_FPGA Member=Component R3 4K7 5% 1210(3225)
+Add Class Member: Failed to add class member : Component TP1 testpoint
+Add Class Member: Failed to add class member : Component TP2 testpoint
+Add Class Member: Failed to add class member : Component TP3 testpoint
+Add Class Member: Failed to add class member : Component TP4 testpoint

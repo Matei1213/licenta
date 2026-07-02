@@ -1,0 +1,173 @@
+Add Pin To Net: Unknown Pin: Pin TP1-1
+Add Pin To Net: Unknown Pin: Pin TP2-1
+Add Pin To Net: Unknown Pin: Pin TP3-1
+Add Pin To Net: Unknown Pin: Pin TP4-1
+Added Member To Class: ClassName=Programming_and_Clock_FPGA Member=Component C1 GR442QR73D121KW01K
+Added Member To Class: ClassName=Programming_and_Clock_FPGA Member=Component C2 GR442QR73D121KW01K
+Added Member To Class: ClassName=Programming_and_Clock_FPGA Member=Component C3 GR442QR73D121KW01K
+Added Member To Class: ClassName=Programming_and_Clock_FPGA Member=Component C4 GR442QR73D121KW01K
+Added Member To Class: ClassName=MIPI_Interface Member=Component C5 GR442QR73D121KW01K
+Added Member To Class: ClassName=MIPI_Interface Member=Component C6 GR442QR73D121KW01K
+Added Member To Class: ClassName=Power_supply Member=Component C7 GR442QR73D121KW01K
+Added Member To Class: ClassName=Power_supply Member=Component C8 GR442QR73D121KW01K
+Added Member To Class: ClassName=Power_supply Member=Component C9 GR442QR73D121KW01K
+Added Member To Class: ClassName=Power_supply Member=Component C10 GR442QR73D121KW01K
+Added Member To Class: ClassName=Power_supply Member=Component C11 GR442QR73D121KW01K
+Added Member To Class: ClassName=Power_supply Member=Component C12 GR442QR73D121KW01K
+Added Member To Class: ClassName=Power_supply Member=Component C13 GR442QR73D121KW01K
+Added Member To Class: ClassName=Power_supply Member=Component C14 GR442QR73D121KW01K
+Added Member To Class: ClassName=Power_supply Member=Component C15 GR442QR73D121KW01K
+Added Member To Class: ClassName=Power_supply Member=Component C16 GR442QR73D121KW01K
+Added Member To Class: ClassName=Power_supply Member=Component C17 GR442QR73D121KW01K
+Added Member To Class: ClassName=Power_supply Member=Component C18 GR442QR73D121KW01K
+Added Member To Class: ClassName=Power_supply Member=Component C19 GR442QR73D121KW01K
+Added Member To Class: ClassName=Power_supply Member=Component C20 GR442QR73D121KW01K
+Added Member To Class: ClassName=Power_supply Member=Component C21 GR442QR73D121KW01K
+Added Member To Class: ClassName=Power_supply Member=Component C22 GR442QR73D121KW01K
+Added Member To Class: ClassName=Power_supply Member=Component C23 GR442QR73D121KW01K
+Added Member To Class: ClassName=Power_supply Member=Component C24 GR442QR73D121KW01K
+Added Member To Class: ClassName=Power_supply Member=Component C25 GR442QR73D121KW01K
+Added Member To Class: ClassName=Power_supply Member=Component C26 GR442QR73D121KW01K
+Added Member To Class: ClassName=Power_supply Member=Component C27 GR442QR73D121KW01K
+Added Member To Class: ClassName=Power_supply Member=Component C28 GR442QR73D121KW01K
+Added Member To Class: ClassName=Power_supply Member=Component C29 GR442QR73D121KW01K
+Added Member To Class: ClassName=Power_supply Member=Component C30 GR442QR73D121KW01K
+Added Member To Class: ClassName=Power_supply Member=Component C31 GR442QR73D121KW01K
+Added Member To Class: ClassName=Power_supply Member=Component C32 GR442QR73D121KW01K
+Added Member To Class: ClassName=Power_supply Member=Component C33 GR442QR73D121KW01K
+Added Member To Class: ClassName=Power_supply Member=Component C34 GR442QR73D121KW01K
+Added Member To Class: ClassName=Power_supply Member=Component C35 GR442QR73D121KW01K
+Added Member To Class: ClassName=Power_supply Member=Component C36 GR442QR73D121KW01K
+Added Member To Class: ClassName=RAM Member=Component C100 GR442QR73D121KW01K
+Added Member To Class: ClassName=RAM Member=Component C115 GR442QR73D121KW01K
+Added Member To Class: ClassName=RAM Member=Component C121 GR442QR73D121KW01K
+Added Member To Class: ClassName=RAM Member=Component C125 GR442QR73D121KW01K
+Added Member To Class: ClassName=RAM Member=Component C126 GR442QR73D121KW01K
+Added Member To Class: ClassName=RAM Member=Component C127 GR442QR73D121KW01K
+Added Member To Class: ClassName=RAM Member=Component C128 GR442QR73D121KW01K
+Added Member To Class: ClassName=RAM Member=Component C129 GR442QR73D121KW01K
+Added Member To Class: ClassName=RAM Member=Component C130 GR442QR73D121KW01K
+Added Member To Class: ClassName=RAM Member=Component C131 GR442QR73D121KW01K
+Added Member To Class: ClassName=HDMI Member=Component C190 GR442QR73D121KW01K
+Added Member To Class: ClassName=HDMI Member=Component C191 GR442QR73D121KW01K
+Added Member To Class: ClassName=Power_supply Member=Component CN1 694106402002
+Added Member To Class: ClassName=HDMI Member=Component D2 BAS16XV2T1G
+Added Member To Class: ClassName=Power_supply Member=Component F1 2A
+Added Member To Class: ClassName=Programming_and_Clock_FPGA Member=Component J1 PH2-14-UA
+Added Member To Class: ClassName=HDMI Member=Component J6 10029449-001RLF
+Added Member To Class: ClassName=MIPI_Interface Member=Component J8 687117149022
+Added Member To Class: ClassName=Programming_and_Clock_FPGA Member=Component L1 120OHM@100Mhz
+Added Member To Class: ClassName=Programming_and_Clock_FPGA Member=Component L2 120OHM@100Mhz
+Added Member To Class: ClassName=Power_supply Member=Component L3 ASPIAIG-FLR4020-3R3M-T
+Added Member To Class: ClassName=Power_supply Member=Component L4 ASPIAIG-FLR4020-3R3M-T
+Added Member To Class: ClassName=Power_supply Member=Component L5 ASPIAIG-FLR4020-3R3M-T
+Added Member To Class: ClassName=Power_supply Member=Component L6 ASPIAIG-FLR4020-3R3M-T
+Added Member To Class: ClassName=LEDS_And_Buttons Member=Component LED1 LTST-C230EKT
+Added Member To Class: ClassName=LEDS_And_Buttons Member=Component LED2 LTST-C230EKT
+Added Member To Class: ClassName=LEDS_And_Buttons Member=Component LED3 LTST-C230EKT
+Added Member To Class: ClassName=LEDS_And_Buttons Member=Component LED4 LTST-C230EKT
+Added Member To Class: ClassName=Programming_and_Clock_FPGA Member=Component R1 4K7 5% 1210(3225)
+Added Member To Class: ClassName=Programming_and_Clock_FPGA Member=Component R2 4K7 5% 1210(3225)
+Added Member To Class: ClassName=Programming_and_Clock_FPGA Member=Component R3 4K7 5% 1210(3225)
+Added Member To Class: ClassName=Programming_and_Clock_FPGA Member=Component R4 4K7 5% 1210(3225)
+Added Member To Class: ClassName=Programming_and_Clock_FPGA Member=Component R5 4K7 5% 1210(3225)
+Added Member To Class: ClassName=MIPI_Interface Member=Component R6 4K7 5% 1210(3225)
+Added Member To Class: ClassName=MIPI_Interface Member=Component R7 4K7 5% 1210(3225)
+Added Member To Class: ClassName=MIPI_Interface Member=Component R8 4K7 5% 1210(3225)
+Added Member To Class: ClassName=MIPI_Interface Member=Component R9 4K7 5% 1210(3225)
+Added Member To Class: ClassName=MIPI_Interface Member=Component R10 4K7 5% 1210(3225)
+Added Member To Class: ClassName=MIPI_Interface Member=Component R11 4K7 5% 1210(3225)
+Added Member To Class: ClassName=MIPI_Interface Member=Component R12 4K7 5% 1210(3225)
+Added Member To Class: ClassName=MIPI_Interface Member=Component R13 4K7 5% 1210(3225)
+Added Member To Class: ClassName=MIPI_Interface Member=Component R14 4K7 5% 1210(3225)
+Added Member To Class: ClassName=MIPI_Interface Member=Component R15 4K7 5% 1210(3225)
+Added Member To Class: ClassName=Programming_and_Clock_FPGA Member=Component R16 4K7 5% 1210(3225)
+Added Member To Class: ClassName=RAM Member=Component R17 4K7 5% 1210(3225)
+Added Member To Class: ClassName=RAM Member=Component R18 4K7 5% 1210(3225)
+Added Member To Class: ClassName=RAM Member=Component R19 4K7 5% 1210(3225)
+Added Member To Class: ClassName=RAM Member=Component R20 4K7 5% 1210(3225)
+Added Member To Class: ClassName=RAM Member=Component R21 4K7 5% 1210(3225)
+Added Member To Class: ClassName=RAM Member=Component R22 4K7 5% 1210(3225)
+Added Member To Class: ClassName=RAM Member=Component R23 4K7 5% 1210(3225)
+Added Member To Class: ClassName=RAM Member=Component R24 4K7 5% 1210(3225)
+Added Member To Class: ClassName=RAM Member=Component R25 4K7 5% 1210(3225)
+Added Member To Class: ClassName=RAM Member=Component R26 4K7 5% 1210(3225)
+Added Member To Class: ClassName=RAM Member=Component R27 4K7 5% 1210(3225)
+Added Member To Class: ClassName=RAM Member=Component R28 4K7 5% 1210(3225)
+Added Member To Class: ClassName=RAM Member=Component R29 4K7 5% 1210(3225)
+Added Member To Class: ClassName=RAM Member=Component R30 4K7 5% 1210(3225)
+Added Member To Class: ClassName=MIPI_Interface Member=Component R31 4K7 5% 1210(3225)
+Added Member To Class: ClassName=RAM Member=Component R32 4K7 5% 1210(3225)
+Added Member To Class: ClassName=RAM Member=Component R33 4K7 5% 1210(3225)
+Added Member To Class: ClassName=RAM Member=Component R34 4K7 5% 1210(3225)
+Added Member To Class: ClassName=RAM Member=Component R35 4K7 5% 1210(3225)
+Added Member To Class: ClassName=RAM Member=Component R36 4K7 5% 1210(3225)
+Added Member To Class: ClassName=RAM Member=Component R37 4K7 5% 1210(3225)
+Added Member To Class: ClassName=RAM Member=Component R38 4K7 5% 1210(3225)
+Added Member To Class: ClassName=RAM Member=Component R39 4K7 5% 1210(3225)
+Added Member To Class: ClassName=RAM Member=Component R40 4K7 5% 1210(3225)
+Added Member To Class: ClassName=RAM Member=Component R41 4K7 5% 1210(3225)
+Added Member To Class: ClassName=RAM Member=Component R42 4K7 5% 1210(3225)
+Added Member To Class: ClassName=RAM Member=Component R43 4K7 5% 1210(3225)
+Added Member To Class: ClassName=Programming_and_Clock_FPGA Member=Component R44 4K7 5% 1210(3225)
+Added Member To Class: ClassName=Programming_and_Clock_FPGA Member=Component R45 4K7 5% 1210(3225)
+Added Member To Class: ClassName=Power_supply Member=Component R46 4K7 5% 1210(3225)
+Added Member To Class: ClassName=Power_supply Member=Component R47 4K7 5% 1210(3225)
+Added Member To Class: ClassName=Power_supply Member=Component R48 4K7 5% 1210(3225)
+Added Member To Class: ClassName=Power_supply Member=Component R49 4K7 5% 1210(3225)
+Added Member To Class: ClassName=Power_supply Member=Component R50 4K7 5% 1210(3225)
+Added Member To Class: ClassName=Power_supply Member=Component R51 4K7 5% 1210(3225)
+Added Member To Class: ClassName=Power_supply Member=Component R52 4K7 5% 1210(3225)
+Added Member To Class: ClassName=Power_supply Member=Component R53 4K7 5% 1210(3225)
+Added Member To Class: ClassName=LEDS_And_Buttons Member=Component R54 4K7 5% 1210(3225)
+Added Member To Class: ClassName=LEDS_And_Buttons Member=Component R55 4K7 5% 1210(3225)
+Added Member To Class: ClassName=LEDS_And_Buttons Member=Component R56 4K7 5% 1210(3225)
+Added Member To Class: ClassName=LEDS_And_Buttons Member=Component R57 4K7 5% 1210(3225)
+Added Member To Class: ClassName=LEDS_And_Buttons Member=Component R58 4K7 5% 1210(3225)
+Added Member To Class: ClassName=LEDS_And_Buttons Member=Component R59 4K7 5% 1210(3225)
+Added Member To Class: ClassName=LEDS_And_Buttons Member=Component R60 4K7 5% 1210(3225)
+Added Member To Class: ClassName=LEDS_And_Buttons Member=Component R61 4K7 5% 1210(3225)
+Added Member To Class: ClassName=LEDS_And_Buttons Member=Component R62 4K7 5% 1210(3225)
+Added Member To Class: ClassName=LEDS_And_Buttons Member=Component R63 4K7 5% 1210(3225)
+Added Member To Class: ClassName=LEDS_And_Buttons Member=Component R64 4K7 5% 1210(3225)
+Added Member To Class: ClassName=LEDS_And_Buttons Member=Component R65 4K7 5% 1210(3225)
+Added Member To Class: ClassName=Power_supply Member=Component R66 4K7 5% 1210(3225)
+Added Member To Class: ClassName=Power_supply Member=Component R67 4K7 5% 1210(3225)
+Added Member To Class: ClassName=Power_supply Member=Component R68 4K7 5% 1210(3225)
+Added Member To Class: ClassName=Power_supply Member=Component R69 4K7 5% 1210(3225)
+Added Member To Class: ClassName=Power_supply Member=Component R70 4K7 5% 1210(3225)
+Added Member To Class: ClassName=Power_supply Member=Component R71 4K7 5% 1210(3225)
+Added Member To Class: ClassName=HDMI Member=Component R111 4K7 5% 1210(3225)
+Added Member To Class: ClassName=HDMI Member=Component R112 4K7 5% 1210(3225)
+Added Member To Class: ClassName=HDMI Member=Component R113 4K7 5% 1210(3225)
+Added Member To Class: ClassName=HDMI Member=Component R114 4K7 5% 1210(3225)
+Added Member To Class: ClassName=HDMI Member=Component R115 4K7 5% 1210(3225)
+Added Member To Class: ClassName=HDMI Member=Component R116 4K7 5% 1210(3225)
+Added Member To Class: ClassName=HDMI Member=Component R117 4K7 5% 1210(3225)
+Added Member To Class: ClassName=HDMI Member=Component R118 4K7 5% 1210(3225)
+Added Member To Class: ClassName=HDMI Member=Component R119 4K7 5% 1210(3225)
+Added Member To Class: ClassName=HDMI Member=Component R120 4K7 5% 1210(3225)
+Added Member To Class: ClassName=HDMI Member=Component R121 4K7 5% 1210(3225)
+Added Member To Class: ClassName=HDMI Member=Component R122 4K7 5% 1210(3225)
+Added Member To Class: ClassName=HDMI Member=Component R123 4K7 5% 1210(3225)
+Added Member To Class: ClassName=LEDS_And_Buttons Member=Component SW1 SKSTAAE010
+Added Member To Class: ClassName=LEDS_And_Buttons Member=Component SW2 SKSTAAE010
+Added Member To Class: ClassName=LEDS_And_Buttons Member=Component SW3 SKSTAAE010
+Added Member To Class: ClassName=LEDS_And_Buttons Member=Component SW4 SKSTAAE010
+Add Class Member: Failed to add class member : Component TP1 testpoint
+Add Class Member: Failed to add class member : Component TP2 testpoint
+Add Class Member: Failed to add class member : Component TP3 testpoint
+Add Class Member: Failed to add class member : Component TP4 testpoint
+Added Member To Class: ClassName=Programming_and_Clock_FPGA Member=Component U1 XC7A35T-2FGG484C
+Added Member To Class: ClassName=Power_supply Member=Component U2 ETA1471FT2G
+Added Member To Class: ClassName=Power_supply Member=Component U3 ETA1471FT2G
+Added Member To Class: ClassName=RAM Member=Component U4 MT41J128M16HA-125
+Added Member To Class: ClassName=RAM Member=Component U5 TPS51200DRCR
+Added Member To Class: ClassName=Power_supply Member=Component U6 SPX3819M5-3-3
+Added Member To Class: ClassName=Power_supply Member=Component U7 ETA1471FT2G
+Added Member To Class: ClassName=Power_supply Member=Component U8 ETA1471FT2G
+Added Member To Class: ClassName=HDMI Member=Component U14 SN74LVC2G07DCKR
+Added Member To Class: ClassName=HDMI Member=Component U15 SN74AUP1G125DBVR
+Added Member To Class: ClassName=HDMI Member=Component U30 AZ1045-04F.R7G
+Added Member To Class: ClassName=HDMI Member=Component U31 AZ1045-04F.R7G
+Added Member To Class: ClassName=Programming_and_Clock_FPGA Member=Component X1 7M-50.000MAAJ-T

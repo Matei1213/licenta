@@ -1,0 +1,48 @@
+verilog xil_defaultlib -i "../../../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef" --include "../../../../../src/bd/design_1/ipshared/434f/hdl" --include "../../../../../src/bd/design_1/ipshared/3f5a/hdl" --include "../../../../../src/bd/design_1/ipshared/5431/hdl/verilog" --include "../../../../../src/bd/design_1/ipshared/4e08/hdl/verilog" --include "../../../../../src/bd/design_1/ipshared/0568/hdl/verilog" --include "../../../../../src/bd/design_1/ipshared/3556/hdl/verilog" \
+"../../../bd/design_1/ip/design_1_axis_subset_converter_0_0/hdl/tdata_design_1_axis_subset_converter_0_0.v" \
+"../../../bd/design_1/ip/design_1_axis_subset_converter_0_0/hdl/tuser_design_1_axis_subset_converter_0_0.v" \
+"../../../bd/design_1/ip/design_1_axis_subset_converter_0_0/hdl/tstrb_design_1_axis_subset_converter_0_0.v" \
+"../../../bd/design_1/ip/design_1_axis_subset_converter_0_0/hdl/tkeep_design_1_axis_subset_converter_0_0.v" \
+"../../../bd/design_1/ip/design_1_axis_subset_converter_0_0/hdl/tid_design_1_axis_subset_converter_0_0.v" \
+"../../../bd/design_1/ip/design_1_axis_subset_converter_0_0/hdl/tdest_design_1_axis_subset_converter_0_0.v" \
+"../../../bd/design_1/ip/design_1_axis_subset_converter_0_0/hdl/tlast_design_1_axis_subset_converter_0_0.v" \
+"../../../bd/design_1/ip/design_1_axis_subset_converter_0_0/hdl/top_design_1_axis_subset_converter_0_0.v" \
+"../../../bd/design_1/ip/design_1_axis_subset_converter_0_0/sim/design_1_axis_subset_converter_0_0.v" \
+"../../../bd/design_1/ip/design_1_mipi_csi2_rx_subsystem_0_0/bd_0/ip/ip_0/bd_bf15_phy_0/support/bd_bf15_phy_0_support.v" \
+"../../../bd/design_1/ip/design_1_mipi_csi2_rx_subsystem_0_0/bd_0/ip/ip_0/bd_bf15_phy_0/support/bd_bf15_phy_0_clock_module.v" \
+"../../../bd/design_1/ip/design_1_mipi_csi2_rx_subsystem_0_0/bd_0/ip/ip_0/bd_bf15_phy_0_c1.v" \
+"../../../bd/design_1/ip/design_1_mipi_csi2_rx_subsystem_0_0/bd_0/ip/ip_0/bd_bf15_phy_0_core.v" \
+"../../../bd/design_1/ip/design_1_mipi_csi2_rx_subsystem_0_0/bd_0/ip/ip_0/bd_bf15_phy_0.v" \
+"../../../bd/design_1/ip/design_1_mipi_csi2_rx_subsystem_0_0/bd_0/ip/ip_1/bd_bf15_rx_0.v" \
+"../../../bd/design_1/ip/design_1_mipi_csi2_rx_subsystem_0_0/bd_0/ip/ip_2/ip_0/sim/bd_bf15_vfb_0_0_axisswitch.v" \
+"../../../bd/design_1/ip/design_1_mipi_csi2_rx_subsystem_0_0/bd_0/ip/ip_2/ip_1/sim/bd_bf15_vfb_0_0_sli.v" \
+"../../../bd/design_1/ip/design_1_mipi_csi2_rx_subsystem_0_0/bd_0/ip/ip_2/ip_2/sim/bd_bf15_vfb_0_0_slo.v" \
+"../../../bd/design_1/ip/design_1_mipi_csi2_rx_subsystem_0_0/bd_0/ip/ip_2/bd_bf15_vfb_0_0/src/verilog/bd_bf15_vfb_0_0_fifo.v" \
+"../../../bd/design_1/ip/design_1_mipi_csi2_rx_subsystem_0_0/bd_0/ip/ip_2/bd_bf15_vfb_0_0/src/verilog/bd_bf15_vfb_0_0_axis_ycomp_dconverter.v" \
+"../../../bd/design_1/ip/design_1_mipi_csi2_rx_subsystem_0_0/bd_0/ip/ip_2/bd_bf15_vfb_0_0/src/verilog/bd_bf15_vfb_0_0_fifo_ycomp.v" \
+"../../../bd/design_1/ip/design_1_mipi_csi2_rx_subsystem_0_0/bd_0/ip/ip_2/bd_bf15_vfb_0_0/src/verilog/bd_bf15_vfb_0_0_YUV420_DT_Demux.v" \
+"../../../bd/design_1/ip/design_1_mipi_csi2_rx_subsystem_0_0/bd_0/ip/ip_2/bd_bf15_vfb_0_0/src/verilog/bd_bf15_vfb_0_0_YUV420_DT_Mux.v" \
+"../../../bd/design_1/ip/design_1_mipi_csi2_rx_subsystem_0_0/bd_0/ip/ip_2/bd_bf15_vfb_0_0/src/verilog/bd_bf15_vfb_0_0_YUV420_vc4_mux.v" \
+"../../../bd/design_1/ip/design_1_mipi_csi2_rx_subsystem_0_0/bd_0/ip/ip_2/bd_bf15_vfb_0_0/src/verilog/bd_bf15_vfb_0_0_YUV420_vc4_demux.v" \
+"../../../bd/design_1/ip/design_1_mipi_csi2_rx_subsystem_0_0/bd_0/ip/ip_2/bd_bf15_vfb_0_0/src/verilog/bd_bf15_vfb_0_0_YUV420_vc16_mux.v" \
+"../../../bd/design_1/ip/design_1_mipi_csi2_rx_subsystem_0_0/bd_0/ip/ip_2/bd_bf15_vfb_0_0/src/verilog/bd_bf15_vfb_0_0_YUV420_vc16_demux.v" \
+"../../../bd/design_1/ip/design_1_mipi_csi2_rx_subsystem_0_0/bd_0/ip/ip_2/bd_bf15_vfb_0_0/src/verilog/bd_bf15_vfb_0_0_fifo_yuv.v" \
+"../../../bd/design_1/ip/design_1_mipi_csi2_rx_subsystem_0_0/bd_0/ip/ip_2/bd_bf15_vfb_0_0/src/verilog/bd_bf15_vfb_0_0_fifo_sb.v" \
+"../../../bd/design_1/ip/design_1_mipi_csi2_rx_subsystem_0_0/bd_0/ip/ip_2/bd_bf15_vfb_0_0/src/verilog/bd_bf15_vfb_0_0_axis_dconverter.v" \
+"../../../bd/design_1/ip/design_1_mipi_csi2_rx_subsystem_0_0/bd_0/ip/ip_2/bd_bf15_vfb_0_0_core.v" \
+"../../../bd/design_1/ip/design_1_mipi_csi2_rx_subsystem_0_0/bd_0/ip/ip_2/bd_bf15_vfb_0_0.v" \
+"../../../bd/design_1/ip/design_1_mipi_csi2_rx_subsystem_0_0/bd_0/sim/bd_bf15.v" \
+"../../../bd/design_1/ip/design_1_mipi_csi2_rx_subsystem_0_0/sim/design_1_mipi_csi2_rx_subsystem_0_0.v" \
+"../../../bd/design_1/ip/design_1_system_ila_0_0/bd_0/sim/bd_f60c.v" \
+"../../../bd/design_1/ip/design_1_system_ila_0_0/bd_0/ip/ip_0/sim/bd_f60c_ila_lib_0.v" \
+"../../../bd/design_1/ip/design_1_system_ila_0_0/bd_0/ip/ip_1/bd_f60c_g_inst_0_gigantic_mux.v" \
+"../../../bd/design_1/ip/design_1_system_ila_0_0/bd_0/ip/ip_1/sim/bd_f60c_g_inst_0.v" \
+"../../../bd/design_1/ip/design_1_system_ila_0_0/sim/design_1_system_ila_0_0.v" \
+"../../../bd/design_1/ip/design_1_xlconstant_0_0/sim/design_1_xlconstant_0_0.v" \
+"../../../bd/design_1/ip/design_1_pixel_counter_0_0/sim/design_1_pixel_counter_0_0.v" \
+"../../../bd/design_1/sim/design_1.v" \
+
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

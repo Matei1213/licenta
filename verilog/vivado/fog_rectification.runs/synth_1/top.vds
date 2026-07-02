@@ -1,0 +1,1119 @@
+#-----------------------------------------------------------
+# Vivado v2025.2 (64-bit)
+# SW Build 6299465 on Fri Nov 14 19:35:11 GMT 2025
+# IP Build 6300035 on Fri Nov 14 10:48:45 MST 2025
+# SharedData Build 6298862 on Thu Nov 13 04:50:51 MST 2025
+# Start of session at: Sat Jun 13 10:07:23 2026
+# Process ID         : 11752
+# Current directory  : F:/facultate/licenta/fog_scratch2/vivado/fog_rectification.runs/synth_1
+# Command line       : vivado.exe -log top.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source top.tcl
+# Log file           : F:/facultate/licenta/fog_scratch2/vivado/fog_rectification.runs/synth_1/top.vds
+# Journal file       : F:/facultate/licenta/fog_scratch2/vivado/fog_rectification.runs/synth_1\vivado.jou
+# Running On         : DESKTOP-9LEFS2P
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 19045
+# Processor Detail   : AMD Ryzen 5 5500U with Radeon Graphics         
+# CPU Frequency      : 2096 MHz
+# CPU Physical cores : 6
+# CPU Logical cores  : 12
+# Host memory        : 6256 MB
+# Swap memory        : 9126 MB
+# Total Virtual      : 15383 MB
+# Available Virtual  : 7133 MB
+#-----------------------------------------------------------
+source top.tcl -notrace
+create_project: Time (s): cpu = 00:00:10 ; elapsed = 00:00:07 . Memory (MB): peak = 525.020 ; gain = 220.461
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1700] Loaded user IP repository 'f:/facultate/licenta/fog_scratch2/vivado-library-master/vivado-library-master'.
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'F:/AMDDesignTools/2025.2/Vivado/data/ip'.
+WARNING: [IP_Flow 19-12246] XCI file 'f:/facultate/licenta/fog_scratch2/src/bd/design_1/ip/design_1_axis_subset_converter_0_0/design_1_axis_subset_converter_0_0.xci' contents have changed since it was last written.
+INFO: [Project 1-5698] Found the below utility IPs instantiated in block design F:/facultate/licenta/fog_scratch2/src/bd/design_1/design_1.bd which have equivalent inline hdl with improved performance and reduced diskspace.
+It is recommended to migrate these utility IPs to inline hdl  using the command upgrade_project -migrate_to_inline_hdl.  The utility IPs may be deprecated in future releases.
+More information on inline hdl is available in UG994.
+Utility IP Component Instances:
+ design_1_xlconstant_0_0
+add_files: Time (s): cpu = 00:00:06 ; elapsed = 00:00:07 . Memory (MB): peak = 619.336 ; gain = 90.348
+Command: read_checkpoint -auto_incremental -incremental F:/facultate/licenta/fog_scratch2/vivado/fog_rectification.srcs/utils_1/imports/synth_1/top.dcp
+INFO: [Vivado 12-5825] Read reference checkpoint from F:/facultate/licenta/fog_scratch2/vivado/fog_rectification.srcs/utils_1/imports/synth_1/top.dcp for incremental synthesis
+INFO: [Vivado 12-7989] Please ensure there are no constraint changes
+Command: synth_design -top top -part xc7a35tfgg484-2
+Starting synth_design
+Attempting to get a license for feature 'Synthesis' and/or device 'xc7a35t'
+INFO: [Common 17-349] Got license for feature 'Synthesis' and/or device 'xc7a35t'
+INFO: [Device 21-403] Loading part xc7a35tfgg484-2
+INFO: [Designutils 20-5440] No compile time benefit to using incremental synthesis; A full resynthesis will be run
+INFO: [Designutils 20-4379] Flow is switching to default flow due to incremental criteria not met. If you would like to alter this behaviour and have the flow terminate instead, please set the following parameter config_implementation {autoIncr.Synth.RejectBehavior Terminate}
+INFO: [Synth 8-7079] Multithreading enabled for synth_design using a maximum of 2 processes.
+INFO: [Synth 8-7078] Launching helper process for spawning children vivado processes
+INFO: [Synth 8-7075] Helper process launched with PID 8172
+---------------------------------------------------------------------------------
+Starting RTL Elaboration : Time (s): cpu = 00:00:08 ; elapsed = 00:00:08 . Memory (MB): peak = 1367.871 ; gain = 541.809
+---------------------------------------------------------------------------------
+WARNING: [Synth 8-9535] ignoring re-definition of command line macro 'VIDEO_1024_768' [F:/facultate/licenta/fog_scratch2/src/new/video_define.v:1]
+INFO: [Synth 8-11241] undeclared symbol 'm_axis_tready', assumed default net type 'wire' [F:/facultate/licenta/fog_scratch2/src/new/frame_read_write.v:86]
+WARNING: [Synth 8-6901] identifier 'r_d0' is used before its declaration [F:/facultate/licenta/fog_scratch2/src/gaussian_filter_t.v:138]
+WARNING: [Synth 8-6901] identifier 'g_d0' is used before its declaration [F:/facultate/licenta/fog_scratch2/src/gaussian_filter_t.v:140]
+WARNING: [Synth 8-6901] identifier 'b_d0' is used before its declaration [F:/facultate/licenta/fog_scratch2/src/gaussian_filter_t.v:142]
+WARNING: [Synth 8-9535] ignoring re-definition of command line macro 'VIDEO_1024_768' [F:/facultate/licenta/fog_scratch2/src/top.v:8]
+INFO: [Synth 8-6157] synthesizing module 'top' [F:/facultate/licenta/fog_scratch2/src/top.v:9]
+INFO: [Synth 8-6157] synthesizing module 'IBUFG' [F:/AMDDesignTools/2025.2/Vivado/scripts/rt/data/unisim_comp.v:83453]
+INFO: [Synth 8-6155] done synthesizing module 'IBUFG' (0#1) [F:/AMDDesignTools/2025.2/Vivado/scripts/rt/data/unisim_comp.v:83453]
+INFO: [Synth 8-6157] synthesizing module 'clk_200M' [f:/facultate/licenta/ax7035_mipi.gen/sources_1/ip/clk_200M/clk_200M.v:66]
+INFO: [Synth 8-6157] synthesizing module 'clk_200M_clk_wiz' [f:/facultate/licenta/ax7035_mipi.gen/sources_1/ip/clk_200M/clk_200M_clk_wiz.v:66]
+INFO: [Synth 8-6157] synthesizing module 'IBUF' [F:/AMDDesignTools/2025.2/Vivado/scripts/rt/data/unisim_comp.v:82804]
+INFO: [Synth 8-6155] done synthesizing module 'IBUF' (0#1) [F:/AMDDesignTools/2025.2/Vivado/scripts/rt/data/unisim_comp.v:82804]
+INFO: [Synth 8-6157] synthesizing module 'MMCME2_ADV' [F:/AMDDesignTools/2025.2/Vivado/scripts/rt/data/unisim_comp.v:95844]
+	Parameter BANDWIDTH bound to: OPTIMIZED - type: string 
+	Parameter CLKFBOUT_MULT_F bound to: 2.000000e+01 - type: double 
+	Parameter CLKFBOUT_PHASE bound to: 0.000000e+00 - type: double 
+	Parameter CLKFBOUT_USE_FINE_PS bound to: FALSE - type: string 
+	Parameter CLKIN1_PERIOD bound to: 2.000000e+01 - type: double 
+	Parameter CLKOUT0_DIVIDE_F bound to: 5.000000e+00 - type: double 
+	Parameter CLKOUT0_DUTY_CYCLE bound to: 5.000000e-01 - type: double 
+	Parameter CLKOUT0_PHASE bound to: 0.000000e+00 - type: double 
+	Parameter CLKOUT0_USE_FINE_PS bound to: FALSE - type: string 
+	Parameter CLKOUT1_DIVIDE bound to: 10 - type: integer 
+	Parameter CLKOUT1_DUTY_CYCLE bound to: 5.000000e-01 - type: double 
+	Parameter CLKOUT1_PHASE bound to: 0.000000e+00 - type: double 
+	Parameter CLKOUT1_USE_FINE_PS bound to: FALSE - type: string 
+	Parameter CLKOUT4_CASCADE bound to: FALSE - type: string 
+	Parameter COMPENSATION bound to: ZHOLD - type: string 
+	Parameter DIVCLK_DIVIDE bound to: 1 - type: integer 
+	Parameter STARTUP_WAIT bound to: FALSE - type: string 
+INFO: [Synth 8-6155] done synthesizing module 'MMCME2_ADV' (0#1) [F:/AMDDesignTools/2025.2/Vivado/scripts/rt/data/unisim_comp.v:95844]
+INFO: [Synth 8-6157] synthesizing module 'BUFG' [F:/AMDDesignTools/2025.2/Vivado/scripts/rt/data/unisim_comp.v:2678]
+INFO: [Synth 8-6155] done synthesizing module 'BUFG' (0#1) [F:/AMDDesignTools/2025.2/Vivado/scripts/rt/data/unisim_comp.v:2678]
+INFO: [Synth 8-6155] done synthesizing module 'clk_200M_clk_wiz' (0#1) [f:/facultate/licenta/ax7035_mipi.gen/sources_1/ip/clk_200M/clk_200M_clk_wiz.v:66]
+INFO: [Synth 8-6155] done synthesizing module 'clk_200M' (0#1) [f:/facultate/licenta/ax7035_mipi.gen/sources_1/ip/clk_200M/clk_200M.v:66]
+WARNING: [Synth 8-7071] port 'clk_out2' of module 'clk_200M' is unconnected for instance 'clk_refm0' [F:/facultate/licenta/fog_scratch2/src/top.v:88]
+WARNING: [Synth 8-7023] instance 'clk_refm0' of module 'clk_200M' has 5 connections declared, but only 4 given [F:/facultate/licenta/fog_scratch2/src/top.v:88]
+INFO: [Synth 8-6157] synthesizing module 'video_pll' [F:/facultate/licenta/fog_scratch2/vivado/fog_rectification.runs/synth_1/.Xil/Vivado-11752-DESKTOP-9LEFS2P/realtime/video_pll_stub.v:6]
+INFO: [Synth 8-6155] done synthesizing module 'video_pll' (0#1) [F:/facultate/licenta/fog_scratch2/vivado/fog_rectification.runs/synth_1/.Xil/Vivado-11752-DESKTOP-9LEFS2P/realtime/video_pll_stub.v:6]
+INFO: [Synth 8-6157] synthesizing module 'i2c_config' [F:/facultate/licenta/fog_scratch2/src/new/i2c_master/i2c_config.v:30]
+INFO: [Synth 8-6157] synthesizing module 'i2c_master_top' [F:/facultate/licenta/fog_scratch2/src/new/i2c_master/i2c_master_top.v:30]
+INFO: [Synth 8-226] default block is never used [F:/facultate/licenta/fog_scratch2/src/new/i2c_master/i2c_master_top.v:96]
+INFO: [Synth 8-6157] synthesizing module 'i2c_master_byte_ctrl' [F:/facultate/licenta/fog_scratch2/src/new/i2c_master/i2c_master_byte_ctrl.v:75]
+INFO: [Synth 8-6157] synthesizing module 'i2c_master_bit_ctrl' [F:/facultate/licenta/fog_scratch2/src/new/i2c_master/i2c_master_bit_ctrl.v:143]
+INFO: [Synth 8-6155] done synthesizing module 'i2c_master_bit_ctrl' (0#1) [F:/facultate/licenta/fog_scratch2/src/new/i2c_master/i2c_master_bit_ctrl.v:143]
+INFO: [Synth 8-6155] done synthesizing module 'i2c_master_byte_ctrl' (0#1) [F:/facultate/licenta/fog_scratch2/src/new/i2c_master/i2c_master_byte_ctrl.v:75]
+INFO: [Synth 8-6155] done synthesizing module 'i2c_master_top' (0#1) [F:/facultate/licenta/fog_scratch2/src/new/i2c_master/i2c_master_top.v:30]
+INFO: [Synth 8-6155] done synthesizing module 'i2c_config' (0#1) [F:/facultate/licenta/fog_scratch2/src/new/i2c_master/i2c_config.v:30]
+INFO: [Synth 8-6157] synthesizing module 'lut_ov5640_rgb565_1024_768' [F:/facultate/licenta/fog_scratch2/src/new/lut_ov5640_rgb565_1024_768.v:30]
+INFO: [Synth 8-6155] done synthesizing module 'lut_ov5640_rgb565_1024_768' (0#1) [F:/facultate/licenta/fog_scratch2/src/new/lut_ov5640_rgb565_1024_768.v:30]
+INFO: [Synth 8-6157] synthesizing module 'design_1_wrapper' [F:/facultate/licenta/fog_scratch2/vivado/fog_rectification.srcs/sources_1/imports/hdl/design_1_wrapper.v:13]
+INFO: [Synth 8-6157] synthesizing module 'design_1' [F:/facultate/licenta/fog_scratch2/src/bd/design_1/synth/design_1.v:13]
+INFO: [Synth 8-6157] synthesizing module 'design_1_AXI_BayerToRGB_0_2' [F:/facultate/licenta/fog_scratch2/vivado/fog_rectification.runs/synth_1/.Xil/Vivado-11752-DESKTOP-9LEFS2P/realtime/design_1_AXI_BayerToRGB_0_2_stub.v:6]
+INFO: [Synth 8-6155] done synthesizing module 'design_1_AXI_BayerToRGB_0_2' (0#1) [F:/facultate/licenta/fog_scratch2/vivado/fog_rectification.runs/synth_1/.Xil/Vivado-11752-DESKTOP-9LEFS2P/realtime/design_1_AXI_BayerToRGB_0_2_stub.v:6]
+INFO: [Synth 8-6157] synthesizing module 'design_1_axis_subset_converter_0_0' [F:/facultate/licenta/fog_scratch2/vivado/fog_rectification.runs/synth_1/.Xil/Vivado-11752-DESKTOP-9LEFS2P/realtime/design_1_axis_subset_converter_0_0_stub.v:6]
+INFO: [Synth 8-6155] done synthesizing module 'design_1_axis_subset_converter_0_0' (0#1) [F:/facultate/licenta/fog_scratch2/vivado/fog_rectification.runs/synth_1/.Xil/Vivado-11752-DESKTOP-9LEFS2P/realtime/design_1_axis_subset_converter_0_0_stub.v:6]
+INFO: [Synth 8-6157] synthesizing module 'design_1_mipi_csi2_rx_subsystem_0_0' [F:/facultate/licenta/fog_scratch2/vivado/fog_rectification.runs/synth_1/.Xil/Vivado-11752-DESKTOP-9LEFS2P/realtime/design_1_mipi_csi2_rx_subsystem_0_0_stub.v:6]
+INFO: [Synth 8-6155] done synthesizing module 'design_1_mipi_csi2_rx_subsystem_0_0' (0#1) [F:/facultate/licenta/fog_scratch2/vivado/fog_rectification.runs/synth_1/.Xil/Vivado-11752-DESKTOP-9LEFS2P/realtime/design_1_mipi_csi2_rx_subsystem_0_0_stub.v:6]
+WARNING: [Synth 8-7071] port 'rxbyteclkhs' of module 'design_1_mipi_csi2_rx_subsystem_0_0' is unconnected for instance 'mipi_csi2_rx_subsystem_0' [F:/facultate/licenta/fog_scratch2/src/bd/design_1/synth/design_1.v:113]
+WARNING: [Synth 8-7071] port 'system_rst_out' of module 'design_1_mipi_csi2_rx_subsystem_0_0' is unconnected for instance 'mipi_csi2_rx_subsystem_0' [F:/facultate/licenta/fog_scratch2/src/bd/design_1/synth/design_1.v:113]
+WARNING: [Synth 8-7071] port 'csirxss_csi_irq' of module 'design_1_mipi_csi2_rx_subsystem_0_0' is unconnected for instance 'mipi_csi2_rx_subsystem_0' [F:/facultate/licenta/fog_scratch2/src/bd/design_1/synth/design_1.v:113]
+WARNING: [Synth 8-7071] port 'csirxss_s_axi_arready' of module 'design_1_mipi_csi2_rx_subsystem_0_0' is unconnected for instance 'mipi_csi2_rx_subsystem_0' [F:/facultate/licenta/fog_scratch2/src/bd/design_1/synth/design_1.v:113]
+WARNING: [Synth 8-7071] port 'csirxss_s_axi_awready' of module 'design_1_mipi_csi2_rx_subsystem_0_0' is unconnected for instance 'mipi_csi2_rx_subsystem_0' [F:/facultate/licenta/fog_scratch2/src/bd/design_1/synth/design_1.v:113]
+WARNING: [Synth 8-7071] port 'csirxss_s_axi_bresp' of module 'design_1_mipi_csi2_rx_subsystem_0_0' is unconnected for instance 'mipi_csi2_rx_subsystem_0' [F:/facultate/licenta/fog_scratch2/src/bd/design_1/synth/design_1.v:113]
+WARNING: [Synth 8-7071] port 'csirxss_s_axi_bvalid' of module 'design_1_mipi_csi2_rx_subsystem_0_0' is unconnected for instance 'mipi_csi2_rx_subsystem_0' [F:/facultate/licenta/fog_scratch2/src/bd/design_1/synth/design_1.v:113]
+WARNING: [Synth 8-7071] port 'csirxss_s_axi_rdata' of module 'design_1_mipi_csi2_rx_subsystem_0_0' is unconnected for instance 'mipi_csi2_rx_subsystem_0' [F:/facultate/licenta/fog_scratch2/src/bd/design_1/synth/design_1.v:113]
+WARNING: [Synth 8-7071] port 'csirxss_s_axi_rresp' of module 'design_1_mipi_csi2_rx_subsystem_0_0' is unconnected for instance 'mipi_csi2_rx_subsystem_0' [F:/facultate/licenta/fog_scratch2/src/bd/design_1/synth/design_1.v:113]
+WARNING: [Synth 8-7071] port 'csirxss_s_axi_rvalid' of module 'design_1_mipi_csi2_rx_subsystem_0_0' is unconnected for instance 'mipi_csi2_rx_subsystem_0' [F:/facultate/licenta/fog_scratch2/src/bd/design_1/synth/design_1.v:113]
+WARNING: [Synth 8-7071] port 'csirxss_s_axi_wready' of module 'design_1_mipi_csi2_rx_subsystem_0_0' is unconnected for instance 'mipi_csi2_rx_subsystem_0' [F:/facultate/licenta/fog_scratch2/src/bd/design_1/synth/design_1.v:113]
+WARNING: [Synth 8-7071] port 'video_out_tdest' of module 'design_1_mipi_csi2_rx_subsystem_0_0' is unconnected for instance 'mipi_csi2_rx_subsystem_0' [F:/facultate/licenta/fog_scratch2/src/bd/design_1/synth/design_1.v:113]
+WARNING: [Synth 8-7023] instance 'mipi_csi2_rx_subsystem_0' of module 'design_1_mipi_csi2_rx_subsystem_0_0' has 39 connections declared, but only 27 given [F:/facultate/licenta/fog_scratch2/src/bd/design_1/synth/design_1.v:113]
+INFO: [Synth 8-6157] synthesizing module 'design_1_pixel_counter_0_0' [F:/facultate/licenta/fog_scratch2/vivado/fog_rectification.runs/synth_1/.Xil/Vivado-11752-DESKTOP-9LEFS2P/realtime/design_1_pixel_counter_0_0_stub.v:6]
+INFO: [Synth 8-6155] done synthesizing module 'design_1_pixel_counter_0_0' (0#1) [F:/facultate/licenta/fog_scratch2/vivado/fog_rectification.runs/synth_1/.Xil/Vivado-11752-DESKTOP-9LEFS2P/realtime/design_1_pixel_counter_0_0_stub.v:6]
+WARNING: [Synth 8-4446] all outputs are unconnected for this instance and logic may be removed [F:/facultate/licenta/fog_scratch2/src/bd/design_1/synth/design_1.v:158]
+INFO: [Synth 8-6157] synthesizing module 'design_1_system_ila_0_0' [F:/facultate/licenta/fog_scratch2/vivado/fog_rectification.runs/synth_1/.Xil/Vivado-11752-DESKTOP-9LEFS2P/realtime/design_1_system_ila_0_0_stub.v:6]
+INFO: [Synth 8-6155] done synthesizing module 'design_1_system_ila_0_0' (0#1) [F:/facultate/licenta/fog_scratch2/vivado/fog_rectification.runs/synth_1/.Xil/Vivado-11752-DESKTOP-9LEFS2P/realtime/design_1_system_ila_0_0_stub.v:6]
+INFO: [Synth 8-6157] synthesizing module 'design_1_xlconstant_0_0' [f:/facultate/licenta/fog_scratch2/src/bd/design_1/ip/design_1_xlconstant_0_0/synth/design_1_xlconstant_0_0.v:53]
+INFO: [Synth 8-6157] synthesizing module 'xlconstant_v1_1_10_xlconstant' [f:/facultate/licenta/fog_scratch2/src/bd/design_1/ipshared/a165/hdl/xlconstant_v1_1_vl_rfs.v:68]
+INFO: [Synth 8-6155] done synthesizing module 'xlconstant_v1_1_10_xlconstant' (0#1) [f:/facultate/licenta/fog_scratch2/src/bd/design_1/ipshared/a165/hdl/xlconstant_v1_1_vl_rfs.v:68]
+INFO: [Synth 8-6155] done synthesizing module 'design_1_xlconstant_0_0' (0#1) [f:/facultate/licenta/fog_scratch2/src/bd/design_1/ip/design_1_xlconstant_0_0/synth/design_1_xlconstant_0_0.v:53]
+INFO: [Synth 8-6155] done synthesizing module 'design_1' (0#1) [F:/facultate/licenta/fog_scratch2/src/bd/design_1/synth/design_1.v:13]
+INFO: [Synth 8-6155] done synthesizing module 'design_1_wrapper' (0#1) [F:/facultate/licenta/fog_scratch2/vivado/fog_rectification.srcs/sources_1/imports/hdl/design_1_wrapper.v:13]
+INFO: [Synth 8-6157] synthesizing module 'cmos_write_req_gen' [F:/facultate/licenta/fog_scratch2/src/new/cmos_write_req_gen.v:30]
+INFO: [Synth 8-6155] done synthesizing module 'cmos_write_req_gen' (0#1) [F:/facultate/licenta/fog_scratch2/src/new/cmos_write_req_gen.v:30]
+INFO: [Synth 8-6157] synthesizing module 'video_timing_data' [F:/facultate/licenta/fog_scratch2/src/new/video_timing_data.v:30]
+INFO: [Synth 8-6157] synthesizing module 'color_bar' [F:/facultate/licenta/fog_scratch2/src/new/color_bar.v:33]
+INFO: [Synth 8-6155] done synthesizing module 'color_bar' (0#1) [F:/facultate/licenta/fog_scratch2/src/new/color_bar.v:33]
+INFO: [Synth 8-6155] done synthesizing module 'video_timing_data' (0#1) [F:/facultate/licenta/fog_scratch2/src/new/video_timing_data.v:30]
+INFO: [Synth 8-6157] synthesizing module 'fog_pipeline' [F:/facultate/licenta/fog_scratch2/src/fog_pipeline.v:35]
+	Parameter IMG_WIDTH bound to: 1024 - type: integer 
+INFO: [Synth 8-6157] synthesizing module 'dark_channel' [F:/facultate/licenta/fog_scratch2/src/dark_channel.v:35]
+	Parameter IMG_WIDTH bound to: 1024 - type: integer 
+INFO: [Synth 8-6155] done synthesizing module 'dark_channel' (0#1) [F:/facultate/licenta/fog_scratch2/src/dark_channel.v:35]
+INFO: [Synth 8-6157] synthesizing module 'airlight' [F:/facultate/licenta/fog_scratch2/src/airlight.v:19]
+INFO: [Synth 8-6155] done synthesizing module 'airlight' (0#1) [F:/facultate/licenta/fog_scratch2/src/airlight.v:19]
+INFO: [Synth 8-6157] synthesizing module 'transmission_map' [F:/facultate/licenta/fog_scratch2/src/transmission_map.v:12]
+INFO: [Synth 8-6155] done synthesizing module 'transmission_map' (0#1) [F:/facultate/licenta/fog_scratch2/src/transmission_map.v:12]
+INFO: [Synth 8-6157] synthesizing module 'gaussian_filter_t' [F:/facultate/licenta/fog_scratch2/src/gaussian_filter_t.v:10]
+	Parameter IMG_WIDTH bound to: 1024 - type: integer 
+INFO: [Synth 8-6155] done synthesizing module 'gaussian_filter_t' (0#1) [F:/facultate/licenta/fog_scratch2/src/gaussian_filter_t.v:10]
+INFO: [Synth 8-6157] synthesizing module 'bilateral_filter_t' [F:/facultate/licenta/fog_scratch2/src/bilateral_filter_t.v:77]
+	Parameter IMG_WIDTH bound to: 1024 - type: integer 
+INFO: [Synth 8-6155] done synthesizing module 'bilateral_filter_t' (0#1) [F:/facultate/licenta/fog_scratch2/src/bilateral_filter_t.v:77]
+INFO: [Synth 8-6157] synthesizing module 'restoration' [F:/facultate/licenta/fog_scratch2/src/restoration.v:32]
+INFO: [Synth 8-6155] done synthesizing module 'restoration' (0#1) [F:/facultate/licenta/fog_scratch2/src/restoration.v:32]
+INFO: [Synth 8-6157] synthesizing module 'contrast_stretch' [F:/facultate/licenta/fog_scratch2/src/contrast_stretch.v:55]
+INFO: [Synth 8-6155] done synthesizing module 'contrast_stretch' (0#1) [F:/facultate/licenta/fog_scratch2/src/contrast_stretch.v:55]
+INFO: [Synth 8-6155] done synthesizing module 'fog_pipeline' (0#1) [F:/facultate/licenta/fog_scratch2/src/fog_pipeline.v:35]
+INFO: [Synth 8-638] synthesizing module 'rgb2dvi' [F:/facultate/licenta/fog_scratch2/vivado-library-master/vivado-library-master/ip/rgb2dvi/src/rgb2dvi.vhd:94]
+	Parameter kGenerateSerialClk bound to: 0 - type: bool 
+	Parameter kClkRange bound to: 1 - type: integer 
+	Parameter kRstActiveHigh bound to: 1 - type: bool 
+INFO: [Synth 8-638] synthesizing module 'ResetBridge' [F:/facultate/licenta/fog_scratch2/vivado-library-master/vivado-library-master/ip/rgb2dvi/src/SyncAsyncReset.vhd:72]
+	Parameter kPolarity bound to: 1'b1 
+INFO: [Synth 8-638] synthesizing module 'SyncAsync' [F:/facultate/licenta/fog_scratch2/vivado-library-master/vivado-library-master/ip/rgb2dvi/src/SyncAsync.vhd:72]
+	Parameter kResetTo bound to: 1'b1 
+	Parameter kStages bound to: 2 - type: integer 
+INFO: [Synth 8-256] done synthesizing module 'SyncAsync' (0#1) [F:/facultate/licenta/fog_scratch2/vivado-library-master/vivado-library-master/ip/rgb2dvi/src/SyncAsync.vhd:72]
+INFO: [Synth 8-256] done synthesizing module 'ResetBridge' (0#1) [F:/facultate/licenta/fog_scratch2/vivado-library-master/vivado-library-master/ip/rgb2dvi/src/SyncAsyncReset.vhd:72]
+INFO: [Synth 8-638] synthesizing module 'OutputSERDES' [F:/facultate/licenta/fog_scratch2/vivado-library-master/vivado-library-master/ip/rgb2dvi/src/OutputSERDES.vhd:76]
+	Parameter kParallelWidth bound to: 10 - type: integer 
+	Parameter IOSTANDARD bound to: TMDS_33 - type: string 
+INFO: [Synth 8-113] binding component instance 'OutputBuffer' to cell 'OBUFDS' [F:/facultate/licenta/fog_scratch2/vivado-library-master/vivado-library-master/ip/rgb2dvi/src/OutputSERDES.vhd:83]
+	Parameter DATA_RATE_OQ bound to: DDR - type: string 
+	Parameter DATA_RATE_TQ bound to: SDR - type: string 
+	Parameter DATA_WIDTH bound to: 10 - type: integer 
+	Parameter SERDES_MODE bound to: MASTER - type: string 
+	Parameter TBYTE_CTL bound to: FALSE - type: string 
+	Parameter TBYTE_SRC bound to: FALSE - type: string 
+	Parameter TRISTATE_WIDTH bound to: 1 - type: integer 
+INFO: [Synth 8-113] binding component instance 'SerializerMaster' to cell 'OSERDESE2' [F:/facultate/licenta/fog_scratch2/vivado-library-master/vivado-library-master/ip/rgb2dvi/src/OutputSERDES.vhd:92]
+	Parameter DATA_RATE_OQ bound to: DDR - type: string 
+	Parameter DATA_RATE_TQ bound to: SDR - type: string 
+	Parameter DATA_WIDTH bound to: 10 - type: integer 
+	Parameter SERDES_MODE bound to: SLAVE - type: string 
+	Parameter TBYTE_CTL bound to: FALSE - type: string 
+	Parameter TBYTE_SRC bound to: FALSE - type: string 
+	Parameter TRISTATE_WIDTH bound to: 1 - type: integer 
+INFO: [Synth 8-113] binding component instance 'SerializerSlave' to cell 'OSERDESE2' [F:/facultate/licenta/fog_scratch2/vivado-library-master/vivado-library-master/ip/rgb2dvi/src/OutputSERDES.vhd:135]
+INFO: [Synth 8-256] done synthesizing module 'OutputSERDES' (0#1) [F:/facultate/licenta/fog_scratch2/vivado-library-master/vivado-library-master/ip/rgb2dvi/src/OutputSERDES.vhd:76]
+INFO: [Synth 8-638] synthesizing module 'TMDS_Encoder' [F:/facultate/licenta/fog_scratch2/vivado-library-master/vivado-library-master/ip/rgb2dvi/src/TMDS_Encoder.vhd:80]
+INFO: [Synth 8-256] done synthesizing module 'TMDS_Encoder' (0#1) [F:/facultate/licenta/fog_scratch2/vivado-library-master/vivado-library-master/ip/rgb2dvi/src/TMDS_Encoder.vhd:80]
+INFO: [Synth 8-256] done synthesizing module 'rgb2dvi' (0#1) [F:/facultate/licenta/fog_scratch2/vivado-library-master/vivado-library-master/ip/rgb2dvi/src/rgb2dvi.vhd:94]
+INFO: [Synth 8-6157] synthesizing module 'frame_read_write' [F:/facultate/licenta/fog_scratch2/src/new/frame_read_write.v:31]
+INFO: [Synth 8-6157] synthesizing module 'afifo_16i_64o_512' [F:/facultate/licenta/fog_scratch2/vivado/fog_rectification.runs/synth_1/.Xil/Vivado-11752-DESKTOP-9LEFS2P/realtime/afifo_16i_64o_512_stub.v:6]
+INFO: [Synth 8-6155] done synthesizing module 'afifo_16i_64o_512' (0#1) [F:/facultate/licenta/fog_scratch2/vivado/fog_rectification.runs/synth_1/.Xil/Vivado-11752-DESKTOP-9LEFS2P/realtime/afifo_16i_64o_512_stub.v:6]
+WARNING: [Synth 8-689] width (16) of port connection 'rd_data_count' does not match port width (7) of module 'afifo_16i_64o_512' [F:/facultate/licenta/fog_scratch2/src/new/frame_read_write.v:98]
+WARNING: [Synth 8-7071] port 'wr_rst_busy' of module 'afifo_16i_64o_512' is unconnected for instance 'write_buf' [F:/facultate/licenta/fog_scratch2/src/new/frame_read_write.v:88]
+WARNING: [Synth 8-7071] port 'rd_rst_busy' of module 'afifo_16i_64o_512' is unconnected for instance 'write_buf' [F:/facultate/licenta/fog_scratch2/src/new/frame_read_write.v:88]
+WARNING: [Synth 8-7023] instance 'write_buf' of module 'afifo_16i_64o_512' has 13 connections declared, but only 11 given [F:/facultate/licenta/fog_scratch2/src/new/frame_read_write.v:88]
+INFO: [Synth 8-6157] synthesizing module 'frame_fifo_write' [F:/facultate/licenta/fog_scratch2/src/new/frame_fifo_write.v:31]
+	Parameter MEM_DATA_BITS bound to: 64 - type: integer 
+	Parameter ADDR_BITS bound to: 25 - type: integer 
+	Parameter BUSRT_BITS bound to: 10 - type: integer 
+	Parameter BURST_SIZE bound to: 64 - type: integer 
+INFO: [Synth 8-6155] done synthesizing module 'frame_fifo_write' (0#1) [F:/facultate/licenta/fog_scratch2/src/new/frame_fifo_write.v:31]
+INFO: [Synth 8-6157] synthesizing module 'afifo_64i_16o_128' [F:/facultate/licenta/fog_scratch2/vivado/fog_rectification.runs/synth_1/.Xil/Vivado-11752-DESKTOP-9LEFS2P/realtime/afifo_64i_16o_128_stub.v:6]
+INFO: [Synth 8-6155] done synthesizing module 'afifo_64i_16o_128' (0#1) [F:/facultate/licenta/fog_scratch2/vivado/fog_rectification.runs/synth_1/.Xil/Vivado-11752-DESKTOP-9LEFS2P/realtime/afifo_64i_16o_128_stub.v:6]
+WARNING: [Synth 8-689] width (16) of port connection 'wr_data_count' does not match port width (7) of module 'afifo_64i_16o_128' [F:/facultate/licenta/fog_scratch2/src/new/frame_read_write.v:161]
+WARNING: [Synth 8-7071] port 'wr_rst_busy' of module 'afifo_64i_16o_128' is unconnected for instance 'read_buf' [F:/facultate/licenta/fog_scratch2/src/new/frame_read_write.v:150]
+WARNING: [Synth 8-7071] port 'rd_rst_busy' of module 'afifo_64i_16o_128' is unconnected for instance 'read_buf' [F:/facultate/licenta/fog_scratch2/src/new/frame_read_write.v:150]
+WARNING: [Synth 8-7023] instance 'read_buf' of module 'afifo_64i_16o_128' has 13 connections declared, but only 11 given [F:/facultate/licenta/fog_scratch2/src/new/frame_read_write.v:150]
+INFO: [Synth 8-6157] synthesizing module 'frame_fifo_read' [F:/facultate/licenta/fog_scratch2/src/new/frame_fifo_read.v:31]
+	Parameter MEM_DATA_BITS bound to: 64 - type: integer 
+	Parameter ADDR_BITS bound to: 25 - type: integer 
+	Parameter BUSRT_BITS bound to: 10 - type: integer 
+	Parameter FIFO_DEPTH bound to: 128 - type: integer 
+	Parameter BURST_SIZE bound to: 64 - type: integer 
+INFO: [Synth 8-6155] done synthesizing module 'frame_fifo_read' (0#1) [F:/facultate/licenta/fog_scratch2/src/new/frame_fifo_read.v:31]
+INFO: [Synth 8-6155] done synthesizing module 'frame_read_write' (0#1) [F:/facultate/licenta/fog_scratch2/src/new/frame_read_write.v:31]
+INFO: [Synth 8-6157] synthesizing module 'aq_axi_master' [F:/facultate/licenta/fog_scratch2/src/new/aq_axi_master.v:39]
+INFO: [Synth 8-155] case statement is not full and has no default [F:/facultate/licenta/fog_scratch2/src/new/aq_axi_master.v:311]
+INFO: [Synth 8-6155] done synthesizing module 'aq_axi_master' (0#1) [F:/facultate/licenta/fog_scratch2/src/new/aq_axi_master.v:39]
+WARNING: [Synth 8-689] width (4) of port connection 'M_AXI_AWID' does not match port width (1) of module 'aq_axi_master' [F:/facultate/licenta/fog_scratch2/src/top.v:401]
+WARNING: [Synth 8-689] width (64) of port connection 'M_AXI_AWADDR' does not match port width (32) of module 'aq_axi_master' [F:/facultate/licenta/fog_scratch2/src/top.v:402]
+WARNING: [Synth 8-689] width (4) of port connection 'M_AXI_BID' does not match port width (1) of module 'aq_axi_master' [F:/facultate/licenta/fog_scratch2/src/top.v:419]
+WARNING: [Synth 8-689] width (4) of port connection 'M_AXI_ARID' does not match port width (1) of module 'aq_axi_master' [F:/facultate/licenta/fog_scratch2/src/top.v:424]
+WARNING: [Synth 8-689] width (64) of port connection 'M_AXI_ARADDR' does not match port width (32) of module 'aq_axi_master' [F:/facultate/licenta/fog_scratch2/src/top.v:425]
+WARNING: [Synth 8-689] width (4) of port connection 'M_AXI_RID' does not match port width (1) of module 'aq_axi_master' [F:/facultate/licenta/fog_scratch2/src/top.v:436]
+WARNING: [Synth 8-689] width (28) of port connection 'WR_ADRS' does not match port width (32) of module 'aq_axi_master' [F:/facultate/licenta/fog_scratch2/src/top.v:445]
+WARNING: [Synth 8-689] width (13) of port connection 'WR_LEN' does not match port width (32) of module 'aq_axi_master' [F:/facultate/licenta/fog_scratch2/src/top.v:446]
+WARNING: [Synth 8-689] width (28) of port connection 'RD_ADRS' does not match port width (32) of module 'aq_axi_master' [F:/facultate/licenta/fog_scratch2/src/top.v:454]
+WARNING: [Synth 8-689] width (13) of port connection 'RD_LEN' does not match port width (32) of module 'aq_axi_master' [F:/facultate/licenta/fog_scratch2/src/top.v:455]
+INFO: [Synth 8-6157] synthesizing module 'ddr3' [F:/facultate/licenta/fog_scratch2/vivado/fog_rectification.runs/synth_1/.Xil/Vivado-11752-DESKTOP-9LEFS2P/realtime/ddr3_stub.v:6]
+INFO: [Synth 8-6155] done synthesizing module 'ddr3' (0#1) [F:/facultate/licenta/fog_scratch2/vivado/fog_rectification.runs/synth_1/.Xil/Vivado-11752-DESKTOP-9LEFS2P/realtime/ddr3_stub.v:6]
+WARNING: [Synth 8-689] width (64) of port connection 's_axi_awaddr' does not match port width (28) of module 'ddr3' [F:/facultate/licenta/fog_scratch2/src/top.v:494]
+WARNING: [Synth 8-689] width (64) of port connection 's_axi_araddr' does not match port width (28) of module 'ddr3' [F:/facultate/licenta/fog_scratch2/src/top.v:514]
+WARNING: [Synth 8-689] width (2) of port connection 's_axi_arlock' does not match port width (1) of module 'ddr3' [F:/facultate/licenta/fog_scratch2/src/top.v:518]
+WARNING: [Synth 8-7071] port 'device_temp' of module 'ddr3' is unconnected for instance 'u_ddr3' [F:/facultate/licenta/fog_scratch2/src/top.v:466]
+WARNING: [Synth 8-7023] instance 'u_ddr3' of module 'ddr3' has 66 connections declared, but only 65 given [F:/facultate/licenta/fog_scratch2/src/top.v:466]
+INFO: [Synth 8-6155] done synthesizing module 'top' (0#1) [F:/facultate/licenta/fog_scratch2/src/top.v:9]
+WARNING: [Synth 8-7137] Register i2c_write_req_reg in module i2c_config has both Set and reset with same priority. This may cause simulation mismatches. Consider rewriting code  [F:/facultate/licenta/fog_scratch2/src/new/i2c_master/i2c_config.v:103]
+WARNING: [Synth 8-7137] Register wait_cnt_reg in module i2c_config has both Set and reset with same priority. This may cause simulation mismatches. Consider rewriting code  [F:/facultate/licenta/fog_scratch2/src/new/i2c_master/i2c_config.v:132]
+WARNING: [Synth 8-3848] Net i2c_read_req in module/entity i2c_config does not have driver. [F:/facultate/licenta/fog_scratch2/src/new/i2c_master/i2c_config.v:57]
+WARNING: [Synth 8-7137] Register video_hs_d1_reg in module video_timing_data has both Set and reset with same priority. This may cause simulation mismatches. Consider rewriting code  [F:/facultate/licenta/fog_scratch2/src/new/video_timing_data.v:59]
+WARNING: [Synth 8-7137] Register video_vs_d1_reg in module video_timing_data has both Set and reset with same priority. This may cause simulation mismatches. Consider rewriting code  [F:/facultate/licenta/fog_scratch2/src/new/video_timing_data.v:60]
+WARNING: [Synth 8-7137] Register video_de_d1_reg in module video_timing_data has both Set and reset with same priority. This may cause simulation mismatches. Consider rewriting code  [F:/facultate/licenta/fog_scratch2/src/new/video_timing_data.v:61]
+WARNING: [Synth 8-6014] Unused sequential element reg_w_stb_reg was removed.  [F:/facultate/licenta/fog_scratch2/src/new/aq_axi_master.v:179]
+WARNING: [Synth 8-6014] Unused sequential element reg_wr_status_reg was removed.  [F:/facultate/licenta/fog_scratch2/src/new/aq_axi_master.v:180]
+WARNING: [Synth 8-6014] Unused sequential element reg_w_count_reg was removed.  [F:/facultate/licenta/fog_scratch2/src/new/aq_axi_master.v:181]
+WARNING: [Synth 8-6014] Unused sequential element reg_r_count_reg was removed.  [F:/facultate/licenta/fog_scratch2/src/new/aq_axi_master.v:182]
+WARNING: [Synth 8-6014] Unused sequential element wr_chkdata_reg was removed.  [F:/facultate/licenta/fog_scratch2/src/new/aq_axi_master.v:183]
+WARNING: [Synth 8-6014] Unused sequential element rd_chkdata_reg was removed.  [F:/facultate/licenta/fog_scratch2/src/new/aq_axi_master.v:184]
+WARNING: [Synth 8-6014] Unused sequential element resp_reg was removed.  [F:/facultate/licenta/fog_scratch2/src/new/aq_axi_master.v:185]
+WARNING: [Synth 8-7137] Register reg_r_last_reg in module aq_axi_master has both Set and reset with same priority. This may cause simulation mismatches. Consider rewriting code  [F:/facultate/licenta/fog_scratch2/src/new/aq_axi_master.v:331]
+WARNING: [Synth 8-3848] Net s00_axi_buser in module/entity top does not have driver. [F:/facultate/licenta/fog_scratch2/src/top.v:142]
+WARNING: [Synth 8-3848] Net s00_axi_ruser in module/entity top does not have driver. [F:/facultate/licenta/fog_scratch2/src/top.v:161]
+WARNING: [Synth 8-3917] design top has port cmos1_rst_n driven by constant 1
+WARNING: [Synth 8-3917] design top has port HDMI1_OEN driven by constant 1
+WARNING: [Synth 8-7129] Port M_AXI_BID[0] in module aq_axi_master is either unconnected or has no load
+WARNING: [Synth 8-7129] Port M_AXI_BRESP[1] in module aq_axi_master is either unconnected or has no load
+WARNING: [Synth 8-7129] Port M_AXI_BRESP[0] in module aq_axi_master is either unconnected or has no load
+WARNING: [Synth 8-7129] Port M_AXI_BUSER[0] in module aq_axi_master is either unconnected or has no load
+WARNING: [Synth 8-7129] Port M_AXI_RID[0] in module aq_axi_master is either unconnected or has no load
+WARNING: [Synth 8-7129] Port M_AXI_RRESP[1] in module aq_axi_master is either unconnected or has no load
+WARNING: [Synth 8-7129] Port M_AXI_RRESP[0] in module aq_axi_master is either unconnected or has no load
+WARNING: [Synth 8-7129] Port M_AXI_RUSER[0] in module aq_axi_master is either unconnected or has no load
+WARNING: [Synth 8-7129] Port wr_burst_data_req in module frame_fifo_write is either unconnected or has no load
+WARNING: [Synth 8-7129] Port SerialClk in module TMDS_Encoder is either unconnected or has no load
+WARNING: [Synth 8-7129] Port aRst in module TMDS_Encoder is either unconnected or has no load
+WARNING: [Synth 8-7129] Port aRst_n in module rgb2dvi is either unconnected or has no load
+WARNING: [Synth 8-7129] Port i2c_slave_dev_addr[0] in module i2c_master_top is either unconnected or has no load
+---------------------------------------------------------------------------------
+Finished RTL Elaboration : Time (s): cpu = 00:00:12 ; elapsed = 00:00:12 . Memory (MB): peak = 1535.250 ; gain = 709.188
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Handling Custom Attributes
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Handling Custom Attributes : Time (s): cpu = 00:00:12 ; elapsed = 00:00:13 . Memory (MB): peak = 1535.250 ; gain = 709.188
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished RTL Optimization Phase 1 : Time (s): cpu = 00:00:12 ; elapsed = 00:00:13 . Memory (MB): peak = 1535.250 ; gain = 709.188
+---------------------------------------------------------------------------------
+Netlist sorting complete. Time (s): cpu = 00:00:01 ; elapsed = 00:00:00.184 . Memory (MB): peak = 1535.250 ; gain = 0.000
+INFO: [Netlist 29-17] Analyzing 6 Unisim elements for replacement
+WARNING: [Netlist 29-432] The IBUFG primitive 'sys_clk_ibufg_i' has been retargeted to an IBUF primitive only. No BUFG will be added. If a global buffer is intended, please instantiate an available global clock primitive from the current architecture.
+INFO: [Netlist 29-28] Unisim Transformation completed in 0 CPU seconds
+INFO: [Project 1-570] Preparing netlist for logic optimization
+
+Processing XDC Constraints
+Initializing timing engine
+Parsing XDC File [f:/facultate/licenta/fog_scratch2/src/bd/design_1/ip/design_1_axis_subset_converter_0_0/design_1_axis_subset_converter_0_0/design_1_axis_subset_converter_0_0_in_context.xdc] for cell 'design_1_wrapper_i/design_1_i/axis_subset_converter_0'
+Finished Parsing XDC File [f:/facultate/licenta/fog_scratch2/src/bd/design_1/ip/design_1_axis_subset_converter_0_0/design_1_axis_subset_converter_0_0/design_1_axis_subset_converter_0_0_in_context.xdc] for cell 'design_1_wrapper_i/design_1_i/axis_subset_converter_0'
+Parsing XDC File [f:/facultate/licenta/fog_scratch2/src/bd/design_1/ip/design_1_mipi_csi2_rx_subsystem_0_0/design_1_mipi_csi2_rx_subsystem_0_0/design_1_mipi_csi2_rx_subsystem_0_0_in_context.xdc] for cell 'design_1_wrapper_i/design_1_i/mipi_csi2_rx_subsystem_0'
+Finished Parsing XDC File [f:/facultate/licenta/fog_scratch2/src/bd/design_1/ip/design_1_mipi_csi2_rx_subsystem_0_0/design_1_mipi_csi2_rx_subsystem_0_0/design_1_mipi_csi2_rx_subsystem_0_0_in_context.xdc] for cell 'design_1_wrapper_i/design_1_i/mipi_csi2_rx_subsystem_0'
+Parsing XDC File [f:/facultate/licenta/fog_scratch2/src/bd/design_1/ip/design_1_system_ila_0_0/design_1_system_ila_0_0/design_1_system_ila_0_0_in_context.xdc] for cell 'design_1_wrapper_i/design_1_i/system_ila_0'
+Finished Parsing XDC File [f:/facultate/licenta/fog_scratch2/src/bd/design_1/ip/design_1_system_ila_0_0/design_1_system_ila_0_0/design_1_system_ila_0_0_in_context.xdc] for cell 'design_1_wrapper_i/design_1_i/system_ila_0'
+Parsing XDC File [f:/facultate/licenta/fog_scratch2/src/bd/design_1/ip/design_1_pixel_counter_0_0/design_1_pixel_counter_0_0/design_1_pixel_counter_0_0_in_context.xdc] for cell 'design_1_wrapper_i/design_1_i/pixel_counter_0'
+Finished Parsing XDC File [f:/facultate/licenta/fog_scratch2/src/bd/design_1/ip/design_1_pixel_counter_0_0/design_1_pixel_counter_0_0/design_1_pixel_counter_0_0_in_context.xdc] for cell 'design_1_wrapper_i/design_1_i/pixel_counter_0'
+Parsing XDC File [f:/facultate/licenta/fog_scratch2/src/bd/design_1/ip/design_1_AXI_BayerToRGB_0_2/design_1_AXI_BayerToRGB_0_2/design_1_AXI_BayerToRGB_0_1_in_context.xdc] for cell 'design_1_wrapper_i/design_1_i/AXI_BayerToRGB_0'
+Finished Parsing XDC File [f:/facultate/licenta/fog_scratch2/src/bd/design_1/ip/design_1_AXI_BayerToRGB_0_2/design_1_AXI_BayerToRGB_0_2/design_1_AXI_BayerToRGB_0_1_in_context.xdc] for cell 'design_1_wrapper_i/design_1_i/AXI_BayerToRGB_0'
+Parsing XDC File [f:/facultate/licenta/ax7035_mipi.gen/sources_1/ip/video_pll/video_pll/video_pll_in_context.xdc] for cell 'video_pll_m0'
+Finished Parsing XDC File [f:/facultate/licenta/ax7035_mipi.gen/sources_1/ip/video_pll/video_pll/video_pll_in_context.xdc] for cell 'video_pll_m0'
+Parsing XDC File [f:/facultate/licenta/ax7035_mipi.gen/sources_1/ip/ddr3/ddr3/ddr3_in_context.xdc] for cell 'u_ddr3'
+Finished Parsing XDC File [f:/facultate/licenta/ax7035_mipi.gen/sources_1/ip/ddr3/ddr3/ddr3_in_context.xdc] for cell 'u_ddr3'
+Parsing XDC File [f:/facultate/licenta/ax7035_mipi.gen/sources_1/new/ip/afifo_64i_16o_128/afifo_64i_16o_128/afifo_64i_16o_128_in_context.xdc] for cell 'frame_read_write_m0/read_buf'
+Finished Parsing XDC File [f:/facultate/licenta/ax7035_mipi.gen/sources_1/new/ip/afifo_64i_16o_128/afifo_64i_16o_128/afifo_64i_16o_128_in_context.xdc] for cell 'frame_read_write_m0/read_buf'
+Parsing XDC File [f:/facultate/licenta/ax7035_mipi.gen/sources_1/new/ip/afifo_16i_64o_512/afifo_16i_64o_512/afifo_16i_64o_512_in_context.xdc] for cell 'frame_read_write_m0/write_buf'
+Finished Parsing XDC File [f:/facultate/licenta/ax7035_mipi.gen/sources_1/new/ip/afifo_16i_64o_512/afifo_16i_64o_512/afifo_16i_64o_512_in_context.xdc] for cell 'frame_read_write_m0/write_buf'
+Parsing XDC File [f:/facultate/licenta/ax7035_mipi.gen/sources_1/ip/clk_200M/clk_200M_board.xdc] for cell 'clk_refm0/inst'
+Finished Parsing XDC File [f:/facultate/licenta/ax7035_mipi.gen/sources_1/ip/clk_200M/clk_200M_board.xdc] for cell 'clk_refm0/inst'
+Parsing XDC File [f:/facultate/licenta/ax7035_mipi.gen/sources_1/ip/clk_200M/clk_200M.xdc] for cell 'clk_refm0/inst'
+Finished Parsing XDC File [f:/facultate/licenta/ax7035_mipi.gen/sources_1/ip/clk_200M/clk_200M.xdc] for cell 'clk_refm0/inst'
+INFO: [Project 1-236] Implementation specific constraints were found while reading constraint file [f:/facultate/licenta/ax7035_mipi.gen/sources_1/ip/clk_200M/clk_200M.xdc]. These constraints will be ignored for synthesis but will be used in implementation. Impacted constraints are listed in the file [.Xil/top_propImpl.xdc].
+Resolution: To avoid this warning, move constraints listed in [.Xil/top_propImpl.xdc] to another XDC file and exclude this new file from synthesis with the used_in_synthesis property (File Properties dialog in GUI) and re-run elaboration/synthesis.
+INFO: [Timing 38-2] Deriving generated clocks
+Parsing XDC File [F:/facultate/licenta/fog_scratch2/src/ax7035b_fog.xdc]
+WARNING: [Vivado 12-508] No pins matched 'video_pll_m0/inst/mmcm_adv_inst/CLKOUT0'. [F:/facultate/licenta/fog_scratch2/src/ax7035b_fog.xdc:182]
+WARNING: [Vivado 12-508] No pins matched 'u_ddr3/u_ddr3_mig/u_ddr3_infrastructure/gen_mmcm.mmcm_i/CLKFBOUT'. [F:/facultate/licenta/fog_scratch2/src/ax7035b_fog.xdc:183]
+Finished Parsing XDC File [F:/facultate/licenta/fog_scratch2/src/ax7035b_fog.xdc]
+WARNING: [Project 1-498] One or more constraints failed evaluation while reading constraint file [F:/facultate/licenta/fog_scratch2/src/ax7035b_fog.xdc] and the design contains unresolved black boxes. These constraints will be read post-synthesis (as long as their source constraint file is marked as used_in_implementation) and should be applied correctly then. You should review the constraints listed in the file [.Xil/top_propImpl.xdc] and check the run log file to verify that these constraints were correctly applied.
+INFO: [Project 1-236] Implementation specific constraints were found while reading constraint file [F:/facultate/licenta/fog_scratch2/src/ax7035b_fog.xdc]. These constraints will be ignored for synthesis but will be used in implementation. Impacted constraints are listed in the file [.Xil/top_propImpl.xdc].
+Resolution: To avoid this warning, move constraints listed in [.Xil/top_propImpl.xdc] to another XDC file and exclude this new file from synthesis with the used_in_synthesis property (File Properties dialog in GUI) and re-run elaboration/synthesis.
+Parsing XDC File [F:/facultate/licenta/fog_scratch2/vivado/fog_rectification.runs/synth_1/dont_touch.xdc]
+Finished Parsing XDC File [F:/facultate/licenta/fog_scratch2/vivado/fog_rectification.runs/synth_1/dont_touch.xdc]
+INFO: [Project 1-236] Implementation specific constraints were found while reading constraint file [F:/facultate/licenta/fog_scratch2/vivado/fog_rectification.runs/synth_1/dont_touch.xdc]. These constraints will be ignored for synthesis but will be used in implementation. Impacted constraints are listed in the file [.Xil/top_propImpl.xdc].
+Resolution: To avoid this warning, move constraints listed in [.Xil/top_propImpl.xdc] to another XDC file and exclude this new file from synthesis with the used_in_synthesis property (File Properties dialog in GUI) and re-run elaboration/synthesis.
+Completed Processing XDC Constraints
+
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.006 . Memory (MB): peak = 1601.277 ; gain = 0.000
+INFO: [Project 1-111] Unisim Transformation Summary:
+  A total of 1 instances were transformed.
+  IBUFG => IBUF: 1 instance 
+
+Constraint Validation Runtime : Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.106 . Memory (MB): peak = 1601.277 ; gain = 0.000
+INFO: [Designutils 20-5440] No compile time benefit to using incremental synthesis; A full resynthesis will be run
+INFO: [Designutils 20-4379] Flow is switching to default flow due to incremental criteria not met. If you would like to alter this behaviour and have the flow terminate instead, please set the following parameter config_implementation {autoIncr.Synth.RejectBehavior Terminate}
+---------------------------------------------------------------------------------
+Finished Constraint Validation : Time (s): cpu = 00:00:27 ; elapsed = 00:00:27 . Memory (MB): peak = 1601.277 ; gain = 775.215
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Loading Part and Timing Information
+---------------------------------------------------------------------------------
+Loading part: xc7a35tfgg484-2
+---------------------------------------------------------------------------------
+Finished Loading Part and Timing Information : Time (s): cpu = 00:00:27 ; elapsed = 00:00:27 . Memory (MB): peak = 1601.277 ; gain = 775.215
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Applying 'set_property' XDC Constraints
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished applying 'set_property' XDC Constraints : Time (s): cpu = 00:00:27 ; elapsed = 00:00:27 . Memory (MB): peak = 1601.277 ; gain = 775.215
+---------------------------------------------------------------------------------
+INFO: [Synth 8-802] inferred FSM for state register 'c_state_reg' in module 'i2c_master_bit_ctrl'
+INFO: [Synth 8-802] inferred FSM for state register 'c_state_reg' in module 'i2c_master_byte_ctrl'
+INFO: [Synth 8-802] inferred FSM for state register 'state_reg' in module 'i2c_master_top'
+INFO: [Synth 8-802] inferred FSM for state register 'state_reg' in module 'i2c_config'
+INFO: [Synth 8-802] inferred FSM for state register 'state_reg' in module 'frame_fifo_write'
+INFO: [Synth 8-802] inferred FSM for state register 'state_reg' in module 'frame_fifo_read'
+INFO: [Synth 8-802] inferred FSM for state register 'wr_state_reg' in module 'aq_axi_master'
+INFO: [Synth 8-802] inferred FSM for state register 'rd_state_reg' in module 'aq_axi_master'
+---------------------------------------------------------------------------------------------------
+                   State |                     New Encoding |                Previous Encoding 
+---------------------------------------------------------------------------------------------------
+                    idle |               000000000000000001 |               000000000000000000
+                 start_a |               000000000000000010 |               000000000000000001
+                 start_b |               000000000000000100 |               000000000000000010
+                 start_c |               000000000000001000 |               000000000000000100
+                 start_d |               000000000000010000 |               000000000000001000
+                 start_e |               000000000000100000 |               000000000000010000
+                  stop_a |               000000000001000000 |               000000000000100000
+                  stop_b |               000000000010000000 |               000000000001000000
+                  stop_c |               000000000100000000 |               000000000010000000
+                  stop_d |               000000001000000000 |               000000000100000000
+                    wr_a |               000000010000000000 |               000010000000000000
+                    wr_b |               000000100000000000 |               000100000000000000
+                    wr_c |               000001000000000000 |               001000000000000000
+                    wr_d |               000010000000000000 |               010000000000000000
+                    rd_a |               000100000000000000 |               000000001000000000
+                    rd_b |               001000000000000000 |               000000010000000000
+                    rd_c |               010000000000000000 |               000000100000000000
+                    rd_d |               100000000000000000 |               000001000000000000
+---------------------------------------------------------------------------------------------------
+INFO: [Synth 8-3354] encoded FSM with state register 'c_state_reg' using encoding 'one-hot' in module 'i2c_master_bit_ctrl'
+---------------------------------------------------------------------------------------------------
+                   State |                     New Encoding |                Previous Encoding 
+---------------------------------------------------------------------------------------------------
+                 ST_IDLE |                              000 |                            00000
+                ST_START |                              001 |                            00001
+                 ST_READ |                              010 |                            00010
+                ST_WRITE |                              011 |                            00100
+                  ST_ACK |                              100 |                            01000
+                 ST_STOP |                              101 |                            10000
+---------------------------------------------------------------------------------------------------
+INFO: [Synth 8-3354] encoded FSM with state register 'c_state_reg' using encoding 'sequential' in module 'i2c_master_byte_ctrl'
+---------------------------------------------------------------------------------------------------
+                   State |                     New Encoding |                Previous Encoding 
+---------------------------------------------------------------------------------------------------
+                  S_IDLE |                             0110 |                             0000
+           S_WR_DEV_ADDR |                             1001 |                             0001
+           S_WR_REG_ADDR |                             0100 |                             0010
+          S_WR_REG_ADDR1 |                             0101 |                             1101
+               S_WR_DATA |                             0000 |                             0011
+          S_RD_DEV_ADDR0 |                             1011 |                             0110
+           S_WR_ERR_NACK |                             1010 |                             0101
+               S_WR_STOP |                             0001 |                             1011
+                S_WR_ACK |                             0010 |                             0100
+           S_RD_REG_ADDR |                             1101 |                             0111
+          S_RD_REG_ADDR1 |                             1110 |                             1110
+          S_RD_DEV_ADDR1 |                             1111 |                             1000
+               S_RD_DATA |                             1100 |                             1001
+               S_RD_STOP |                             0111 |                             1010
+                S_RD_ACK |                             1000 |                             1111
+                  S_WAIT |                             0011 |                             1100
+---------------------------------------------------------------------------------------------------
+INFO: [Synth 8-3354] encoded FSM with state register 'state_reg' using encoding 'sequential' in module 'i2c_master_top'
+---------------------------------------------------------------------------------------------------
+                   State |                     New Encoding |                Previous Encoding 
+---------------------------------------------------------------------------------------------------
+                  S_IDLE |                            00001 |                             0000
+          S_WR_I2C_CHECK |                            00010 |                             0001
+                S_WR_I2C |                            00100 |                             0010
+               S_WR_WAIT |                            01000 |                             0100
+           S_WR_I2C_DONE |                            10000 |                             0011
+---------------------------------------------------------------------------------------------------
+INFO: [Synth 8-3354] encoded FSM with state register 'state_reg' using encoding 'one-hot' in module 'i2c_config'
+WARNING: [Synth 8-327] inferring latch for variable 'lut_data_reg' [F:/facultate/licenta/fog_scratch2/src/new/lut_ov5640_rgb565_1024_768.v:38]
+---------------------------------------------------------------------------------------------------
+                   State |                     New Encoding |                Previous Encoding 
+---------------------------------------------------------------------------------------------------
+                  S_IDLE |                              000 |                             0000
+                   S_ACK |                              001 |                             0001
+            S_CHECK_FIFO |                              010 |                             0010
+           S_WRITE_BURST |                              011 |                             0011
+       S_WRITE_BURST_END |                              100 |                             0100
+                   S_END |                              101 |                             0101
+---------------------------------------------------------------------------------------------------
+INFO: [Synth 8-3354] encoded FSM with state register 'state_reg' using encoding 'sequential' in module 'frame_fifo_write'
+---------------------------------------------------------------------------------------------------
+                   State |                     New Encoding |                Previous Encoding 
+---------------------------------------------------------------------------------------------------
+                  S_IDLE |                              000 |                             0000
+                   S_ACK |                              001 |                             0001
+            S_CHECK_FIFO |                              010 |                             0010
+            S_READ_BURST |                              011 |                             0011
+        S_READ_BURST_END |                              100 |                             0100
+                   S_END |                              101 |                             0101
+---------------------------------------------------------------------------------------------------
+INFO: [Synth 8-3354] encoded FSM with state register 'state_reg' using encoding 'sequential' in module 'frame_fifo_read'
+---------------------------------------------------------------------------------------------------
+                   State |                     New Encoding |                Previous Encoding 
+---------------------------------------------------------------------------------------------------
+               S_WR_IDLE |                              000 |                              000
+               S_WA_WAIT |                              001 |                              001
+              S_WA_START |                              010 |                              010
+               S_WD_WAIT |                              011 |                              011
+               S_WD_PROC |                              100 |                              100
+               S_WR_WAIT |                              101 |                              101
+               S_WR_DONE |                              110 |                              110
+---------------------------------------------------------------------------------------------------
+INFO: [Synth 8-3354] encoded FSM with state register 'wr_state_reg' using encoding 'sequential' in module 'aq_axi_master'
+---------------------------------------------------------------------------------------------------
+                   State |                     New Encoding |                Previous Encoding 
+---------------------------------------------------------------------------------------------------
+               S_RD_IDLE |                              000 |                              000
+               S_RA_WAIT |                              001 |                              001
+              S_RA_START |                              010 |                              010
+               S_RD_WAIT |                              011 |                              011
+               S_RD_PROC |                              100 |                              100
+               S_RD_DONE |                              101 |                              101
+---------------------------------------------------------------------------------------------------
+INFO: [Synth 8-3354] encoded FSM with state register 'rd_state_reg' using encoding 'sequential' in module 'aq_axi_master'
+---------------------------------------------------------------------------------
+Finished RTL Optimization Phase 2 : Time (s): cpu = 00:00:31 ; elapsed = 00:00:31 . Memory (MB): peak = 1601.277 ; gain = 775.215
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start RTL Component Statistics 
+---------------------------------------------------------------------------------
+Detailed RTL Component Info : 
++---Adders : 
+	   2 Input   32 Bit       Adders := 7     
+	   2 Input   25 Bit       Adders := 4     
+	   2 Input   21 Bit       Adders := 2     
+	  25 Input   19 Bit       Adders := 1     
+	   2 Input   16 Bit       Adders := 4     
+	   2 Input   14 Bit       Adders := 1     
+	   2 Input   12 Bit       Adders := 6     
+	   2 Input   11 Bit       Adders := 3     
+	   2 Input   10 Bit       Adders := 1     
+	   3 Input   10 Bit       Adders := 1     
+	   3 Input    9 Bit       Adders := 6     
+	   3 Input    8 Bit       Adders := 26    
+	   2 Input    8 Bit       Adders := 2     
+	   3 Input    5 Bit       Adders := 9     
+	   4 Input    5 Bit       Adders := 3     
+	   2 Input    5 Bit       Adders := 3     
+	   8 Input    4 Bit       Adders := 6     
+	   2 Input    4 Bit       Adders := 3     
+	   2 Input    3 Bit       Adders := 1     
+	   2 Input    2 Bit       Adders := 1     
++---XORs : 
+	   2 Input      1 Bit         XORs := 42    
++---Registers : 
+	               32 Bit    Registers := 6     
+	               28 Bit    Registers := 2     
+	               25 Bit    Registers := 10    
+	               19 Bit    Registers := 1     
+	               18 Bit    Registers := 1     
+	               16 Bit    Registers := 6     
+	               15 Bit    Registers := 3     
+	               14 Bit    Registers := 31    
+	               13 Bit    Registers := 3     
+	               12 Bit    Registers := 3     
+	               10 Bit    Registers := 6     
+	                9 Bit    Registers := 9     
+	                8 Bit    Registers := 313   
+	                5 Bit    Registers := 3     
+	                4 Bit    Registers := 10    
+	                3 Bit    Registers := 5     
+	                2 Bit    Registers := 13    
+	                1 Bit    Registers := 177   
++---RAMs : 
+	               8K Bit	(1024 X 8 bit)          RAMs := 18    
++---Muxes : 
+	   2 Input   32 Bit        Muxes := 2     
+	   7 Input   32 Bit        Muxes := 3     
+	   6 Input   32 Bit        Muxes := 3     
+	   4 Input   25 Bit        Muxes := 2     
+	   6 Input   25 Bit        Muxes := 4     
+	   2 Input   24 Bit        Muxes := 3     
+	  24 Input   18 Bit        Muxes := 1     
+	   2 Input   16 Bit        Muxes := 2     
+	   2 Input   14 Bit        Muxes := 2     
+	 257 Input   13 Bit        Muxes := 1     
+	   2 Input   11 Bit        Muxes := 3     
+	   5 Input   10 Bit        Muxes := 1     
+	   4 Input   10 Bit        Muxes := 3     
+	   2 Input    9 Bit        Muxes := 3     
+	   2 Input    8 Bit        Muxes := 116   
+	   6 Input    8 Bit        Muxes := 2     
+	   7 Input    8 Bit        Muxes := 1     
+	   5 Input    5 Bit        Muxes := 1     
+	   2 Input    5 Bit        Muxes := 12    
+	   2 Input    4 Bit        Muxes := 23    
+	   6 Input    4 Bit        Muxes := 1     
+	  15 Input    4 Bit        Muxes := 1     
+	   2 Input    3 Bit        Muxes := 15    
+	  15 Input    3 Bit        Muxes := 1     
+	   6 Input    3 Bit        Muxes := 3     
+	  10 Input    3 Bit        Muxes := 1     
+	   7 Input    3 Bit        Muxes := 1     
+	   8 Input    3 Bit        Muxes := 1     
+	   2 Input    2 Bit        Muxes := 2     
+	   2 Input    1 Bit        Muxes := 50    
+	  18 Input    1 Bit        Muxes := 5     
+	   6 Input    1 Bit        Muxes := 32    
+	   3 Input    1 Bit        Muxes := 1     
+	   5 Input    1 Bit        Muxes := 4     
+	   7 Input    1 Bit        Muxes := 11    
+---------------------------------------------------------------------------------
+Finished RTL Component Statistics 
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Part Resource Summary
+---------------------------------------------------------------------------------
+Part Resources:
+DSPs: 90 (col length:60)
+BRAMs: 100 (col length: RAMB18 60 RAMB36 30)
+---------------------------------------------------------------------------------
+Finished Part Resource Summary
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Cross Boundary and Area Optimization
+---------------------------------------------------------------------------------
+DSP Report: Generating DSP mult_full, operation Mode is: A*B.
+DSP Report: operator mult_full is absorbed into DSP mult_full.
+DSP Report: Generating DSP num_sum1, operation Mode is: A*B.
+DSP Report: operator num_sum1 is absorbed into DSP num_sum1.
+DSP Report: Generating DSP num_sum0, operation Mode is: PCIN+A*B.
+DSP Report: operator num_sum0 is absorbed into DSP num_sum0.
+DSP Report: operator num_sum24 is absorbed into DSP num_sum0.
+DSP Report: Generating DSP num_sum0, operation Mode is: PCIN+A*B.
+DSP Report: operator num_sum0 is absorbed into DSP num_sum0.
+DSP Report: operator num_sum2 is absorbed into DSP num_sum0.
+DSP Report: Generating DSP num_sum0, operation Mode is: PCIN+A*B.
+DSP Report: operator num_sum0 is absorbed into DSP num_sum0.
+DSP Report: operator num_sum3 is absorbed into DSP num_sum0.
+DSP Report: Generating DSP num_sum0, operation Mode is: PCIN+A*B.
+DSP Report: operator num_sum0 is absorbed into DSP num_sum0.
+DSP Report: operator num_sum4 is absorbed into DSP num_sum0.
+DSP Report: Generating DSP num_sum0, operation Mode is: PCIN+A*B.
+DSP Report: operator num_sum0 is absorbed into DSP num_sum0.
+DSP Report: operator num_sum5 is absorbed into DSP num_sum0.
+DSP Report: Generating DSP num_sum0, operation Mode is: PCIN+A*B.
+DSP Report: operator num_sum0 is absorbed into DSP num_sum0.
+DSP Report: operator num_sum6 is absorbed into DSP num_sum0.
+DSP Report: Generating DSP num_sum0, operation Mode is: PCIN+A*B.
+DSP Report: operator num_sum0 is absorbed into DSP num_sum0.
+DSP Report: operator num_sum7 is absorbed into DSP num_sum0.
+DSP Report: Generating DSP num_sum0, operation Mode is: PCIN+A*B.
+DSP Report: operator num_sum0 is absorbed into DSP num_sum0.
+DSP Report: operator num_sum8 is absorbed into DSP num_sum0.
+DSP Report: Generating DSP num_sum0, operation Mode is: PCIN+A*B.
+DSP Report: operator num_sum0 is absorbed into DSP num_sum0.
+DSP Report: operator num_sum9 is absorbed into DSP num_sum0.
+DSP Report: Generating DSP num_sum0, operation Mode is: PCIN+A*B.
+DSP Report: operator num_sum0 is absorbed into DSP num_sum0.
+DSP Report: operator num_sum10 is absorbed into DSP num_sum0.
+DSP Report: Generating DSP num_sum0, operation Mode is: PCIN+A*B.
+DSP Report: operator num_sum0 is absorbed into DSP num_sum0.
+DSP Report: operator num_sum11 is absorbed into DSP num_sum0.
+DSP Report: Generating DSP num_sum0, operation Mode is: PCIN+A*B.
+DSP Report: operator num_sum0 is absorbed into DSP num_sum0.
+DSP Report: operator num_sum12 is absorbed into DSP num_sum0.
+DSP Report: Generating DSP num_sum0, operation Mode is: PCIN+A*B.
+DSP Report: operator num_sum0 is absorbed into DSP num_sum0.
+DSP Report: operator num_sum13 is absorbed into DSP num_sum0.
+DSP Report: Generating DSP num_sum0, operation Mode is: PCIN+A*B.
+DSP Report: operator num_sum0 is absorbed into DSP num_sum0.
+DSP Report: operator num_sum14 is absorbed into DSP num_sum0.
+DSP Report: Generating DSP num_sum0, operation Mode is: PCIN+A*B.
+DSP Report: operator num_sum0 is absorbed into DSP num_sum0.
+DSP Report: operator num_sum15 is absorbed into DSP num_sum0.
+DSP Report: Generating DSP num_sum0, operation Mode is: PCIN+A*B.
+DSP Report: operator num_sum0 is absorbed into DSP num_sum0.
+DSP Report: operator num_sum16 is absorbed into DSP num_sum0.
+DSP Report: Generating DSP num_sum0, operation Mode is: PCIN+A*B.
+DSP Report: operator num_sum0 is absorbed into DSP num_sum0.
+DSP Report: operator num_sum17 is absorbed into DSP num_sum0.
+DSP Report: Generating DSP num_sum0, operation Mode is: PCIN+A*B.
+DSP Report: operator num_sum0 is absorbed into DSP num_sum0.
+DSP Report: operator num_sum18 is absorbed into DSP num_sum0.
+DSP Report: Generating DSP num_sum0, operation Mode is: PCIN+A*B.
+DSP Report: operator num_sum0 is absorbed into DSP num_sum0.
+DSP Report: operator num_sum19 is absorbed into DSP num_sum0.
+DSP Report: Generating DSP num_sum0, operation Mode is: PCIN+A*B.
+DSP Report: operator num_sum0 is absorbed into DSP num_sum0.
+DSP Report: operator num_sum20 is absorbed into DSP num_sum0.
+DSP Report: Generating DSP num_sum0, operation Mode is: PCIN+A*B.
+DSP Report: operator num_sum0 is absorbed into DSP num_sum0.
+DSP Report: operator num_sum21 is absorbed into DSP num_sum0.
+DSP Report: Generating DSP num_sum0, operation Mode is: PCIN+A*B.
+DSP Report: operator num_sum0 is absorbed into DSP num_sum0.
+DSP Report: operator num_sum22 is absorbed into DSP num_sum0.
+DSP Report: Generating DSP num_sum0, operation Mode is: PCIN+A*B.
+DSP Report: operator num_sum0 is absorbed into DSP num_sum0.
+DSP Report: operator num_sum23 is absorbed into DSP num_sum0.
+DSP Report: Generating DSP num_sum0, operation Mode is: PCIN+A*B.
+DSP Report: operator num_sum0 is absorbed into DSP num_sum0.
+DSP Report: operator num_sum24 is absorbed into DSP num_sum0.
+DSP Report: Generating DSP mul_result, operation Mode is: A*B.
+DSP Report: operator mul_result is absorbed into DSP mul_result.
+DSP Report: operator mul_result is absorbed into DSP mul_result.
+DSP Report: Generating DSP mul_result, operation Mode is: C+A*B.
+DSP Report: operator mul_result is absorbed into DSP mul_result.
+DSP Report: operator mul_result is absorbed into DSP mul_result.
+DSP Report: Generating DSP mul_b, operation Mode is: A*B.
+DSP Report: operator mul_b is absorbed into DSP mul_b.
+DSP Report: Generating DSP mul_g, operation Mode is: A*B.
+DSP Report: operator mul_g is absorbed into DSP mul_g.
+DSP Report: Generating DSP mul_r, operation Mode is: A*B.
+DSP Report: operator mul_r is absorbed into DSP mul_r.
+DSP Report: Generating DSP y_mul, operation Mode is: A*B.
+DSP Report: operator y_mul is absorbed into DSP y_mul.
+WARNING: [Synth 8-3917] design top has port cmos1_rst_n driven by constant 1
+WARNING: [Synth 8-3917] design top has port HDMI1_OEN driven by constant 1
+WARNING: [Synth 8-7129] Port M_AXI_BID[0] in module aq_axi_master is either unconnected or has no load
+WARNING: [Synth 8-7129] Port M_AXI_BRESP[1] in module aq_axi_master is either unconnected or has no load
+WARNING: [Synth 8-7129] Port M_AXI_BRESP[0] in module aq_axi_master is either unconnected or has no load
+WARNING: [Synth 8-7129] Port M_AXI_BUSER[0] in module aq_axi_master is either unconnected or has no load
+WARNING: [Synth 8-7129] Port M_AXI_RID[0] in module aq_axi_master is either unconnected or has no load
+WARNING: [Synth 8-7129] Port M_AXI_RRESP[1] in module aq_axi_master is either unconnected or has no load
+WARNING: [Synth 8-7129] Port M_AXI_RRESP[0] in module aq_axi_master is either unconnected or has no load
+WARNING: [Synth 8-7129] Port M_AXI_RUSER[0] in module aq_axi_master is either unconnected or has no load
+WARNING: [Synth 8-7129] Port aRst_n in module rgb2dvi is either unconnected or has no load
+WARNING: [Synth 8-7129] Port i2c_slave_dev_addr[0] in module i2c_master_top is either unconnected or has no load
+WARNING: [Synth 8-6849] Infeasible attribute ram_style = "block" set for RAM "fog_pipeline_m0/u_dark_channel/line0_reg",trying to implement using LUTRAM
+WARNING: [Synth 8-6849] Infeasible attribute ram_style = "block" set for RAM "fog_pipeline_m0/u_dark_channel/line0_reg",trying to implement using LUTRAM
+WARNING: [Synth 8-6849] Infeasible attribute ram_style = "block" set for RAM "fog_pipeline_m0/u_dark_channel/line1_reg",trying to implement using LUTRAM
+WARNING: [Synth 8-6849] Infeasible attribute ram_style = "block" set for RAM "fog_pipeline_m0/u_dark_channel/line1_reg",trying to implement using LUTRAM
+WARNING: [Synth 8-6849] Infeasible attribute ram_style = "block" set for RAM "fog_pipeline_m0/u_dark_channel/line2_reg",trying to implement using LUTRAM
+WARNING: [Synth 8-6849] Infeasible attribute ram_style = "block" set for RAM "fog_pipeline_m0/u_dark_channel/line2_reg",trying to implement using LUTRAM
+WARNING: [Synth 8-6849] Infeasible attribute ram_style = "block" set for RAM "fog_pipeline_m0/u_dark_channel/rline0_reg",trying to implement using LUTRAM
+WARNING: [Synth 8-6849] Infeasible attribute ram_style = "block" set for RAM "fog_pipeline_m0/u_dark_channel/gline0_reg",trying to implement using LUTRAM
+WARNING: [Synth 8-6849] Infeasible attribute ram_style = "block" set for RAM "fog_pipeline_m0/u_dark_channel/bline0_reg",trying to implement using LUTRAM
+WARNING: [Synth 8-6849] Infeasible attribute ram_style = "block" set for RAM "fog_pipeline_m0/u_gaussian_filter_t/lmem0_reg",trying to implement using LUTRAM
+WARNING: [Synth 8-6849] Infeasible attribute ram_style = "block" set for RAM "fog_pipeline_m0/u_gaussian_filter_t/lmem0_reg",trying to implement using LUTRAM
+WARNING: [Synth 8-6849] Infeasible attribute ram_style = "block" set for RAM "fog_pipeline_m0/u_gaussian_filter_t/lmem1_reg",trying to implement using LUTRAM
+WARNING: [Synth 8-6849] Infeasible attribute ram_style = "block" set for RAM "fog_pipeline_m0/u_gaussian_filter_t/lmem1_reg",trying to implement using LUTRAM
+WARNING: [Synth 8-6849] Infeasible attribute ram_style = "block" set for RAM "fog_pipeline_m0/u_gaussian_filter_t/lmem2_reg",trying to implement using LUTRAM
+WARNING: [Synth 8-6849] Infeasible attribute ram_style = "block" set for RAM "fog_pipeline_m0/u_gaussian_filter_t/lmem2_reg",trying to implement using LUTRAM
+WARNING: [Synth 8-6849] Infeasible attribute ram_style = "block" set for RAM "fog_pipeline_m0/u_gaussian_filter_t/rline0_reg",trying to implement using LUTRAM
+WARNING: [Synth 8-6849] Infeasible attribute ram_style = "block" set for RAM "fog_pipeline_m0/u_gaussian_filter_t/gline0_reg",trying to implement using LUTRAM
+WARNING: [Synth 8-6849] Infeasible attribute ram_style = "block" set for RAM "fog_pipeline_m0/u_gaussian_filter_t/bline0_reg",trying to implement using LUTRAM
+WARNING: [Synth 8-6849] Infeasible attribute ram_style = "block" set for RAM "fog_pipeline_m0/u_bilateral_filter_t/lmem0_reg",trying to implement using LUTRAM
+WARNING: [Synth 8-6849] Infeasible attribute ram_style = "block" set for RAM "fog_pipeline_m0/u_bilateral_filter_t/lmem0_reg",trying to implement using LUTRAM
+WARNING: [Synth 8-6849] Infeasible attribute ram_style = "block" set for RAM "fog_pipeline_m0/u_bilateral_filter_t/lmem1_reg",trying to implement using LUTRAM
+WARNING: [Synth 8-6849] Infeasible attribute ram_style = "block" set for RAM "fog_pipeline_m0/u_bilateral_filter_t/lmem1_reg",trying to implement using LUTRAM
+WARNING: [Synth 8-6849] Infeasible attribute ram_style = "block" set for RAM "fog_pipeline_m0/u_bilateral_filter_t/lmem2_reg",trying to implement using LUTRAM
+WARNING: [Synth 8-6849] Infeasible attribute ram_style = "block" set for RAM "fog_pipeline_m0/u_bilateral_filter_t/lmem2_reg",trying to implement using LUTRAM
+WARNING: [Synth 8-3332] Sequential element (lut_data_reg[29]) is unused and will be removed from module lut_ov5640_rgb565_1024_768.
+---------------------------------------------------------------------------------
+Finished Cross Boundary and Area Optimization : Time (s): cpu = 00:00:56 ; elapsed = 00:00:57 . Memory (MB): peak = 1640.543 ; gain = 814.480
+---------------------------------------------------------------------------------
+ Sort Area is  num_sum1_2 : 0 0 : 772 21190 : Used 1 time 0
+ Sort Area is  num_sum1_2 : 0 1 : 840 21190 : Used 1 time 0
+ Sort Area is  num_sum1_2 : 0 2 : 843 21190 : Used 1 time 0
+ Sort Area is  num_sum1_2 : 0 3 : 846 21190 : Used 1 time 0
+ Sort Area is  num_sum1_2 : 0 4 : 849 21190 : Used 1 time 0
+ Sort Area is  num_sum1_2 : 0 5 : 852 21190 : Used 1 time 0
+ Sort Area is  num_sum1_2 : 0 6 : 852 21190 : Used 1 time 0
+ Sort Area is  num_sum1_2 : 0 7 : 852 21190 : Used 1 time 0
+ Sort Area is  num_sum1_2 : 0 8 : 852 21190 : Used 1 time 0
+ Sort Area is  num_sum1_2 : 0 9 : 852 21190 : Used 1 time 0
+ Sort Area is  num_sum1_2 : 0 10 : 852 21190 : Used 1 time 0
+ Sort Area is  num_sum1_2 : 0 11 : 852 21190 : Used 1 time 0
+ Sort Area is  num_sum1_2 : 0 12 : 852 21190 : Used 1 time 0
+ Sort Area is  num_sum1_2 : 0 13 : 852 21190 : Used 1 time 0
+ Sort Area is  num_sum1_2 : 0 14 : 852 21190 : Used 1 time 0
+ Sort Area is  num_sum1_2 : 0 15 : 852 21190 : Used 1 time 0
+ Sort Area is  num_sum1_2 : 0 16 : 852 21190 : Used 1 time 0
+ Sort Area is  num_sum1_2 : 0 17 : 852 21190 : Used 1 time 0
+ Sort Area is  num_sum1_2 : 0 18 : 852 21190 : Used 1 time 0
+ Sort Area is  num_sum1_2 : 0 19 : 852 21190 : Used 1 time 0
+ Sort Area is  num_sum1_2 : 0 20 : 852 21190 : Used 1 time 0
+ Sort Area is  num_sum1_2 : 0 21 : 852 21190 : Used 1 time 0
+ Sort Area is  num_sum1_2 : 0 22 : 852 21190 : Used 1 time 0
+ Sort Area is  num_sum1_2 : 0 23 : 852 21190 : Used 1 time 0
+ Sort Area is  num_sum1_2 : 0 24 : 852 21190 : Used 1 time 0
+ Sort Area is  mul_result_a : 0 0 : 3288 3288 : Used 1 time 0
+ Sort Area is  mult_full_0 : 0 0 : 878 878 : Used 1 time 0
+ Sort Area is  mul_b_11 : 0 0 : 848 848 : Used 1 time 0
+ Sort Area is  mul_g_10 : 0 0 : 848 848 : Used 1 time 0
+ Sort Area is  mul_r_e : 0 0 : 848 848 : Used 1 time 0
+ Sort Area is  y_mul_12 : 0 0 : 719 719 : Used 1 time 0
+ Sort Area is  mul_result_c : 0 0 : 561 561 : Used 1 time 0
+---------------------------------------------------------------------------------
+Start ROM, RAM, DSP, Shift Register and Retiming Reporting
+---------------------------------------------------------------------------------
+
+ROM: Preliminary Mapping Report
++-------------------+-------------+---------------+----------------+
+|Module Name        | RTL Object  | Depth x Width | Implemented As | 
++-------------------+-------------+---------------+----------------+
+|transmission_map   | recip_lut   | 256x16        | LUT            | 
+|bilateral_filter_t | inv_lut     | 256x16        | LUT            | 
+|contrast_stretch   | recip_lut   | 256x13        | LUT            | 
+|transmission_map   | p_0_out     | 256x16        | LUT            | 
+|bilateral_filter_t | inv_den_reg | 256x16        | Block RAM      | 
+|contrast_stretch   | p_0_out     | 256x13        | LUT            | 
++-------------------+-------------+---------------+----------------+
+
+
+Block RAM: Preliminary Mapping Report (see note below)
++-------------------------------------+------------+------------------------+---+---+------------------------+---+---+------------------+--------+--------+
+|Module Name                          | RTL Object | PORT A (Depth x Width) | W | R | PORT B (Depth x Width) | W | R | Ports driving FF | RAMB18 | RAMB36 | 
++-------------------------------------+------------+------------------------+---+---+------------------------+---+---+------------------+--------+--------+
+|fog_pipeline_m0/u_dark_channel       | line3_reg  | 1 K x 8(READ_FIRST)    | W | R |                        |   |   | Port A           | 1      | 0      | 
+|fog_pipeline_m0/u_dark_channel       | rline1_reg | 1 K x 8(READ_FIRST)    | W | R |                        |   |   | Port A           | 1      | 0      | 
+|fog_pipeline_m0/u_dark_channel       | gline1_reg | 1 K x 8(READ_FIRST)    | W | R |                        |   |   | Port A           | 1      | 0      | 
+|fog_pipeline_m0/u_dark_channel       | bline1_reg | 1 K x 8(READ_FIRST)    | W | R |                        |   |   | Port A           | 1      | 0      | 
+|fog_pipeline_m0/u_gaussian_filter_t  | lmem3_reg  | 1 K x 8(READ_FIRST)    | W | R |                        |   |   | Port A           | 1      | 0      | 
+|fog_pipeline_m0/u_gaussian_filter_t  | rline1_reg | 1 K x 8(READ_FIRST)    | W | R |                        |   |   | Port A           | 1      | 0      | 
+|fog_pipeline_m0/u_gaussian_filter_t  | gline1_reg | 1 K x 8(READ_FIRST)    | W | R |                        |   |   | Port A           | 1      | 0      | 
+|fog_pipeline_m0/u_gaussian_filter_t  | bline1_reg | 1 K x 8(READ_FIRST)    | W | R |                        |   |   | Port A           | 1      | 0      | 
+|fog_pipeline_m0/u_bilateral_filter_t | lmem3_reg  | 1 K x 8(READ_FIRST)    | W | R |                        |   |   | Port A           | 1      | 0      | 
++-------------------------------------+------------+------------------------+---+---+------------------------+---+---+------------------+--------+--------+
+
+Note: The table above is a preliminary report that shows the Block RAMs at the current stage of the synthesis flow. Some Block RAMs may be reimplemented as non Block RAM primitives later in the synthesis flow. Multiple instantiated Block RAMs are reported only once. 
+
+Distributed RAM: Preliminary Mapping Report (see note below)
++-------------------------------------+------------+-----------+----------------------+-----------------+
+|Module Name                          | RTL Object | Inference | Size (Depth x Width) | Primitives      | 
++-------------------------------------+------------+-----------+----------------------+-----------------+
+|fog_pipeline_m0/u_dark_channel       | line0_reg  | Implied   | 1 K x 8              | RAM256X1S x 32  | 
+|fog_pipeline_m0/u_dark_channel       | line1_reg  | Implied   | 1 K x 8              | RAM256X1S x 32  | 
+|fog_pipeline_m0/u_dark_channel       | line2_reg  | Implied   | 1 K x 8              | RAM256X1S x 32  | 
+|fog_pipeline_m0/u_dark_channel       | rline0_reg | Implied   | 1 K x 8              | RAM256X1S x 32  | 
+|fog_pipeline_m0/u_dark_channel       | gline0_reg | Implied   | 1 K x 8              | RAM256X1S x 32  | 
+|fog_pipeline_m0/u_dark_channel       | bline0_reg | Implied   | 1 K x 8              | RAM256X1S x 32  | 
+|fog_pipeline_m0/u_gaussian_filter_t  | lmem0_reg  | Implied   | 1 K x 8              | RAM256X1S x 32  | 
+|fog_pipeline_m0/u_gaussian_filter_t  | lmem1_reg  | Implied   | 1 K x 8              | RAM256X1S x 32  | 
+|fog_pipeline_m0/u_gaussian_filter_t  | lmem2_reg  | Implied   | 1 K x 8              | RAM256X1S x 32  | 
+|fog_pipeline_m0/u_gaussian_filter_t  | rline0_reg | Implied   | 1 K x 8              | RAM256X1S x 32  | 
+|fog_pipeline_m0/u_gaussian_filter_t  | gline0_reg | Implied   | 1 K x 8              | RAM256X1S x 32  | 
+|fog_pipeline_m0/u_gaussian_filter_t  | bline0_reg | Implied   | 1 K x 8              | RAM256X1S x 32  | 
+|fog_pipeline_m0/u_bilateral_filter_t | lmem0_reg  | Implied   | 1 K x 8              | RAM256X1S x 32  | 
+|fog_pipeline_m0/u_bilateral_filter_t | lmem1_reg  | Implied   | 1 K x 8              | RAM256X1S x 32  | 
+|fog_pipeline_m0/u_bilateral_filter_t | lmem2_reg  | Implied   | 1 K x 8              | RAM256X1S x 32  | 
++-------------------------------------+------------+-----------+----------------------+-----------------+
+
+Note: The table above is a preliminary report that shows the Distributed RAMs at the current stage of the synthesis flow. Some Distributed RAMs may be reimplemented as non Distributed RAM primitives later in the synthesis flow. Multiple instantiated RAMs are reported only once.
+
+DSP: Preliminary Mapping Report (see note below. The ' indicates corresponding REG is set)
++-------------------+-------------+--------+--------+--------+--------+--------+------+------+------+------+-------+------+------+
+|Module Name        | DSP Mapping | A Size | B Size | C Size | D Size | P Size | AREG | BREG | CREG | DREG | ADREG | MREG | PREG | 
++-------------------+-------------+--------+--------+--------+--------+--------+------+------+------+------+-------+------+------+
+|transmission_map   | A*B         | 16     | 8      | -      | -      | 24     | 0    | 0    | -    | -    | -     | 0    | 0    | 
+|bilateral_filter_t | A*B         | 14     | 8      | -      | -      | 22     | 0    | 0    | -    | -    | -     | 0    | 0    | 
+|bilateral_filter_t | PCIN+A*B    | 14     | 8      | -      | -      | 23     | 0    | 0    | -    | -    | -     | 0    | 0    | 
+|bilateral_filter_t | PCIN+A*B    | 14     | 8      | -      | -      | 24     | 0    | 0    | -    | -    | -     | 0    | 0    | 
+|bilateral_filter_t | PCIN+A*B    | 14     | 8      | -      | -      | 25     | 0    | 0    | -    | -    | -     | 0    | 0    | 
+|bilateral_filter_t | PCIN+A*B    | 14     | 8      | -      | -      | 26     | 0    | 0    | -    | -    | -     | 0    | 0    | 
+|bilateral_filter_t | PCIN+A*B    | 14     | 8      | -      | -      | 27     | 0    | 0    | -    | -    | -     | 0    | 0    | 
+|bilateral_filter_t | PCIN+A*B    | 14     | 8      | -      | -      | 27     | 0    | 0    | -    | -    | -     | 0    | 0    | 
+|bilateral_filter_t | PCIN+A*B    | 14     | 8      | -      | -      | 27     | 0    | 0    | -    | -    | -     | 0    | 0    | 
+|bilateral_filter_t | PCIN+A*B    | 14     | 8      | -      | -      | 27     | 0    | 0    | -    | -    | -     | 0    | 0    | 
+|bilateral_filter_t | PCIN+A*B    | 14     | 8      | -      | -      | 27     | 0    | 0    | -    | -    | -     | 0    | 0    | 
+|bilateral_filter_t | PCIN+A*B    | 14     | 8      | -      | -      | 27     | 0    | 0    | -    | -    | -     | 0    | 0    | 
+|bilateral_filter_t | PCIN+A*B    | 14     | 8      | -      | -      | 27     | 0    | 0    | -    | -    | -     | 0    | 0    | 
+|bilateral_filter_t | PCIN+A*B    | 14     | 8      | -      | -      | 27     | 0    | 0    | -    | -    | -     | 0    | 0    | 
+|bilateral_filter_t | PCIN+A*B    | 14     | 8      | -      | -      | 27     | 0    | 0    | -    | -    | -     | 0    | 0    | 
+|bilateral_filter_t | PCIN+A*B    | 14     | 8      | -      | -      | 27     | 0    | 0    | -    | -    | -     | 0    | 0    | 
+|bilateral_filter_t | PCIN+A*B    | 14     | 8      | -      | -      | 27     | 0    | 0    | -    | -    | -     | 0    | 0    | 
+|bilateral_filter_t | PCIN+A*B    | 14     | 8      | -      | -      | 27     | 0    | 0    | -    | -    | -     | 0    | 0    | 
+|bilateral_filter_t | PCIN+A*B    | 14     | 8      | -      | -      | 27     | 0    | 0    | -    | -    | -     | 0    | 0    | 
+|bilateral_filter_t | PCIN+A*B    | 14     | 8      | -      | -      | 27     | 0    | 0    | -    | -    | -     | 0    | 0    | 
+|bilateral_filter_t | PCIN+A*B    | 14     | 8      | -      | -      | 27     | 0    | 0    | -    | -    | -     | 0    | 0    | 
+|bilateral_filter_t | PCIN+A*B    | 14     | 8      | -      | -      | 27     | 0    | 0    | -    | -    | -     | 0    | 0    | 
+|bilateral_filter_t | PCIN+A*B    | 14     | 8      | -      | -      | 27     | 0    | 0    | -    | -    | -     | 0    | 0    | 
+|bilateral_filter_t | PCIN+A*B    | 14     | 8      | -      | -      | 27     | 0    | 0    | -    | -    | -     | 0    | 0    | 
+|bilateral_filter_t | PCIN+A*B    | 14     | 8      | -      | -      | 27     | 0    | 0    | -    | -    | -     | 0    | 0    | 
+|bilateral_filter_t | PCIN+A*B    | 14     | 8      | -      | -      | 27     | 0    | 0    | -    | -    | -     | 0    | 0    | 
+|bilateral_filter_t | A*B         | 25     | 17     | -      | -      | 48     | 0    | 0    | -    | -    | -     | 0    | 0    | 
+|bilateral_filter_t | C+A*B       | 17     | 5      | 20     | -      | 20     | 0    | 0    | 0    | -    | -     | 0    | 0    | 
+|restoration        | A*B         | 14     | 9      | -      | -      | 23     | 0    | 0    | -    | -    | -     | 0    | 0    | 
+|restoration        | A*B         | 14     | 9      | -      | -      | 23     | 0    | 0    | -    | -    | -     | 0    | 0    | 
+|restoration        | A*B         | 14     | 9      | -      | -      | 23     | 0    | 0    | -    | -    | -     | 0    | 0    | 
+|contrast_stretch   | A*B         | 13     | 8      | -      | -      | 21     | 0    | 0    | -    | -    | -     | 0    | 0    | 
++-------------------+-------------+--------+--------+--------+--------+--------+------+------+------+------+-------+------+------+
+
+Note: The table above is a preliminary report that shows the DSPs inferred at the current stage of the synthesis flow. Some DSP may be reimplemented as non DSP primitives later in the synthesis flow. Multiple instantiated DSPs are reported only once.
+---------------------------------------------------------------------------------
+Finished ROM, RAM, DSP, Shift Register and Retiming Reporting
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Applying XDC Timing Constraints
+---------------------------------------------------------------------------------
+INFO: [Synth 8-5578] Moved timing constraint from pin 'clk_refm0/inst/clk_in1' to pin 'sys_clk_ibufg_i/O'
+INFO: [Synth 8-5819] Moved 1 constraints on hierarchical pins to their respective driving/loading pins
+---------------------------------------------------------------------------------
+Finished Applying XDC Timing Constraints : Time (s): cpu = 00:01:07 ; elapsed = 00:01:08 . Memory (MB): peak = 1800.336 ; gain = 974.273
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Timing Optimization
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Timing Optimization : Time (s): cpu = 00:01:10 ; elapsed = 00:01:11 . Memory (MB): peak = 1827.375 ; gain = 1001.312
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start ROM, RAM, DSP, Shift Register and Retiming Reporting
+---------------------------------------------------------------------------------
+
+Block RAM: Final Mapping Report
++-------------------------------------+------------+------------------------+---+---+------------------------+---+---+------------------+--------+--------+
+|Module Name                          | RTL Object | PORT A (Depth x Width) | W | R | PORT B (Depth x Width) | W | R | Ports driving FF | RAMB18 | RAMB36 | 
++-------------------------------------+------------+------------------------+---+---+------------------------+---+---+------------------+--------+--------+
+|fog_pipeline_m0/u_dark_channel       | line3_reg  | 1 K x 8(READ_FIRST)    | W | R |                        |   |   | Port A           | 1      | 0      | 
+|fog_pipeline_m0/u_dark_channel       | rline1_reg | 1 K x 8(READ_FIRST)    | W | R |                        |   |   | Port A           | 1      | 0      | 
+|fog_pipeline_m0/u_dark_channel       | gline1_reg | 1 K x 8(READ_FIRST)    | W | R |                        |   |   | Port A           | 1      | 0      | 
+|fog_pipeline_m0/u_dark_channel       | bline1_reg | 1 K x 8(READ_FIRST)    | W | R |                        |   |   | Port A           | 1      | 0      | 
+|fog_pipeline_m0/u_gaussian_filter_t  | lmem3_reg  | 1 K x 8(READ_FIRST)    | W | R |                        |   |   | Port A           | 1      | 0      | 
+|fog_pipeline_m0/u_gaussian_filter_t  | rline1_reg | 1 K x 8(READ_FIRST)    | W | R |                        |   |   | Port A           | 1      | 0      | 
+|fog_pipeline_m0/u_gaussian_filter_t  | gline1_reg | 1 K x 8(READ_FIRST)    | W | R |                        |   |   | Port A           | 1      | 0      | 
+|fog_pipeline_m0/u_gaussian_filter_t  | bline1_reg | 1 K x 8(READ_FIRST)    | W | R |                        |   |   | Port A           | 1      | 0      | 
+|fog_pipeline_m0/u_bilateral_filter_t | lmem3_reg  | 1 K x 8(READ_FIRST)    | W | R |                        |   |   | Port A           | 1      | 0      | 
++-------------------------------------+------------+------------------------+---+---+------------------------+---+---+------------------+--------+--------+
+
+
+Distributed RAM: Final Mapping Report
++-------------------------------------+------------+-----------+----------------------+-----------------+
+|Module Name                          | RTL Object | Inference | Size (Depth x Width) | Primitives      | 
++-------------------------------------+------------+-----------+----------------------+-----------------+
+|fog_pipeline_m0/u_dark_channel       | line0_reg  | Implied   | 1 K x 8              | RAM256X1S x 32  | 
+|fog_pipeline_m0/u_dark_channel       | line1_reg  | Implied   | 1 K x 8              | RAM256X1S x 32  | 
+|fog_pipeline_m0/u_dark_channel       | line2_reg  | Implied   | 1 K x 8              | RAM256X1S x 32  | 
+|fog_pipeline_m0/u_dark_channel       | rline0_reg | Implied   | 1 K x 8              | RAM256X1S x 32  | 
+|fog_pipeline_m0/u_dark_channel       | gline0_reg | Implied   | 1 K x 8              | RAM256X1S x 32  | 
+|fog_pipeline_m0/u_dark_channel       | bline0_reg | Implied   | 1 K x 8              | RAM256X1S x 32  | 
+|fog_pipeline_m0/u_gaussian_filter_t  | lmem0_reg  | Implied   | 1 K x 8              | RAM256X1S x 32  | 
+|fog_pipeline_m0/u_gaussian_filter_t  | lmem1_reg  | Implied   | 1 K x 8              | RAM256X1S x 32  | 
+|fog_pipeline_m0/u_gaussian_filter_t  | lmem2_reg  | Implied   | 1 K x 8              | RAM256X1S x 32  | 
+|fog_pipeline_m0/u_gaussian_filter_t  | rline0_reg | Implied   | 1 K x 8              | RAM256X1S x 32  | 
+|fog_pipeline_m0/u_gaussian_filter_t  | gline0_reg | Implied   | 1 K x 8              | RAM256X1S x 32  | 
+|fog_pipeline_m0/u_gaussian_filter_t  | bline0_reg | Implied   | 1 K x 8              | RAM256X1S x 32  | 
+|fog_pipeline_m0/u_bilateral_filter_t | lmem0_reg  | Implied   | 1 K x 8              | RAM256X1S x 32  | 
+|fog_pipeline_m0/u_bilateral_filter_t | lmem1_reg  | Implied   | 1 K x 8              | RAM256X1S x 32  | 
+|fog_pipeline_m0/u_bilateral_filter_t | lmem2_reg  | Implied   | 1 K x 8              | RAM256X1S x 32  | 
++-------------------------------------+------------+-----------+----------------------+-----------------+
+
+---------------------------------------------------------------------------------
+Finished ROM, RAM, DSP, Shift Register and Retiming Reporting
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Technology Mapping
+---------------------------------------------------------------------------------
+INFO: [Synth 8-7052] The timing for the instance fog_pipeline_m0/u_dark_channel/line3_reg (implemented as a Block RAM) might be sub-optimal as no optional output register could be merged into the ram block. Providing additional output register may help in improving timing.
+INFO: [Synth 8-7052] The timing for the instance fog_pipeline_m0/u_dark_channel/rline1_reg (implemented as a Block RAM) might be sub-optimal as no optional output register could be merged into the ram block. Providing additional output register may help in improving timing.
+INFO: [Synth 8-7052] The timing for the instance fog_pipeline_m0/u_dark_channel/gline1_reg (implemented as a Block RAM) might be sub-optimal as no optional output register could be merged into the ram block. Providing additional output register may help in improving timing.
+INFO: [Synth 8-7052] The timing for the instance fog_pipeline_m0/u_dark_channel/bline1_reg (implemented as a Block RAM) might be sub-optimal as no optional output register could be merged into the ram block. Providing additional output register may help in improving timing.
+INFO: [Synth 8-7052] The timing for the instance fog_pipeline_m0/u_gaussian_filter_t/rline1_reg (implemented as a Block RAM) might be sub-optimal as no optional output register could be merged into the ram block. Providing additional output register may help in improving timing.
+INFO: [Synth 8-7052] The timing for the instance fog_pipeline_m0/u_gaussian_filter_t/gline1_reg (implemented as a Block RAM) might be sub-optimal as no optional output register could be merged into the ram block. Providing additional output register may help in improving timing.
+INFO: [Synth 8-7052] The timing for the instance fog_pipeline_m0/u_gaussian_filter_t/bline1_reg (implemented as a Block RAM) might be sub-optimal as no optional output register could be merged into the ram block. Providing additional output register may help in improving timing.
+INFO: [Synth 8-7052] The timing for the instance fog_pipeline_m0/u_bilateral_filter_t/inv_den_reg (implemented as a Block RAM) might be sub-optimal as no optional output register could be merged into the ram block. Providing additional output register may help in improving timing.
+---------------------------------------------------------------------------------
+Finished Technology Mapping : Time (s): cpu = 00:01:15 ; elapsed = 00:01:16 . Memory (MB): peak = 1885.730 ; gain = 1059.668
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start IO Insertion
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Flattening Before IO Insertion
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Flattening Before IO Insertion
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Final Netlist Cleanup
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Final Netlist Cleanup
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished IO Insertion : Time (s): cpu = 00:01:23 ; elapsed = 00:01:25 . Memory (MB): peak = 2075.773 ; gain = 1249.711
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Renaming Generated Instances
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Renaming Generated Instances : Time (s): cpu = 00:01:23 ; elapsed = 00:01:25 . Memory (MB): peak = 2075.773 ; gain = 1249.711
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Rebuilding User Hierarchy
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Rebuilding User Hierarchy : Time (s): cpu = 00:01:24 ; elapsed = 00:01:26 . Memory (MB): peak = 2075.773 ; gain = 1249.711
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Renaming Generated Ports
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Renaming Generated Ports : Time (s): cpu = 00:01:24 ; elapsed = 00:01:26 . Memory (MB): peak = 2075.773 ; gain = 1249.711
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Handling Custom Attributes
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Handling Custom Attributes : Time (s): cpu = 00:01:24 ; elapsed = 00:01:26 . Memory (MB): peak = 2078.812 ; gain = 1252.750
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Renaming Generated Nets
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Renaming Generated Nets : Time (s): cpu = 00:01:24 ; elapsed = 00:01:26 . Memory (MB): peak = 2078.812 ; gain = 1252.750
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start ROM, RAM, DSP, Shift Register and Retiming Reporting
+---------------------------------------------------------------------------------
+
+Static Shift Register Report:
++------------+-------------------------------------------------+--------+-------+--------------+--------------------+-------------------+--------+---------+
+|Module Name | RTL Name                                        | Length | Width | Reset Signal | Pull out first Reg | Pull out last Reg | SRL16E | SRLC32E | 
++------------+-------------------------------------------------+--------+-------+--------------+--------------------+-------------------+--------+---------+
+|top         | fog_pipeline_m0/u_dark_channel/r_s9_reg[7]      | 6      | 8     | YES          | NO                 | YES               | 8      | 0       | 
+|top         | fog_pipeline_m0/u_dark_channel/g_s9_reg[7]      | 6      | 8     | YES          | NO                 | YES               | 8      | 0       | 
+|top         | fog_pipeline_m0/u_dark_channel/b_s9_reg[7]      | 6      | 8     | YES          | NO                 | YES               | 8      | 0       | 
+|top         | fog_pipeline_m0/u_dark_channel/vs_s9_reg        | 4      | 1     | YES          | NO                 | YES               | 1      | 0       | 
+|top         | fog_pipeline_m0/u_dark_channel/de_s9_reg        | 4      | 1     | YES          | NO                 | YES               | 1      | 0       | 
+|top         | fog_pipeline_m0/u_gaussian_filter_t/r_d0_reg[7] | 5      | 8     | YES          | NO                 | YES               | 8      | 0       | 
+|top         | fog_pipeline_m0/u_gaussian_filter_t/g_d0_reg[7] | 5      | 8     | YES          | NO                 | YES               | 8      | 0       | 
+|top         | fog_pipeline_m0/u_gaussian_filter_t/b_d0_reg[7] | 5      | 8     | YES          | NO                 | YES               | 8      | 0       | 
+|top         | fog_pipeline_m0/u_restoration/b_s1_reg[7]       | 10     | 8     | YES          | NO                 | YES               | 8      | 0       | 
+|top         | fog_pipeline_m0/u_restoration/g_s1_reg[7]       | 10     | 8     | YES          | NO                 | YES               | 8      | 0       | 
+|top         | fog_pipeline_m0/u_restoration/r_s1_reg[7]       | 10     | 8     | YES          | NO                 | YES               | 8      | 0       | 
+|top         | fog_pipeline_m0/u_restoration/vs_out_reg        | 10     | 1     | YES          | NO                 | YES               | 1      | 0       | 
+|top         | fog_pipeline_m0/u_restoration/de_out_reg        | 10     | 1     | YES          | NO                 | YES               | 1      | 0       | 
+|top         | fog_pipeline_m0/u_gaussian_filter_t/vs_s1_reg   | 5      | 1     | YES          | NO                 | YES               | 1      | 0       | 
+|top         | fog_pipeline_m0/u_gaussian_filter_t/de_s1_reg   | 5      | 1     | YES          | NO                 | YES               | 1      | 0       | 
+|top         | fog_pipeline_m0/u_restoration/ab_s1_reg[7]      | 15     | 8     | YES          | NO                 | YES               | 8      | 0       | 
+|top         | fog_pipeline_m0/u_restoration/ag_s1_reg[7]      | 15     | 8     | YES          | NO                 | YES               | 8      | 0       | 
+|top         | fog_pipeline_m0/u_restoration/ar_s1_reg[7]      | 15     | 8     | YES          | NO                 | YES               | 8      | 0       | 
++------------+-------------------------------------------------+--------+-------+--------------+--------------------+-------------------+--------+---------+
+
+---------------------------------------------------------------------------------
+Finished ROM, RAM, DSP, Shift Register and Retiming Reporting
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Writing Synthesis Report
+---------------------------------------------------------------------------------
+
+DSP Final Report (the ' indicates corresponding REG is set)
++-------------------+-------------+--------+--------+--------+--------+--------+------+------+------+------+-------+------+------+
+|Module Name        | DSP Mapping | A Size | B Size | C Size | D Size | P Size | AREG | BREG | CREG | DREG | ADREG | MREG | PREG | 
++-------------------+-------------+--------+--------+--------+--------+--------+------+------+------+------+-------+------+------+
+|bilateral_filter_t | A*B         | 8      | 8      | -      | -      | 22     | 0    | 0    | -    | -    | -     | 0    | 0    | 
+|bilateral_filter_t | PCIN+A*B    | 8      | 8      | -      | -      | 23     | 0    | 0    | -    | -    | -     | 0    | 0    | 
+|bilateral_filter_t | PCIN+A*B    | 10     | 8      | -      | -      | 24     | 0    | 0    | -    | -    | -     | 0    | 0    | 
+|bilateral_filter_t | PCIN+A*B    | 11     | 8      | -      | -      | 25     | 0    | 0    | -    | -    | -     | 0    | 0    | 
+|bilateral_filter_t | PCIN+A*B    | 10     | 8      | -      | -      | 26     | 0    | 0    | -    | -    | -     | 0    | 0    | 
+|bilateral_filter_t | PCIN+A*B    | 8      | 8      | -      | -      | 27     | 0    | 0    | -    | -    | -     | 0    | 0    | 
+|bilateral_filter_t | PCIN+A*B    | 10     | 8      | -      | -      | 27     | 0    | 0    | -    | -    | -     | 0    | 0    | 
+|bilateral_filter_t | PCIN+A*B    | 12     | 8      | -      | -      | 27     | 0    | 0    | -    | -    | -     | 0    | 0    | 
+|bilateral_filter_t | PCIN+A*B    | 13     | 8      | -      | -      | 27     | 0    | 0    | -    | -    | -     | 0    | 0    | 
+|bilateral_filter_t | PCIN+A*B    | 12     | 8      | -      | -      | 27     | 0    | 0    | -    | -    | -     | 0    | 0    | 
+|bilateral_filter_t | PCIN+A*B    | 10     | 8      | -      | -      | 27     | 0    | 0    | -    | -    | -     | 0    | 0    | 
+|bilateral_filter_t | PCIN+A*B    | 11     | 8      | -      | -      | 27     | 0    | 0    | -    | -    | -     | 0    | 0    | 
+|bilateral_filter_t | PCIN+A*B    | 13     | 8      | -      | -      | 27     | 0    | 0    | -    | -    | -     | 0    | 0    | 
+|bilateral_filter_t | PCIN+A*B    | 14     | 8      | -      | -      | 27     | 0    | 0    | -    | -    | -     | 0    | 0    | 
+|bilateral_filter_t | PCIN+A*B    | 13     | 8      | -      | -      | 27     | 0    | 0    | -    | -    | -     | 0    | 0    | 
+|bilateral_filter_t | PCIN+A*B    | 11     | 8      | -      | -      | 27     | 0    | 0    | -    | -    | -     | 0    | 0    | 
+|bilateral_filter_t | PCIN+A*B    | 10     | 8      | -      | -      | 27     | 0    | 0    | -    | -    | -     | 0    | 0    | 
+|bilateral_filter_t | PCIN+A*B    | 12     | 8      | -      | -      | 27     | 0    | 0    | -    | -    | -     | 0    | 0    | 
+|bilateral_filter_t | PCIN+A*B    | 13     | 8      | -      | -      | 27     | 0    | 0    | -    | -    | -     | 0    | 0    | 
+|bilateral_filter_t | PCIN+A*B    | 12     | 8      | -      | -      | 27     | 0    | 0    | -    | -    | -     | 0    | 0    | 
+|bilateral_filter_t | PCIN+A*B    | 10     | 8      | -      | -      | 27     | 0    | 0    | -    | -    | -     | 0    | 0    | 
+|bilateral_filter_t | PCIN+A*B    | 8      | 8      | -      | -      | 27     | 0    | 0    | -    | -    | -     | 0    | 0    | 
+|bilateral_filter_t | PCIN+A*B    | 10     | 8      | -      | -      | 27     | 0    | 0    | -    | -    | -     | 0    | 0    | 
+|bilateral_filter_t | PCIN+A*B    | 11     | 8      | -      | -      | 27     | 0    | 0    | -    | -    | -     | 0    | 0    | 
+|bilateral_filter_t | (PCIN+A*B)' | 10     | 8      | -      | -      | 27     | 0    | 0    | -    | -    | -     | 0    | 1    | 
+|bilateral_filter_t | A*B         | 24     | 16     | -      | -      | 48     | 0    | 0    | -    | -    | -     | 0    | 0    | 
+|bilateral_filter_t | C+A*B       | 16     | 3      | 48     | -      | 20     | 0    | 0    | 0    | -    | -     | 0    | 0    | 
+|contrast_stretch   | A*B         | 13     | 8      | -      | -      | 21     | 0    | 0    | -    | -    | -     | 0    | 0    | 
+|restoration        | (A*B)'      | 13     | 18     | -      | -      | 23     | 0    | 0    | -    | -    | -     | 0    | 1    | 
+|restoration        | (A*B)'      | 13     | 18     | -      | -      | 23     | 0    | 0    | -    | -    | -     | 0    | 1    | 
+|restoration        | (A*B)'      | 13     | 18     | -      | -      | 23     | 0    | 0    | -    | -    | -     | 0    | 1    | 
+|transmission_map   | A*B         | 16     | 8      | -      | -      | 24     | 0    | 0    | -    | -    | -     | 0    | 0    | 
++-------------------+-------------+--------+--------+--------+--------+--------+------+------+------+------+-------+------+------+
+
+
+Report BlackBoxes: 
++------+------------------------------------+----------+
+|      |BlackBox name                       |Instances |
++------+------------------------------------+----------+
+|1     |video_pll                           |         1|
+|2     |ddr3                                |         1|
+|3     |design_1_AXI_BayerToRGB_0_2         |         1|
+|4     |design_1_axis_subset_converter_0_0  |         1|
+|5     |design_1_mipi_csi2_rx_subsystem_0_0 |         1|
+|6     |design_1_pixel_counter_0_0          |         1|
+|7     |design_1_system_ila_0_0             |         1|
+|8     |afifo_16i_64o_512                   |         1|
+|9     |afifo_64i_16o_128                   |         1|
++------+------------------------------------+----------+
+
+Report Cell Usage: 
++------+----------------------------------+------+
+|      |Cell                              |Count |
++------+----------------------------------+------+
+|1     |afifo_16i_64o                     |     1|
+|2     |afifo_64i_16o                     |     1|
+|3     |ddr3                              |     1|
+|4     |design_1_AXI_BayerToRGB_0         |     1|
+|5     |design_1_axis_subset_converter_0  |     1|
+|6     |design_1_mipi_csi2_rx_subsystem_0 |     1|
+|7     |design_1_pixel_counter_0          |     1|
+|8     |design_1_system_ila_0             |     1|
+|9     |video_pll                         |     1|
+|10    |BUFG                              |     3|
+|11    |CARRY4                            |   427|
+|12    |DSP48E1                           |    32|
+|15    |LUT1                              |   121|
+|16    |LUT2                              |  1060|
+|17    |LUT3                              |   522|
+|18    |LUT4                              |   809|
+|19    |LUT5                              |   527|
+|20    |LUT6                              |   801|
+|21    |MMCME2_ADV                        |     1|
+|22    |MUXF7                             |    65|
+|23    |MUXF8                             |    21|
+|24    |OSERDESE2                         |     8|
+|26    |RAM256X1S                         |   448|
+|27    |RAMB18E1                          |    10|
+|30    |SRL16E                            |   102|
+|31    |FDCE                              |  1836|
+|32    |FDPE                              |   181|
+|33    |FDRE                              |   492|
+|34    |FDSE                              |    23|
+|35    |LD                                |    25|
+|36    |IBUF                              |    12|
+|37    |IBUFG                             |     1|
+|38    |IOBUF                             |     2|
+|39    |OBUF                              |     6|
+|40    |OBUFDS                            |     4|
++------+----------------------------------+------+
+---------------------------------------------------------------------------------
+Finished Writing Synthesis Report : Time (s): cpu = 00:01:24 ; elapsed = 00:01:26 . Memory (MB): peak = 2078.812 ; gain = 1252.750
+---------------------------------------------------------------------------------
+Synthesis finished with 0 errors, 0 critical warnings and 38 warnings.
+Synthesis Optimization Runtime : Time (s): cpu = 00:01:06 ; elapsed = 00:01:20 . Memory (MB): peak = 2078.812 ; gain = 1186.723
+Synthesis Optimization Complete : Time (s): cpu = 00:01:24 ; elapsed = 00:01:26 . Memory (MB): peak = 2078.812 ; gain = 1252.750
+INFO: [Project 1-571] Translating synthesized netlist
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.161 . Memory (MB): peak = 2083.973 ; gain = 0.000
+INFO: [Netlist 29-17] Analyzing 1036 Unisim elements for replacement
+WARNING: [Netlist 29-432] The IBUFG primitive 'sys_clk_ibufg_i' has been retargeted to an IBUF primitive only. No BUFG will be added. If a global buffer is intended, please instantiate an available global clock primitive from the current architecture.
+INFO: [Netlist 29-28] Unisim Transformation completed in 1 CPU seconds
+INFO: [Project 1-570] Preparing netlist for logic optimization
+WARNING: [Opt 31-35] Removing redundant IBUF, clk_refm0/inst/clkin1_ibufg, from the path connected to top-level port: sys_clk 
+Resolution: The tool has removed redundant IBUF. To resolve this warning, check for redundant IBUF in the input design.
+INFO: [Opt 31-138] Pushed 0 inverter(s) to 0 load pin(s).
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.010 . Memory (MB): peak = 2091.602 ; gain = 0.000
+INFO: [Project 1-111] Unisim Transformation Summary:
+  A total of 476 instances were transformed.
+  IBUFG => IBUF: 1 instance 
+  IOBUF => IOBUF (IBUF, OBUFT): 2 instances
+  LD => LDCE: 25 instances
+  RAM256X1S => RAM256X1S (MUXF7(x2), MUXF8, RAMS64E(x4)): 448 instances
+
+Synth Design complete | Checksum: 2e6ad110
+INFO: [Common 17-83] Releasing license: Synthesis
+152 Infos, 120 Warnings, 0 Critical Warnings and 0 Errors encountered.
+synth_design completed successfully
+synth_design: Time (s): cpu = 00:01:34 ; elapsed = 00:01:39 . Memory (MB): peak = 2091.602 ; gain = 1458.828
+Write ShapeDB Complete: Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.042 . Memory (MB): peak = 2091.602 ; gain = 0.000
+INFO: [Common 17-1381] The checkpoint 'F:/facultate/licenta/fog_scratch2/vivado/fog_rectification.runs/synth_1/top.dcp' has been generated.
+INFO: [Vivado 12-24828] Executing command : report_utilization -file top_utilization_synth.rpt -pb top_utilization_synth.pb
+INFO: [Common 17-206] Exiting Vivado at Sat Jun 13 10:09:26 2026...

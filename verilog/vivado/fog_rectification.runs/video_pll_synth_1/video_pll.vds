@@ -1,0 +1,30 @@
+#-----------------------------------------------------------
+# Vivado v2025.2 (64-bit)
+# SW Build 6299465 on Fri Nov 14 19:35:11 GMT 2025
+# IP Build 6300035 on Fri Nov 14 10:48:45 MST 2025
+# SharedData Build 6298862 on Thu Nov 13 04:50:51 MST 2025
+# Start of session at: Sat May 23 14:24:48 2026
+# Process ID         : 3320
+# Current directory  : F:/facultate/licenta/fog_scratch2/vivado/fog_rectification.runs/video_pll_synth_1
+# Command line       : vivado.exe -log video_pll.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source video_pll.tcl
+# Log file           : F:/facultate/licenta/fog_scratch2/vivado/fog_rectification.runs/video_pll_synth_1/video_pll.vds
+# Journal file       : F:/facultate/licenta/fog_scratch2/vivado/fog_rectification.runs/video_pll_synth_1\vivado.jou
+# Running On         : DESKTOP-9LEFS2P
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 19045
+# Processor Detail   : AMD Ryzen 5 5500U with Radeon Graphics         
+# CPU Frequency      : 2096 MHz
+# CPU Physical cores : 6
+# CPU Logical cores  : 12
+# Host memory        : 6256 MB
+# Swap memory        : 13642 MB
+# Total Virtual      : 19898 MB
+# Available Virtual  : 8150 MB
+#-----------------------------------------------------------
+source video_pll.tcl -notrace
+create_project: Time (s): cpu = 00:00:18 ; elapsed = 00:00:12 . Memory (MB): peak = 524.992 ; gain = 219.020
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1700] Loaded user IP repository 'f:/facultate/licenta/fog_scratch2/vivado-library-master/vivado-library-master'.
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'F:/AMDDesignTools/2025.2/Vivado/data/ip'.
+INFO: [IP_Flow 19-4838] Using cached IP synthesis design for IP video_pll, cache-ID = 8786d0137e567221.
+INFO: [Common 17-206] Exiting Vivado at Sat May 23 14:25:09 2026...

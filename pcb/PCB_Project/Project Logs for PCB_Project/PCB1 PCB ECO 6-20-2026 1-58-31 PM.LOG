@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=FPGA_M1 Pin=C21-1
+Removed Pin From Net: NetName=VCCIO Pin=C21-2
+Change Component Footprint: Designator=C20 Old Footprint=FP-GR442Q-0_3-MFG New Footprint=CAPC2013X145X48NL20T23
+Change Component Footprint: Designator=C21 Old Footprint=FP-GR442Q-0_3-MFG New Footprint=CAPC2013X145X48NL20T23
+Change Component Footprint: Designator=C22 Old Footprint=FP-GR442Q-0_3-MFG New Footprint=CAPC2013X145X48NL20T23
+Change Component Comment : Designator=C20 Old Comment=GR442QR73D121KW01K New Comment=VJ0805Y152KXAAC
+Change Component Comment : Designator=C21 Old Comment=GR442QR73D121KW01K New Comment=VJ0805Y152KXAAC
+Change Component Comment : Designator=C22 Old Comment=GR442QR73D121KW01K New Comment=VJ0805Y152KXAAC
+Change Managed Component Library Link : Designator=C20 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=62AEC18D-ADBE-46B3-95DE-EF8AE64218FB New ItemGUID=B31CF84F-39A1-4EC1-A83A-E769DB06ACDA Old RevisionGUID=D39E7641-1F0C-403F-B61C-8B29089BCFB5 New RevisionGUID=30FAA0EB-2BEE-4EBD-A88A-418386E6222D
+Change Managed Component Library Link : Designator=C21 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=62AEC18D-ADBE-46B3-95DE-EF8AE64218FB New ItemGUID=B31CF84F-39A1-4EC1-A83A-E769DB06ACDA Old RevisionGUID=D39E7641-1F0C-403F-B61C-8B29089BCFB5 New RevisionGUID=30FAA0EB-2BEE-4EBD-A88A-418386E6222D
+Change Managed Component Library Link : Designator=C22 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=62AEC18D-ADBE-46B3-95DE-EF8AE64218FB New ItemGUID=B31CF84F-39A1-4EC1-A83A-E769DB06ACDA Old RevisionGUID=D39E7641-1F0C-403F-B61C-8B29089BCFB5 New RevisionGUID=30FAA0EB-2BEE-4EBD-A88A-418386E6222D
+Change component parameters: Designator = "C20" ("C20"); Footprint = "FP-GR442Q-0_3-MFG"; UniqueID = "\IAVLUXZE" ("\IAVLUXZE")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vitramon"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "VJ0805Y152KXAAC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C21" ("C21"); Footprint = "FP-GR442Q-0_3-MFG"; UniqueID = "\CAVMMQWW" ("\CAVMMQWW")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vitramon"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "VJ0805Y152KXAAC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C22" ("C22"); Footprint = "FP-GR442Q-0_3-MFG"; UniqueID = "\VQUFUWPW" ("\VQUFUWPW")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vitramon"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "VJ0805Y152KXAAC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCCIO Pin=C21-1
+Added Pin To Net: NetName=FPGA_M1 Pin=C21-2
+Add Pin To Net: Unknown Pin: Pin TP1-1
+Add Pin To Net: Unknown Pin: Pin TP2-1
+Add Pin To Net: Unknown Pin: Pin TP3-1
+Add Pin To Net: Unknown Pin: Pin TP4-1
+Add Class Member: Failed to add class member : Component TP1 testpoint
+Add Class Member: Failed to add class member : Component TP2 testpoint
+Add Class Member: Failed to add class member : Component TP3 testpoint
+Add Class Member: Failed to add class member : Component TP4 testpoint

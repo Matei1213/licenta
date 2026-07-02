@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2025.2 (64-bit)
+# SW Build 6299465 on Fri Nov 14 19:35:11 GMT 2025
+# IP Build 6300035 on Fri Nov 14 10:48:45 MST 2025
+# SharedData Build 6298862 on Thu Nov 13 04:50:51 MST 2025
+# Start of session at: Sat May 23 14:24:48 2026
+# Process ID         : 10616
+# Current directory  : F:/facultate/licenta/fog_scratch2/vivado/fog_rectification.runs/ddr3_synth_1
+# Command line       : vivado.exe -log ddr3.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source ddr3.tcl
+# Log file           : F:/facultate/licenta/fog_scratch2/vivado/fog_rectification.runs/ddr3_synth_1/ddr3.vds
+# Journal file       : F:/facultate/licenta/fog_scratch2/vivado/fog_rectification.runs/ddr3_synth_1\vivado.jou
+# Running On         : DESKTOP-9LEFS2P
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 19045
+# Processor Detail   : AMD Ryzen 5 5500U with Radeon Graphics         
+# CPU Frequency      : 2096 MHz
+# CPU Physical cores : 6
+# CPU Logical cores  : 12
+# Host memory        : 6256 MB
+# Swap memory        : 13642 MB
+# Total Virtual      : 19898 MB
+# Available Virtual  : 8120 MB
+#-----------------------------------------------------------
+source ddr3.tcl -notrace
